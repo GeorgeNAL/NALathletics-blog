@@ -1,0 +1,15 @@
+<section class="breadcrumb-area overlay" data-background="{% if page.page_header_image %} {{ page.page_header_image }} {% else %}{{site.cover_image}} {% endif %}">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="breadcrumb-text text-center">
+                    <h1 class="text-white text-capitalize">{{page.title}}</h1>
+                    <ul class="breadcrumb-menu">
+                        <li><a href="{{site.url}}">home</a></li>
+                        <li><span>{{page.title}}</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

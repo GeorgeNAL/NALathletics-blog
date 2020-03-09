@@ -1,0 +1,36 @@
+<!-- slider-area start -->
+<section class="slider-area pos-relative">
+    <div class="slider-active">
+     {% for slider_data in site.slider_posts %}
+       
+        <div class="single-slider slide-1-style slide-height d-flex align-items-center" data-background="{{slider_data.post_image}}">
+            {% if slider_data.background_text %}
+            <div class="shape-title bounce-animate">
+                <h2>{{slider_data.background_text}}</h2>
+            </div>
+            {% endif %}
+            <div class="shape-icon bounce-animate">
+                <img src="/assets/img/slider/shape-icon.png" alt="slider">
+            </div>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xl-7">
+                        <div class="slide-content">
+                            {% if slider_data.post_sub_title %}
+                             <span data-animation="fadeInRight" data-delay=".2s">{{slider_data.post_sub_title}}</span>
+                            {% endif %}
+                            {% if slider_data.post_title %}
+                              <h1 data-animation="fadeInUp" data-delay=".5s">{{slider_data.post_title}}</h1>
+                             {% endif %}
+                            <div class="slide-btn">
+                               <a class="btn theme-btn" href="{{slider_data.url}}" data-animation="fadeInLeft" data-delay=".7s">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       {% endfor %}
+    </div>
+</section>
+<!-- slider-area end -->

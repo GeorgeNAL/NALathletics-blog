@@ -1,0 +1,11 @@
+- promotion_info:
+    collection_url: "#"
+    collection_image: "/assets/img/banner/banner-1/banner1.jpg"
+
+- promotion_info:
+    collection_url: "#"
+    collection_image: "/assets/img/banner/banner-1/banner2.jpg"
+
+- promotion_info:
+    collection_url: "#"
+    collection_image: "/assets/img/banner/banner-1/banner3.jpg"

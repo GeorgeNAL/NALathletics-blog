@@ -1,0 +1,47 @@
+<div class="pro-item">
+    <div class="product-wrapper mb-50">
+        <div class="product-img mb-25">
+            <a href="{{products.product_url}}">
+                <img src="{{products.image_one}}" alt="{{products.title}}">
+                <img class="secondary-img" src="{{products.image_two}}" alt="{{products.title}}">
+            </a>
+            <div class="product-action text-center">
+                <a href="{{products.product_url}}" title="Shoppingb Cart">
+                    <i class="flaticon-shopping-cart"></i>
+                </a>
+                <a href="{{products.product_url}}" title="Quick View">
+                    <i class="flaticon-eye"></i>
+                </a>
+                <a href="{{products.product_url}}" data-toggle="tooltip" data-placement="right" title="Compare">
+                    <i class="flaticon-compare"></i>
+                </a>
+            </div>
+            <div class="sale-tag">
+                {%if products.badge_one_text %}
+                  <span class="new">{{products.badge_one_text}}</span>
+                {% endif %}
+                {%if products.badge_two_text %}
+                  <span class="sale">{{products.badge_two_text}}</span>
+                {% endif %}
+            </div>
+        </div>
+        <div class="product-content">
+            <div class="pro-cat mb-10">
+                <a href="{{products.product_url}}">decor, </a>
+                <a href="{{products.product_url}}">furniture</a>
+            </div>
+            <h4>
+                <a href="{{products.product_url}}">{{products.title}}</a>
+            </h4>
+            <div class="product-meta">
+                <div class="pro-price">
+                    <span>$119.00 USD</span>
+                    <span class="old-price">$230.00 USD</span>
+                </div>
+            </div>
+            <div class="product-wishlist">
+                <a href="{{products.product_url}}"><i class="far fa-heart" title="Wishlist"></i></a>
+            </div>
+        </div>
+    </div>
+</div>

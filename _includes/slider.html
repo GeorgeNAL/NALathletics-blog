@@ -1,0 +1,41 @@
+<!-- slider-area start -->
+<section class="slider-area pos-relative">
+    <div class="slider-active">
+     {% for slider in site.data.slider %}
+       {% assign slider_data = slider.slider_info %}
+        <div class="single-slider slide-1-style slide-height d-flex align-items-center" data-background="{{slider_data.slider_image}}">
+            {% if slider_data.background_text %}
+            <div class="shape-title bounce-animate">
+                <h2>{{slider_data.background_text}}</h2>
+            </div>
+            {% endif %}
+            <div class="shape-icon bounce-animate">
+                <img src="/assets/img/slider/shape-icon.png" alt="slider">
+            </div>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xl-7">
+                        <div class="slide-content">
+                            {% if slider_data.slider_sub_title %}
+                             <span data-animation="fadeInRight" data-delay=".2s">{{slider_data.slider_sub_title}}</span>
+                            {% endif %}
+                            {% if slider_data.slider_title %}
+                              <h1 data-animation="fadeInUp" data-delay=".5s">{{slider_data.slider_title}}</h1>
+                             {% endif %}
+                            <div class="slide-btn">
+                                {% if slider_data.buy_btn_text %}
+                                 <a class="btn theme-btn" href="{{slider_data.buy_btn_url}}" data-animation="fadeInLeft" data-delay=".7s">{{slider_data.buy_btn_text}}</a>
+                                {% endif %}
+                                {% if slider_data.category_btn_text %}
+                                <a class="btn white-btn" href="{{slider_data.category_btn_url}}" data-animation="fadeInRight" data-delay=".9s">{{slider_data.category_btn_text}}</a>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       {% endfor %}
+    </div>
+</section>
+<!-- slider-area end -->

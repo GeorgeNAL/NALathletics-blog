@@ -1,0 +1,100 @@
+<div class="widget mb-40">
+    <div class="widget-title-box mb-30">
+        <span class="animate-border"></span>
+        <h3 class="widget-title">{{site.author.title}}</h3>
+    </div>
+    <div class="about-me text-center">
+        <img src="/assets/img/blog/details/me.png" alt="">
+        <h4>{{site.author.name}}</h4>
+        <p>{{site.author.bio}}</p>
+        <div class="widget-social-icon">
+         {% if site.author.facebook_url %}
+          <a target="__blank" href="{{site.author.facebook_url}}"><i class="fab fa-facebook-f"></i></a>
+         {% endif %}
+         {% if site.author.twitter_url %}
+          <a target="__blank" href="{{site.author.twitter_url}}"><i class="fab fa-twitter"></i></a>
+         {% endif %}
+         {% if site.author.behance_url %}
+          <a target="__blank" href="{{site.author.behance_url}}"><i class="fab fa-behance"></i></a>
+         {% endif %}
+         {% if site.author.linkedin_url %}
+          <a target="__blank" href="{{site.author.linkedin_url}}"><i class="fab fa-linkedin-in"></i></a>
+         {% endif %}
+         {% if site.author.youtube_url %}
+          <a target="__blank" href="{{site.author.youtube_url}}"><i class="fab fa-youtube"></i></a>
+         {% endif %}
+        </div>
+    </div>
+</div>
+<div class="widget mb-40">
+    <div class="widget-title-box mb-30">
+        <span class="animate-border"></span>
+        <h3 class="widget-title">Popular Posts</h3>
+    </div>
+    <ul class="recent-posts">
+        {% for posts in site.posts | limit: "5" %}
+        <li>
+            {% if posts.post_image %}
+            <div class="widget-posts-image">
+                <a href="{{posts.url}}"><img src="{{posts.post_image}}" alt="{{posts.title}}"/></a>
+            </div>
+            {% endif %}
+            <div class="widget-posts-body">
+                <h6 class="widget-posts-title">
+                    <a href="{{posts.url}}">{{posts.title}}</a>
+                </h6>
+                <div class="widget-posts-meta">{{ posts.date | date_to_long_string }}</div>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+<div class="widget mb-40">
+    <div class="widget-title-box mb-30">
+        <span class="animate-border"></span>
+        <h3 class="widget-title">Categories</h3>
+    </div>
+    <ul class="cat">
+    {% assign categories_list = site.categories %}
+      {% if categories_list.first[0] == null %}
+        {% for category in categories_list %}
+          <li><a class="text-capitalize" href="/category/{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} <span class="f-right">({{ site.tags[category].size }})</span></a></li>
+        {% endfor %}
+      {% else %}
+        {% for category in categories_list %}
+          <li><a class="text-capitalize" href="/category/{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} <span class="f-right">({{ category[1].size }})</span></a></li>
+        {% endfor %}
+      {% endif %}
+    {% assign categories_list = nil %}
+</ul>
+</div>
+
+<div class="widget mb-40">
+    <div class="widget-title-box mb-30">
+        <span class="animate-border"></span>
+        <h3 class="widget-title">Social Profile</h3>
+    </div>
+    {% include social_profiles.html %}
+</div>
+
+<div class="widget mb-40">
+    <div class="widget-title-box mb-30">
+        <span class="animate-border"></span>
+        <h3 class="widget-title">Popular Tags</h3>
+    </div>
+    <ul class="tag">
+        {% capture tags %}
+          {% for tag in site.tags %}
+            <li class="d-inline-block" data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}">
+               <a class="tag_1" href="/{{ site.tag_page_dir }}/{{ tag[0] | slugify: 'pretty' }}">{{ tag[0] }} <span> ({{ tag[1].size }})</span></a>
+            </li>
+          {% endfor %}
+        {% endcapture %}
+        {{ tags | split:'</li>' | sort | join:'</li>' }}
+    </ul>
+</div>
+<div class="widget mb-40 p-0 b-0">
+    <div class="banner-widget">
+      {% include advertisement.html %}
+    </div>
+</div>

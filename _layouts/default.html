@@ -1,0 +1,78 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>{{site.title}}</title>
+        <meta name="description" content="{{site.description}}">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.png">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/animate.min.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/flaticon.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/meanmenu.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/meanmenu.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/slick.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/default.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/style.css">
+        <link rel="stylesheet" href="{{relative_url}}/assets/css/responsive.css">
+    </head>
+    <body>
+
+        <!-- preloader -->
+        <div id="preloader">
+            <div class="preloader">
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <!-- preloader end  -->
+        {% include header.html %}
+        {{content}}
+        {% include footer.html %}
+        <!-- Fullscreen search -->
+        <div class="search-wrap">
+            <div class="search-inner">
+                <i class="fas fa-times search-close" id="search-close"></i>
+                <div class="search-cell">
+                    <form method="get">
+                        <div class="search-field-holder">
+                            <input type="text" class="main-search-input" id="search-input" placeholder="Search blog posts..">
+                        </div>
+                    </form>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-7 mx-auto">
+                                <div class="search-wrapper">
+                                    <ul id="results-container"></ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- end fullscreen search -->
+		<!-- JS here -->
+        <script src="{{relative_url}}/assets/js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="{{relative_url}}/assets/js/popper.min.js"></script>
+        <script src="{{relative_url}}/assets/js/bootstrap.min.js"></script>
+        <script src="{{relative_url}}/assets/js/owl.carousel.min.js"></script>
+        <script src="{{relative_url}}/assets/js/isotope.pkgd.min.js"></script>
+        <script src="{{relative_url}}/assets/js/one-page-nav-min.js"></script>
+        <script src="{{relative_url}}/assets/js/slick.min.js"></script>
+        <script src="{{relative_url}}/assets/js/jquery.meanmenu.min.js"></script>
+        <script src="{{relative_url}}/assets/js/ajax-form.js"></script>
+        <script src="{{relative_url}}/assets/js/wow.min.js"></script>
+        <script src="{{relative_url}}/assets/js/jquery.scrollUp.min.js"></script>
+        <script src="{{relative_url}}/assets/js/jquery.final-countdown.min.js"></script>
+        <script src="{{relative_url}}/assets/js/imagesloaded.pkgd.min.js"></script>
+        <script src="{{relative_url}}/assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="{{relative_url}}/assets/js/plugins.js"></script>
+        <script src="{{relative_url}}/assets/js/simple-jekyll-search.min.js"></script>
+        <script id="dsq-count-scr" src="//vue-netlify-com.disqus.com/count.js" async></script>
+        <script src="{{relative_url}}/assets/js/main.js"></script>
+    </body>
+</html>

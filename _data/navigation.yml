@@ -1,0 +1,30 @@
+#Please use the main menu items under the "text"
+
+- text: Home
+  url: /
+  submenu:
+  - text: Home 2
+    url: /index-2
+  - text: Home 3
+    url: /index-3
+  - text: Home 4
+    url: /index-4
+- text: About
+  url: /about
+- text: Blog
+  url: /blog/
+- text: Services
+  url: /services
+- text: Pages
+  url: 
+  submenu:
+  - text: Services
+    url: /services
+  - text: About Us
+    url: /about
+  - text: Contact
+    url: /contact
+  - text: 404
+    url: /404
+- text: Contact
+  url: /contact
