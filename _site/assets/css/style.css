@@ -516,7 +516,7 @@ label {
 
 .sticky-header {
 	animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
-    background: #cbdeff;
+    background: #faff43;
 	box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 	left: 0;
 	margin: 0 auto;
