@@ -272,13 +272,13 @@ label {
 	position: absolute;
 	bottom: 50px;
 	right: 50px;
-	background: #cbdeff;
+	background: #2d4268;
 	height: 60px;
 	width: 60px;
 	border-radius: 50%;
 	text-align: center;
 	line-height: 60px;
-	color: #ffffff;
+    color: #040000;
 	font-size: 18px;
 }
 #scrollUp:hover {
@@ -344,10 +344,10 @@ label {
 }
 .header-right-member ul li a {
 	font-size: 14px;
-	color: #666;
+    color: #cbdeff;
 }
 .header-right-member ul li:hover > a {
-	color: #fe4536;
+    color: #265ec3;
 }
 .header-right-member ul li ul {
 	position: absolute;
@@ -380,7 +380,7 @@ label {
   position: relative;
 }
 .main-menu ul li a {
-	color: #10111e;
+	color: #fefefe;
 	font-size: 14px;
 	line-height: 1;
 	font-weight: 500;
@@ -389,10 +389,10 @@ label {
 	text-transform: uppercase;
 }
 .main-menu ul li a.active {
-	color: #fe4536;
+    color: #b2bbcd;
 }
 .main-menu ul li:hover > a {
-	color: #fe4536;
+    color: #cbdeff;
 }
 .main-menu ul li ul.submenu {
 	position: absolute;
@@ -525,6 +525,7 @@ label {
 	top: 0;
 	width: 100%;
 	z-index: 99;
+    color: #fefefe;
 }
 
 @keyframes fadeInDown {
@@ -4161,8 +4162,8 @@ ul.cat li a:hover {
 
 .blog-post-tag a:hover {
   color: #fefefe;
-  background: #fe4536;
-  border-color: #fe4536;
+  background: #265ec3;
+  border-color: #265ec3;
 }
 
 .blog-post-tag a:last-child {
