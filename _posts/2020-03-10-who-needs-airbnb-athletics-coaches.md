@@ -2,19 +2,18 @@
 layout: post
 title: "Who needs the AirBnB of athletics? Part I: Coaches and athletics directors
 date: 2019-03-10
-author: George
-post_image: "/assets/img/big/utorontosouth.jpg"
+post_image: "/assets/img/big/03.jpg"
 ---
 
 <h2>Who needs the AirBnB of athletics?</h2>
 
-When I described this project to a friend and one-time collaborator, looking for his feedback, the first question he asked was “Once people find their track stadium, how do you get them to come back to the map again?” 100% the sort of absolutely obvious, silencing, deflating feedback I knew I could count on a Silicon Valley marketing guy for. 
+<p>When I described this project to a friend and one-time collaborator, looking for his feedback, the first question he asked was “Once people find their track stadium, how do you get them to come back to the map again?” 100% the sort of absolutely obvious, silencing, deflating feedback I knew I could count on a Silicon Valley marketing guy for. 
 
 The quick answer was that people would come back to leave their reviews, upload pictures and share their Stories on the other side of the site. A long conversation ensued along the lines of “No, really. How do you make the map more than one-and-done?”
 
 Weeks later, a few conversations with some other people helped me realize that my answer should have started with the two words I rely on most when I’m wearing my coaching pants: It depends.
 
-How do we get people to come back to the map for a second, third or fourth time? It depends on who we’re talking about.
+How do we get people to come back to the map for a second, third or fourth time? It depends on who we’re talking about.</p>
 
 <h3>Coaches, athletic directors and facility managers</h3>
 
