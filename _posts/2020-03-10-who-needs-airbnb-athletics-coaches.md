@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Who needs the AirBnB of athletics? Part I: Coaches and athletics directors
-date: 2019-03-10
-post_image: "/assets/img/big/03.jpg"
+title: "Who needs the AirBnB of athletics? Part I: Coaches and athletics directors"
+date: 2019-03-10 21:52:01 +0600
+tags: athletics
+categories: [athletics, business]
+post_image: "/assets/img/big/utorontosouth.jpg"
 ---
 
 <h2>Who needs the AirBnB of athletics?</h2>
