@@ -291,7 +291,7 @@ label {
 .basic-bar {
 	height: 60px;
 	width: 90px;
-    background: #d24268;
+    background: #2d4268;
 	border-radius: 50%;
 	margin-right: 50px;
 	padding: 14px 0;
@@ -517,7 +517,7 @@ label {
 
 .sticky-header {
 	animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
-    background: #d24268;
+    background: #2d4268;
 	box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 	left: 0;
 	margin: 0 auto;

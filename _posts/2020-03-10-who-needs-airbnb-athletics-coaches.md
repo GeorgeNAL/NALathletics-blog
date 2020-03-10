@@ -4,7 +4,6 @@ title: "Who needs the AirBnB of athletics? Part I: Coaches and athletics directo
 date: 2019-03-10
 author: George
 post_image: "/assets/img/big/utorontosouth.jpg"
-page.url: /who-needs-airbnb-athletics-coaches/
 ---
 
 <h2>Who needs the AirBnB of athletics?</h2>
