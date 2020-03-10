@@ -272,17 +272,18 @@ label {
 	position: absolute;
 	bottom: 50px;
 	right: 50px;
-	background: #2d4268;
+	background: #ff180e;
 	height: 60px;
 	width: 60px;
 	border-radius: 50%;
 	text-align: center;
 	line-height: 60px;
-    color: #040000;
+    color: #265ec3;
 	font-size: 18px;
 }
 #scrollUp:hover {
 	background: #265ec3;
+    color: #fefefe;
 }
 
 
@@ -290,7 +291,7 @@ label {
 .basic-bar {
 	height: 60px;
 	width: 90px;
-    background: #cbdeff;
+    background: #d24268;
 	border-radius: 50%;
 	margin-right: 50px;
 	padding: 14px 0;
@@ -380,7 +381,7 @@ label {
   position: relative;
 }
 .main-menu ul li a {
-	color: #fefefe;
+    color: #040000;
 	font-size: 14px;
 	line-height: 1;
 	font-weight: 500;
@@ -516,7 +517,7 @@ label {
 
 .sticky-header {
 	animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
-    background: #faff03;
+    background: #d24268;
 	box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 	left: 0;
 	margin: 0 auto;
@@ -3748,7 +3749,7 @@ p.checkout-coupon input[type="text"] {
   letter-spacing: 2px;
   font-weight: 500;
   text-transform: uppercase;
-  color: #6f7172;
+  color: #b2bbcd;
   margin-right: 20px;
 }
 
@@ -3759,11 +3760,11 @@ p.checkout-coupon input[type="text"] {
 }
 
 .post-meta span a:hover {
-  color: #84b77c;
+    color: #265ec3;
 }
 
 .post-meta span i {
-	color: #84b77c;
+	color: #265ec3;
 	margin-right: 2px;
 }
 
@@ -3889,7 +3890,7 @@ p.checkout-coupon input[type="text"] {
 }
 
 .post-text blockquote {
-  background: #2d4268;
+  background: rgba(4,0,0,.6);
   padding: 50px;
   position: relative;
   padding-left: 120px;
@@ -3914,7 +3915,7 @@ p.checkout-coupon input[type="text"] {
   left: 50px;
   top: 50px;
   position: absolute;
-  color: #cbdeff;
+  color: #faff03;
   font-family: "Font Awesome 5 Free";
   font-weight: 700;
   font-size: 41px;
@@ -4551,6 +4552,6 @@ ul.cat li a:hover {
 	top: 0;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(254, 69, 54,.75);
+	background-color: rgba(38, 94, 195,.5);
 }
 /*--- end of preloader ---*/
