@@ -1,12 +1,11 @@
 
-title: "Vura - Clean Affliate Marketing And Blogging Theme"
-email: "rubel2585@gmail.com"
+title: "NALathletics blog"
+email: "george.perry@austintrackclub.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  NALathletics makes it easier to be an athlete or fan of athletics. Follow
+  our blog to follow along with us as we make this happen. `#ForThoseWhoWantIt
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://vura-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://nalathletics.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
 mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
 twitter_username: jekyllrb
@@ -46,6 +45,11 @@ copyright_text: '<p>Copyright © 2020 <a href="#">Themeaffair</a>. All Rights Re
 collections:
   slider_posts:
     output: true
+    
+collections: 
+ posts:
+   output: true
+   permalink: /:year/:month/:day/:slug
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
