@@ -70,12 +70,12 @@ a:focus,
 }
 a:focus,
 a:hover {
-	color: #265ec3;
+	color: #ff180e;
 	text-decoration: none;
 }
 a,
 button {
-	color: #ff180e;
+	color: #265ec3;
 	outline: medium none;
 	transition: .3s;
 }
