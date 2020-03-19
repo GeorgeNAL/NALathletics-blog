@@ -25,5 +25,5 @@ jobs:
           host: nalathletics.com
           username: github
           source: "${{ github.workspace }}/_site"
-          target: "/var/www/nalathletics.com/blog/_site/"
+          target: "/var/www/_private/blog/_site/"
           strip_components: 3
