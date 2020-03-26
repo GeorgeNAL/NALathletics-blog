@@ -21,6 +21,11 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-archives
 
+exclude:
+  - Dockerfile
+  - Readme.md
+  - conf.d
+
 # Author info
 author:
   name: "Zulia Maron Duo"

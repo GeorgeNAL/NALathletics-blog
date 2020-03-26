@@ -22,7 +22,7 @@ The website can be built by running. This generates a folder `_site` that contai
 ## Deploying to prod
 
 This is done automatically via a github action.
-See .github/workflows/jekyll.yml on this repo to understand how this process works
+See `.github/workflows/jekyll.yml` on this repo to understand how this process works
 
 ## Serving prod
 
@@ -31,7 +31,7 @@ Files in production are served through a custom Docker image
 To compile this image run `docker build -t nalathletics/blog .`
 
 To run this image as a new container run
-`docker run --name nalathletics_blog -v "/full/path/to/_site":/usr/share/nginx/html:ro -p 3001:80 nalathletics/blog`
+`docker run -d --name nalathletics_blog --mount "type=bind,source=/var/www/_private/blog/_site,target=/usr/share/nginx/html,readonly -p 3001:80 nalathletics/blog`
 
 In production, this full path is `/var/www/_private/blog/_site`. The `-v` argument shows that this is a volume mounted dynamically, and so changes are reflected in real time.  
 
