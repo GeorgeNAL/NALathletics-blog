@@ -31,7 +31,7 @@ Files in production are served through a custom Docker image
 To compile this image run `docker build -t nalathletics/blog .`
 
 To run this image as a new container run
-`docker run -d --name nalathletics_blog --mount "type=bind,source=/var/www/_private/blog/_site,target=/usr/share/nginx/html,readonly -p 3001:80 nalathletics/blog`
+`docker run -d --name nalathletics_blog -v /absolute/path/to/_site:/usr/share/nginx/html:ro -p 3001:80 nalathletics/blog`
 
 In production, this full path is `/var/www/_private/blog/_site`. The `-v` argument shows that this is a volume mounted dynamically, and so changes are reflected in real time.  
 

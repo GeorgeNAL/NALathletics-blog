@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   NALathletics makes it easier to be an athlete or fan of athletics. Follow
   our blog to follow along with us as we make this happen. `#ForThoseWhoWantIt
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://nalathletics.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nalathletics.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
 mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
 twitter_username: jekyllrb
