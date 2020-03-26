@@ -4,7 +4,7 @@ layout: default
 
 <main>
 <!-- breadcrumb-area-start -->
-<section class="breadcrumb-area overlay" data-background="{{site.post_cover_image}}">
+<section class="breadcrumb-area overlay" data-background="{{site.post_cover_image | relative_url}}">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -29,7 +29,7 @@ layout: default
                 <article class="postbox post format-image mb-40">
                     {% if page.post_image %}
                     <div class="postbox__thumb mb-35">
-                        <img class="img-fluid" src="{{page.post_image}}" alt="{{page.title}}/">
+                        <img class="img-fluid" src="{{ page.post_image | relative_url }}" alt="{{page.title}}/">
                     </div>
                     {% endif %}
                     <div class="postbox__text bg-none">
@@ -41,7 +41,7 @@ layout: default
                                 <div class="blog-post-tag">
                                  {% if page.tags %}
                                     <span>Releted Tags</span>
-                                    {{page | tags | capitalize | replace: ",","  "}}
+                                    {{page | tags | capitalize | replace: ",",""}}
                                 {% endif %}
                                 </div>
                             </div>

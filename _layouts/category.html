@@ -14,20 +14,20 @@ pagination:
                 <article class="postbox post format-image mb-40">
                     {% if post.post_image %}
                     <div class="postbox__thumb">
-                        <a href="{{post.url}}">
-                            <img class="img-fluid" src="{{post.post_image}}" alt="{{post.title}}">
+                        <a href="{{post.url | relative_url }}">
+                            <img class="img-fluid" src="{{post.post_image | relative_url }}" alt="{{post.title}}">
                         </a>
                     </div>
                     {% endif %}
                     <div class="postbox__text p-30">
                         <h3 class="blog-title blog-title-sm">
-                            <a href="{{post.url}}">{{post.title}}</a>
+                            <a href="{{post.url | relative_url }}">{{post.title}}</a>
                         </h3>
                         <div class="post-text">
                           <p>{{post.excerpt | strip_html | truncatewords: "20" }}</p>
                         </div>
                         <div class="read-more">
-                            <a href="{{post.url}}" class="read-more">read more <i class="flaticon-right-arrow"></i></a>
+                            <a href="{{post.url | relative_url }}" class="read-more">read more <i class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
                 </article>

@@ -2,7 +2,7 @@
 layout: post
 title: "NALathletics: What's in it for me, Part II - Athletes (but only those who want it)"
 date: 2020-03-18 12:00:00 +0600
-tags: athletics, sportsbiz
+tags: athletics sportsbiz
 categories: [athletics]
 author: "George"
 post_image: "/assets/img/blog/b8.jpg"

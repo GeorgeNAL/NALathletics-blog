@@ -4,7 +4,7 @@
         <h3 class="widget-title">{{site.author.title}}</h3>
     </div>
     <div class="about-me text-center">
-        <img src="/assets/img/blog/details/me.png" alt="">
+        <img src="{{ '/assets/img/blog/details/me.png' | relative_url }}" alt="">
         <h4>{{site.author.name}}</h4>
         <p>{{site.author.bio}}</p>
         <div class="widget-social-icon">
@@ -36,12 +36,12 @@
         <li>
             {% if posts.post_image %}
             <div class="widget-posts-image">
-                <a href="{{posts.url}}"><img src="{{posts.post_image}}" alt="{{posts.title}}"/></a>
+                <a href="{{posts.url | relative_url}}"><img src="{{ posts.post_image | relative_url }}" alt="{{posts.title}}"/></a>
             </div>
             {% endif %}
             <div class="widget-posts-body">
                 <h6 class="widget-posts-title">
-                    <a href="{{posts.url}}">{{posts.title}}</a>
+                    <a href="{{posts.url | relative_url}}">{{posts.title}}</a>
                 </h6>
                 <div class="widget-posts-meta">{{ posts.date | date_to_long_string }}</div>
             </div>
@@ -58,11 +58,13 @@
     {% assign categories_list = site.categories %}
       {% if categories_list.first[0] == null %}
         {% for category in categories_list %}
-          <li><a class="text-capitalize" href="/category/{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} <span class="f-right">({{ site.tags[category].size }})</span></a></li>
+            {% assign category_path = category | downcase | downcase | url_escape | strip | replace: ' ', '-' %}
+          <li><a class="text-capitalize" href="{{ '/category/' | append: category_path | relative_url}}">{{ category | camelcase }} <span class="f-right">({{ site.tags[category].size }})</span></a></li>
         {% endfor %}
       {% else %}
         {% for category in categories_list %}
-          <li><a class="text-capitalize" href="/category/{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} <span class="f-right">({{ category[1].size }})</span></a></li>
+        {% assign category_path = category[0] | downcase | downcase | url_escape | strip | replace: ' ', '-' %}
+          <li><a class="text-capitalize" href="{{ '/category/' | append: category_path | relative_url}}">{{ category[0] | camelcase }} <span class="f-right">({{ category[1].size }})</span></a></li>
         {% endfor %}
       {% endif %}
     {% assign categories_list = nil %}
