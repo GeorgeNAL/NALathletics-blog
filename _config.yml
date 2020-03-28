@@ -10,7 +10,7 @@ mailchimp_list: "http://eepurl.com/gXBpev"
 twitter_username: jekyllrb
 github_username:  jekyll
 
-logo_url: "/assets/img/logo/logo.png"
+logo_url: "/assets/img/nalathletics-logo.png"
 cover_image: "assets/img/track-long-jump-complexe-sportif-guy-david-stade.jpg"
 post_cover_image: "/assets/img/stratford-high-school-high-jump-hurdles.jpg"
 
@@ -28,15 +28,12 @@ exclude:
 
 # Author info
 author:
-  name: "Zulia Maron Duo"
-  title: "About Me"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore."
-  image: "/assets/img/blog/details/me.png"
-  facebook_url: "https://facebook.com/rubel.hossain.31105"
-  twitter_url: "https://twitter.com/rubel8525"
-  behance_url: "https://behance.com"
-  linkedin_url: "https://www.linkedin.com/in/rubelhossain/"
-  youtube_url: "https://www.youtube.com/channel/UClFf2mH_0JgiAJ6S02ijl7g"
+  name: "NALathletics' blog"
+  title: "About Us"
+  bio: "Find out more about why we're here, enjoy some wonderfully ludicrous stories from track & field and stay up on what we're doing."
+  image: "/assets/img/nalathletics-red-logo.png"
+  linkedin_url: "https://www.linkedin.com/"
+  youtube_url: "https://www.youtube.com/"
 
 facebook_url: "https://facebook.com/"
 twitter_url: "https://twitter.com/"
@@ -44,7 +41,7 @@ behance_url: "https://behance.com/"
 dribbble_url: "https://dribbble.com/"
 linkedin_url: "https://linkedin.com/"
 youtube_url: "https://youtube.com/"
-copyright_text: '<p>Copyright © 2020 <a href="#">Themeaffair</a>. All Rights Reserved</p>'
+copyright_text: '<p>Copyright © 2020 <a href="#">NALAthletics</a>. All Rights Reserved</p>'
 
 collections:
   posts:
