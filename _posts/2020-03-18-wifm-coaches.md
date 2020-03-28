@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NALathletics: What's in it for me, Part I - Coaches"
-date: 2020-03-18 12:00:00 +0600
+date: 2020-03-18 12:05:00 +0600
 tags: athletics sportsbiz
 categories: [athletics]
 author: "George"

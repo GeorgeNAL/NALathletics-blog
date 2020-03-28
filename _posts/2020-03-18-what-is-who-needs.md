@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's the AirBnB of athletics, and who needs it?"
-date: 2020-03-18 12:00:00 +0600
+date: 2020-03-18 12:15:00 +0600
 tags: athletics sportsbiz
 categories: [athletics]
 author: "George"
