@@ -5,7 +5,7 @@ date: 2020-03-18 12:00:00 +0600
 tags: athletics sportsbiz
 categories: [athletics]
 author: "George"
-post_image: "/assets/img/blog/b8.jpg"
+post_image: "/assets/img/loughborough-track-throws-cage.jpg"
 slug: /nalathletics whats in it for me meet directors/
 ---
 One of my favorite moments in track & field is when I was at the track one morning for practice and the head of the largest local running group told me how, the day before, a meet director putting on a meet that I know you’ve heard about if you’re reading this contacted him to ask for help finding a track in the area. 

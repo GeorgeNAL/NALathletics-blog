@@ -5,7 +5,7 @@ date: 2020-03-18 12:00:00 +0600
 tags: athletics sportsbiz
 categories: [athletics]
 author: "George"
-post_image: "/assets/img/blog/b8.jpg"
+post_image: "/assets/img/stratford-high-school-houston-hurdles-high-jump.jpg"
 slug: /nalathletics whats in it for me athletes/
 ---
 This should be the easiest one. I’ve talked to dozens of athletes, and the two things nearly all of them have told me are the most needlessly difficult parts of being a post-collegiate athlete are finding an adequate place to train and how much it sucks always training alone. 

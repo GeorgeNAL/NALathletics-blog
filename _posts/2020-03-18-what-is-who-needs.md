@@ -5,7 +5,7 @@ date: 2020-03-18 12:00:00 +0600
 tags: athletics sportsbiz
 categories: [athletics]
 author: "George"
-post_image: "/assets/img/blog/b8.jpg"
+post_image: "/assets/img/university-of-toronto-track-curve.jpg"
 slug: /airbnb athletics who needs it/
 ---
 When I described this project to a friend and one-time collaborator, looking for his feedback, the first question he asked was “Once people find their track stadium, how do you get them to come back to the map again?” 100% the sort of absolutely obvious, silencing, deflating feedback I knew I could count on a Silicon Valley marketing guy for. 

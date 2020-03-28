@@ -6,13 +6,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://nalathletics.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
-mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
+mailchimp_list: "http://eepurl.com/gXBpev"
 twitter_username: jekyllrb
 github_username:  jekyll
 
 logo_url: "/assets/img/logo/logo.png"
-cover_image: "/assets/img/cover_image.jpg"
-post_cover_image: "/assets/img/post_cover_image.jpg"
+cover_image: "assets/img/track-long-jump-complexe-sportif-guy-david-stade.jpg"
+post_cover_image: "/assets/img/stratford-high-school-high-jump-hurdles.jpg"
 
 # Build settings
 theme: minima

@@ -5,7 +5,7 @@ date: 2020-03-18 12:00:00 +0600
 tags: athletics sportsbiz
 categories: [athletics]
 author: "George"
-post_image: "/assets/img/blog/b8.jpg"
+post_image: "/assets/img/stanko-mladar-track-grandstand.jpg"
 slug: /nalathletics whats in it for me coaches/
 ---
 <h3>Track & field coaches have to worry about more than job security. They have to wonder about their “profession security.” NALathletics helps them build both.</h3>
