@@ -10,7 +10,8 @@
                         </div>
                         <div class="area-title white-color mb-50">
                             <h2>Newsletter</h2>
-                            <p>Subsribe here for get every single updates</p>
+                            <p>Sign up so we can send you useful things once a week. Nothing not useful,
+                            never more than once a week.</p>
                         </div>
                     </div>
                 </div>
@@ -42,40 +43,23 @@
                 <div class="col-xl-3 col-lg-5 col-md-6 ">
                     <div class="footer-widget mb-40">
                         <div class="footer-logo">
-                            <a href="index.html"><img src="{{ '/assets/img/logo/footer-logo.png' | relative_url }}" alt=""></a>
+                            <a href="index.html"><img src="{{ '/assets/img/nalathletics-logo.png' | relative_url }}" alt=""></a>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag na
-                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        <p>NALathletics makes it easier to be an athlete or fan of athletics. You know, track & field. Find a
+                          place to train, find people to train with there, turn those people into a team, do something useful
+                          with the team. That’s it.
                         </p>
-                        <div class="footer-time d-flex mt-30">
-                            <div class="time-icon">
-                                <img src="{{ '/assets/img/icon/time.png' | relative_url }}" alt="">
-                            </div>
-                            <div class="time-text">
-                                <span>Got Questions ? Call us 24/7!</span>
-                                <h2>(0600) 874 548</h2>
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div class="offset-xl-2 offset-lg-2 offset-md-3 col-xl-2 col-lg-2 col-md-3 d-lg-none d-xl-block">
                     <div class="footer-widget pl-50 mb-40">
-                        <h3>Social Media</h3>
+                        <h3>Follow us everywhere you can</h3>
                         <ul class="footer-link">
-                            {% if site.facebook_url %}
-                             <li><a target="__blank" href="{{site.facebook_url}}">Facebook</a></li>
+                            {% if site.instagram_url %}
+                             <li><a target="__blank" href="{{site.instagram_url}}">Instagram</a></li>
                             {% endif %}
-                            {% if site.twitter_url %}
-                            <li><a target="__blank" href="{{site.twitter_url}}">Twitter</a></li>
-                            {% endif %}
-                            {% if site.behance_url %}
-                            <li><a target="__blank" href="{{site.behance_url}}">Behance</a></li>
-                            {% endif %}
-                            {% if site.dribbble_url %}
-                             <li><a target="__blank" href="{{site.dribbble_url}}"> Dribbble</a></li>
-                            {% endif %}
-                            {% if site.linkedin_url %}
-                            <li><a target="__blank" href="{{site.linkedin_url}}">Linkedin</a></li>
+                            {% if site.Dailymotion_url %}
+                            <li><a target="__blank" href="{{site.Dailymotion_url}}">Dailymotion</a></li>
                             {% endif %}
                             {% if site.youtube_url %}
                             <li><a target="__blank" href="{{site.youtube_url}}">Youtube</a></li>
@@ -94,13 +78,6 @@
                             <li><a href="#">China</a></li>
                             <li><a href="#">Japan</a></li>
                         </ul>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-5 col-md-6">
-                    <div class="footer-widget mb-40">
-                        <div class="footer-banner">
-                          {% include advertisement_foooter.html %}
-                        </div>
                     </div>
                 </div>
             </div>

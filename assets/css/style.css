@@ -505,8 +505,8 @@ label {
 
 .sticky-header {
 	animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
-    background: #B2BBCD;
-	box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    background: #fefefe;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 	left: 0;
 	margin: 0 auto;
 	position: fixed;
@@ -1831,7 +1831,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .post-text blockquote {
-  background: rgba(4,0,0,.6);
+  background: rgba(45,68,104,1.0);
   padding: 50px;
   position: relative;
   padding-left: 120px;
