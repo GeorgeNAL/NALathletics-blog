@@ -2,7 +2,7 @@
 layout: post
 title: "NALathletics: What's in it for me, Part I - Coaches"
 date: 2020-03-18 12:05:00 +0600
-tags: athletics sportsbiz
+tags: athletics sportsbiz coaches
 categories: [athletics]
 author: "George"
 post_image: "/assets/img/stanko-mladar-track-grandstand.jpg"
