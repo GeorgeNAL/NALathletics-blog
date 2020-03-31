@@ -8,6 +8,8 @@ author: "George"
 post_image: "/assets/img/stratford-high-school-houston-hurdles-high-jump.jpg"
 slug: /nalathletics whats in it for me athletes/
 ---
+<h2>Why should athletes at every level of the sport be interested in something truly new in athletics? Really? Do we really need to lay it out?</h2>
+
 This should be the easiest one. I’ve talked to dozens of athletes, and the two things nearly all of them have told me are the most needlessly difficult parts of being a post-collegiate athlete are finding an adequate place to train and how much it sucks always training alone. 
 
 Well, those two things are the essence of <a href="http://nalathletics.com/blog/2020/03/18/airbnb-athletics-who-needs-it">the AirBnB of athletics</a>?: find a place, either near your home or when you’re travelling; and find people, hopefully as a first step to turning them into your team.
@@ -20,7 +22,7 @@ Should be hard to do but easy to explain why it’s a good thing, right?
 
 It’s not. 
 
-## What do you have to lose? Literally. What?
+<h3>What do you have to lose? Literally. What?</h3>
 
 In my entire life I’ve never seen people hew more closely to something they openly acknowledge does nothing for them than track & field athletes and the sport as it is. I’ve never seen nameless, formless fear of the harmless so irrational (at least not until coronavirus lockdowns started). 
 
@@ -34,7 +36,7 @@ Even after all that I was still unprepared to learn about how some of the athlet
 
 What career? The chance to get screwed again? The dream of being the best in their event and making $40,000 a year pre-tax with no medical? The years of complaining that there needs to be “more,” but once they have a pittance they meekly shut up because they’re so desperately relieved just to have it? How could the repercussions be any worse than what they defined as success?
 
-## #ForThoseWhoWantIt
+<h3>#ForThoseWhoWantIt</h3>
 
 I can’t explain to them why NALathletics - either big picture or simply in these early days as the AirBnB of athletics - is good for them. There’s no point in it. 
 
@@ -50,4 +52,4 @@ He’s right.
 
 This is #ForThoseWhoWantIt.
 
-*We technically need 18 to get started. Are you one?
+<h5>We technically need 18 to get started. Are you one?</h5>

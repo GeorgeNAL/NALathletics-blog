@@ -1844,6 +1844,7 @@ input.main-search-input:-ms-input-placeholder {
   position: relative;
   padding-left: 120px;
   color: #fefefe;
+  font-family: 'Brix Slab', sans-serif;
 }
 
 @media (max-width: 767px) {
@@ -1853,7 +1854,6 @@ input.main-search-input:-ms-input-placeholder {
 }
 .post-text blockquote p {
 	font-size: 26px;
-    font-family: 'Brix Slab', sans-serif;
 	margin-bottom: 20px;
     color: #fefefe;
 	font-weight: 500;

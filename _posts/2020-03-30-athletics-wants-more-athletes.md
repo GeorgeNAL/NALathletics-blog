@@ -8,15 +8,17 @@ author: "George"
 post_image: "assets/img/texas-state-throws-circle.jpg"
 slug: /athletics wants more athletes
 ---
+<h2>Track & field has at least 99 problems, but too many athletes is not one of them. NALathletics is here precisely to keep more athletes in the sport.</h2>
+
 Track & field has always had a revitalizing effect on me: just when I think I was excusably jaded by what I’ve seen and experienced, something comes along to prove that I still have the capacity to be surprised. The people of track & field keep finding new ways to make me feel fresh and naïve.
 
 This time around, I can thank one of the few people in the sport to have near-universal name recognition: Carl Lewis.
 
 Speaking about the effects of the Olympic Games being delayed, <a href="https://www.houstonchronicle.com/texas-sports-nation/general/article/Carl-Lewis-Leroy-Burrell-see-an-altering-of-15149728.php">Lewis galaxy-brained a silver lining</a>:
 
-“We have too many athletes in our sport. We’re not like a team sport with a set amount. Anyone who wants to run can run, and we have too many athletes and too few meets and too little money.
+<h5>“We have too many athletes in our sport. We’re not like a team sport with a set amount. Anyone who wants to run can run, and we have too many athletes and too few meets and too little money.
 
-People getting out of college try to hang on for a year to make the Olympic team and get somewhere, but it won’t be there for them. I think a lot of people will move on to their next phase of life, and unfortunately, that’s not a bad thing for our sport.”
+People getting out of college try to hang on for a year to make the Olympic team and get somewhere, but it won’t be there for them. I think a lot of people will move on to their next phase of life, and unfortunately, that’s not a bad thing for our sport.”</h5>
 
 Well.
 

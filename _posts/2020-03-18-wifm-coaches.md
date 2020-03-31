@@ -8,7 +8,7 @@ author: "George"
 post_image: "/assets/img/stanko-mladar-track-grandstand.jpg"
 slug: /nalathletics whats in it for me coaches/
 ---
-<h3>Track & field coaches have to worry about more than job security. They have to wonder about their “profession security.” NALathletics helps them build both.</h3>
+<h2>Track & field coaches have to worry about more than job security. They have to wonder about their “profession security.” NALathletics helps them build both.</h2>
 
 The most anyone can do to build their job security is simply to do a good job. That’s often not enough in a profession as catty and cliquish as track & field. 
 
@@ -18,7 +18,7 @@ So if you want to get away from the bulls--t, we’re the refuge.
 
 Yes, there likely will be some <a href="https://www.bbc.com/sport/swimming/46878438">threats and blackmail</a> about anyone who gets near this, but really, what’s the threat? Give up the nothing the sport offers now?
 
-<h2>Revenue generating sports have profession security</h2>
+<h3>Revenue generating sports have profession security</h3>
 
 How comfortable are you about the continued existence of track & field coaching jobs at the salary you want?
 
@@ -36,7 +36,7 @@ Sports departments have this asset that’s only used for a few hours a day, a f
 
 If they can make some money from it during those other hours, that’s less red next to the words “track & field” in the department’s spreadsheet. That’s more money available for improvements or equipment. That’s less reason for administrators to wonder why they even have the expensive program in the first place.
 
-## More athletes will need more coaches
+<h3>More athletes will need more coaches</h3>
 
 One of the motivations behind NALathletics is <a href="http://nalathletics.com/blog/2020/03/18/whats-in-it-for-me-athletes">keeping more athletes in the sport</a> after college. Athletes coming out of college in just about any other sport can keep playing it at whatever level they desire and can reach: pro, minor league, semi-pro, amateur competitive, recreationally competitive, beer league… The whole pyramid. 
 
