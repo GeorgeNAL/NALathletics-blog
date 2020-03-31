@@ -59,20 +59,20 @@ layout: default
                             <div class="col-6">
                                 <div class="bakix-navigation b-next-post text-left mb-30">
                                   {% if page.previous.url %}
-                                    <span><a href="{{page.previous.url}}">Prev Post</a></span>
+                                    <span><a href="{{page.previous.url | relative_url }}">Prev Post</a></span>
                                   {% endif %}
                                   {% if page.previous.title %}
-                                    <h4><a href="{{page.previous.url}}">{{page.previous.title | replace: "_", " " }}</a></h4>
+                                    <h4><a href="{{page.previous.url | relative_url }}">{{page.previous.title | replace: "_", " " }}</a></h4>
                                   {% endif %}
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="bakix-navigation b-next-post text-left text-md-right  mb-30">
                                     {% if page.next.url %}
-                                     <span><a href="{{page.next.url}}">Next Post</a></span>
+                                     <span><a href="{{page.next.url | relative_url }}">Next Post</a></span>
                                     {% endif %}
                                     {% if page.next.title %}
-                                     <h4><a href="{{page.next.url}}">{{page.next.title | replace: "_", " " }}</a></h4>
+                                     <h4><a href="{{page.next.url | relative_url }}">{{page.next.title | replace: "_", " " }}</a></h4>
                                     {% endif %}
                                 </div>
                             </div>

@@ -22,13 +22,26 @@
 
 
 /* 1. Theme default css */
-@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700');
+/*@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700');*/
+
+@font-face{
+	font-family: "Brix Sans";
+	src: url("../fonts/BrixSans-Bold.otf");
+	font-weight: bold;
+}
+
+@font-face{
+	font-family: "Brix Slab";
+	src: url("../fonts/BrixSlab-Light.otf");
+	font-weight: 300;
+}
+
+
  body {
-	font-family: 'Rubik', sans-serif;
+	font-family: 'Brix Slab', sans-serif;
 	font-weight: normal;
 	font-style: normal;
 	font-size: 14px;
-    color: #fefefe;
 }
 .img,img {
 	max-width: 100%;
@@ -78,7 +91,7 @@ button:focus,input:focus,input:focus,textarea,textarea:focus{outline: 0}
 	text-transform: capitalize;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Rubik', sans-serif;
+	font-family: 'Brix Sans', sans-serif;
 	font-weight: normal;
 	color: #10111e;
 	margin-top: 0px;
