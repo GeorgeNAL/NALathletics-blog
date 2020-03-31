@@ -28,12 +28,14 @@
 	font-family: "Brix Sans";
 	src: url("../fonts/BrixSans-Bold.otf");
 	font-weight: bold;
+	font-display: swap;
 }
 
 @font-face{
 	font-family: "Brix Slab";
 	src: url("../fonts/BrixSlab-Light.otf");
 	font-weight: 300;
+	font-display: swap;
 }
 
 
@@ -1177,14 +1179,6 @@ ul.minicart .cart-price span {
 }
 
 /* 9. Subscribe   */
-.subscribe-inner{
-	padding-left: 270px;
-	padding-right: 270px;
-}
-.subscribe-icon {
-	margin-right: 24px;
-	margin-top: 8px;
-}
 .subscribe-form {
   position: relative;
 }

@@ -48,14 +48,6 @@
 	font-size: 60px;
 	margin-bottom: 35px;
 }
-.box-105 {
-	padding-left: 30px;
-	padding-right: 30px;
-}
-.subscribe-inner {
-	padding-left: 50px;
-	padding-right: 50px;
-}
 .product-slider.owl-carousel .owl-nav div {
 	left: -25px;
 }
@@ -91,9 +83,6 @@
 .box-90 {
 	padding-left: 30px;
 	padding-right: 30px;
-}
-.header-right {
-	margin-right: 85px;
 }
 .header-right-3 {
 	margin-right: 0;
@@ -164,14 +153,6 @@
 .upcoming-product h1 {
 	font-size: 60px;
 	margin-bottom: 35px;
-}
-.box-105 {
-	padding-left: 30px;
-	padding-right: 30px;
-}
-.subscribe-inner {
-	padding-left: 50px;
-	padding-right: 50px;
 }
 .product-slider.owl-carousel .owl-nav div {
 	left: -25px;
@@ -334,14 +315,6 @@
 .upcoming-product h1 {
 	font-size: 60px;
 	margin-bottom: 35px;
-}
-.box-105 {
-	padding-left: 30px;
-	padding-right: 30px;
-}
-.subscribe-inner {
-	padding-left: 50px;
-	padding-right: 50px;
 }
 .product-slider.owl-carousel .owl-nav div {
 	left: -25px;
@@ -507,17 +480,6 @@
 .upcoming-product h1 {
 	font-size: 40px;
 	margin-bottom: 35px;
-}
-.box-105 {
-	padding-left: 0;
-	padding-right: 0;
-}
-.subscribe-icon {
-	display: none;
-}
-.subscribe-inner {
-	padding-left: 15px;
-	padding-right: 15px;
 }
 .product-slider.owl-carousel .owl-nav div {
 	left: -25px;
