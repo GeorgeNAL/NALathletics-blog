@@ -92,10 +92,10 @@ button:focus,input:focus,input:focus,textarea,textarea:focus{outline: 0}
 .capitalize {
 	text-transform: capitalize;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
 	font-family: 'Brix Sans', sans-serif;
 	font-weight: normal;
-	color: #10111e;
+    color: #040000;
 	margin-top: 0px;
 	font-style: normal;
 	font-weight: 500;
@@ -115,7 +115,8 @@ h1 {
 	font-weight: 500;
 }
 h2 {
-	font-size: 35px;
+    font-family: 'Brix Slab', sans-serif;
+	font-size: 24px;
 }
 h3 {
 	font-size: 28px;
@@ -140,7 +141,7 @@ p {
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 26px;
-	color: #7e7e7e;
+    color: #040000;
 	margin-bottom: 15px;
 }
 hr {
@@ -1852,6 +1853,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 .post-text blockquote p {
 	font-size: 26px;
+    font-family: 'Brix Slab', sans-serif;
 	margin-bottom: 20px;
     color: #fefefe;
 	font-weight: 500;
