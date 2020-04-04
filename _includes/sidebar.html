@@ -31,13 +31,13 @@
     <h3>Want to be in the starting IX?</h3>
       <form id="fs-frm" name="department-contact-form" accept-charset="utf-8" action=https://formspree.io/mvobgwvl>
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last (or we don't respond)" required="">
-    <label for="email-address">Email Address</label>
+    <label for="full-name">FULL NAME</label>
+    <input type="text" name="name" id="full-name" placeholder="First and last (or we don't respond)" required="">
+    <label for="email-address">EMAIL ADDRESS</label>
     <input type="email" name="_replyto" id="email-address" placeholder="" required="">
-    <label for="events">Event(s)</label>
+    <label for="events">EVENT(S)</label>
     <input type="text" name="event" id="events" placeholder="e.g., Shot put, long jump, 400m" required="">
-    <label for="message">What should we know about you?</label>
+    <label for="message">WHAT SHOULD WE KNOW ABOUT YOU?</label>
     <textarea rows="5" name="message" id="message" placeholder="No, really, make us want to talk to you some more. Tell us something more interesting than your PR's." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Department Contact Form Submission">
   </fieldset>
@@ -61,11 +61,16 @@
   -webkit-appearance: none;
   -moz-appearance: none;
 }
+#fs-frm label {
+  font-family: 'Brix Slab', sans-serif;
+  font-size: .85em;
+}
+
+</label>
 #fs-frm label,
 #fs-frm legend,
 #fs-frm ::placeholder {
   font-size: .85em;
-  font-family: 'Brix Slab', sans-serif;
   margin-bottom: .5em;
   padding-top: .2em;
   display: flex;
