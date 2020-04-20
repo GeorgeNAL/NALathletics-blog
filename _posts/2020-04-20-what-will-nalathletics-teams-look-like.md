@@ -10,7 +10,7 @@ slug: /what will nalathletics teams look like
 ---
 During last week’s Athletics Avail, the questions and conversations started to dive into what NALathletics’ teams will look like. Here’s what we talked about, and a bit more, as well.
 
-<h2>What does the player roster look like?</h2>
+<h3>What does the player roster look like?</h3>
 
 An NALathletics team looks like, in short, athletics. 
 
@@ -18,7 +18,7 @@ Our teams are not training groups or enclaves for one event or discipline: they 
 
 The only divisions within a club are between the age groups or levels of the teams. The youth teams will train together, the first team will train together, the rec teams will train together. 
 
-<h2>What does that mean for practices?</h2>
+<h3>What does that mean for practices?</h3>
 
 If you want to win as a team, you have to train as a team. And if you want to have the cohesion, camaraderie, community recognition and marketing / sponsorship potential of a team, you have to train as a team. Which means that even though disciplines and events will do their own training (obviously, the shot putters are not doing 150m repeats), they’re out there together.
 
@@ -28,7 +28,7 @@ Now look at an average American track & field athlete’s: there’s rarely more
 
 Having the entire practice at the same time is also practical: when you’re <a href="https://nalathletics.com/blog/2020/03/18/nalathletics-whats-in-it-for-me-coaches">paying for facility usage</a>, better to pay for one block of time than three. 
 
-<h2>What does that mean for NALathletics team coaches?</h2>
+<h3>What does that mean for NALathletics team coaches?</h3>
 
 College teams have coaches for each discipline, and sometimes for specific events within the discipline. They have the money to do that. Our teams may not for a while, so there might be only one or two coaches covering the entire team.
 
@@ -44,7 +44,7 @@ If a coach wants to train athletes in isolation or event-specific groups for mar
 
 If she wants to coach a team, if she wants to expand her coaching repertoire beyond what she’s done to this point, if she wants to expand the sport, we have something for her.
 
-<h2>What “level” are NALathletics' athletes at?</h2>
+<h3>What “level” are NALathletics' athletes at?</h3>
 
 Any level that can still improve. 
 
