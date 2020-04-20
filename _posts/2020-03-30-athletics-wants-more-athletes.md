@@ -3,7 +3,7 @@ layout: post
 title: "Track & field may not want you, but athletics does"
 date: 2020-03-30 12:00:00 +0600
 tags: athletics athletes
-catagories: [athletics]
+categories: [athletics]
 author: "George"
 post_image: "assets/img/texas-state-throws-circle.jpg"
 slug: /athletics wants more athletes
