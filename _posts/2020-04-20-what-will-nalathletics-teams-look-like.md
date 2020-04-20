@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Athletics Avail: What will NALathletics' teams look like?"
-date: 2020-04-01 12:00:00 +0600
+date: 2020-04-20 12:00:00 +0600
 tags: athletics athletes coaches
 categories: [athletics]
 author: "George"
