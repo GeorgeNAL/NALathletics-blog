@@ -31,9 +31,7 @@ author:
   name: "NALathletics' blog"
   title: "About Us"
   bio: "Find out more about why we're here, enjoy some wonderfully ludicrous stories from track & field and stay up on what we're doing."
-  image: "/assets/img/nalathletics-red-logo.png"
-  linkedin_url: "https://www.linkedin.com/"
-  youtube_url: "https://www.youtube.com/"
+  image: "/assets/img/nalathletics-red-logo.png"s
 
 dailymotion_url: "https://dailymotion.com/nalathletics"
 instagram_url: "https://instagram.com/nalathletics"
