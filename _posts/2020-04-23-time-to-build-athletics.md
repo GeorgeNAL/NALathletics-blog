@@ -14,7 +14,7 @@ And, yes, you see it in sports.
 
 Marc Andreessen shook America by the shoulders and told us “It’s time to build” in his blog last weekend. It’s <a href="https://a16z.com/2020/04/18/its-time-to-build/">time to build now</a> because it’s been time to build for decades, in all those industries he listed and many of the ones he didn’t. Since we weren’t building then, our backs are against the wall today, not just with the pandemic, but everywhere.
 
-Sports leagues in America have not had a new model in our lifetimes. They are all single-entity, both within a given league and throughout the entire affiliate / farm team system of that sport. As a result, sports teams in America have not had a new model. 
+Sports leagues in America have not had a new model in our lifetimes. They are all single-entity, both within a given league and throughout the affiliate / farm team system of that sport. As a result, sports teams in America have not had a new model. 
 
 Our athlete development pipeline in nearly every sport is a straight line. There are no meaningful branches at either end. Every supplier has one customer, and that customer becomes the sole supplier to the next in line: high school, university, single-entity professional league or Olympic pathway.
 
