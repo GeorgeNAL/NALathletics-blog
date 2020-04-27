@@ -1755,6 +1755,11 @@ input.main-search-input:-ms-input-placeholder {
   color: #fe4536;
 }
 
+.blog-center-image {
+        margin: 0 auto;
+        display: block;
+}
+
 .read-more {
   letter-spacing: 2px;
   font-size: 12px;
