@@ -1756,7 +1756,8 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .blog-center-image {
-        text-align: center;
+        margin: 0 auto;
+        display: block;
 }
 
 .read-more {
