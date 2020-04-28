@@ -1760,6 +1760,12 @@ input.main-search-input:-ms-input-placeholder {
         display: block;
 }
 
+.blog-image-caption {
+	text-align: center;
+	font-family: 'Brix Slab', sans-serif;
+	font-size: 12px;
+}
+
 .read-more {
   letter-spacing: 2px;
   font-size: 12px;
