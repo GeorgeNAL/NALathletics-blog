@@ -36,7 +36,8 @@ On vacation and need a place to throw? Is your usual training spot shut down to 
 
 
 ![Terry Fox Stadium](/blog/assets/img/terry-fox-stadium-brampton-ontario-3-word-address.jpg){: .blog-center-image}
-Yes, we know this picture is from Canada.{: .blog-image-caption}
+Yes, we know this picture is from Canada.
+{: .blog-image-caption}
 
 Read and leave reviews and pictures of the track: Is the runway on the jump pit long enough for your approach? Are the lanes on the track completely rutted out? Is it a hidden gem, but don’t come there on Tuesday because that’s when a lacrosse team takes over the field? Now you know. Let everyone else know.
 
