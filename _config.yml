@@ -3,8 +3,8 @@ email: "george.perry@austintrackclub.com"
 description: >- # this means to ignore newlines until "baseurl:"
   NALathletics makes it easier to be an athlete or fan of athletics. Follow
   our blog to follow along with us as we make this happen. `#ForThoseWhoWantIt
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://nalathletics.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.nalathletics.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
 mailchimp_list: "http://eepurl.com/gXBpev"
 twitter_username: jekyllrb
