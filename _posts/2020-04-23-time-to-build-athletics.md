@@ -35,13 +35,13 @@ We’ve heard from dozens of athletes that the two most needlessly difficult par
 On vacation and need a place to throw? Is your usual training spot shut down to resurface the track? Our map will show you the location and what3words’ <a href="https://what3words.com/">3-word address of every throw circle</a>, jump pit, runway and track. If the throws circle is on the other side of the building behind some trees, you’ll have the 3-word address for it and won’t have to go looking, or, worse, give up and go home.
 
 
-![Terry Fox Stadium](/blog/assets/img/terry-fox-stadium-brampton-ontario-3-word-address.jpg){: .blog-center-image}
+![Terry Fox Stadium](/assets/img/terry-fox-stadium-brampton-ontario-3-word-address.jpg){: .blog-center-image}
 Yes, we know this picture is from Canada.
 {: .blog-image-caption}
 
 Read and leave reviews and pictures of the track: Is the runway on the jump pit long enough for your approach? Are the lanes on the track completely rutted out? Is it a hidden gem, but don’t come there on Tuesday because that’s when a lacrosse team takes over the field? Now you know. Let everyone else know.
 
-Are you a school coach or <a href="https://nalathletics.com/blog/2020/03/18/nalathletics-whats-in-it-for-me-coaches">athletics director looking to bring in additional revenue</a>? Use us to put your facility in the shop window.
+Are you a school coach or <a href="https://blog.nalathletics.com/2020/03/18/nalathletics-whats-in-it-for-me-coaches">athletics director looking to bring in additional revenue</a>? Use us to put your facility in the shop window.
 
 #### Next will be athletics' social microsite. 
 
@@ -55,7 +55,7 @@ Steps 1 and 2 will help athletes find places to train and people to train with.
 
 #### A group of athletes from one sport regularly meeting at a facility sounds a lot like a team.
 
-Each team will be an independent entity. NALathletics will set the <a href="https://nalathletics.com/blog/2020/04/20/what-will-nalathletics-teams-look-like">standards for prospective teams</a>, but the teams will have independent existences.
+Each team will be an independent entity. NALathletics will set the <a href="https://blog.nalathletics.com/2020/04/20/what-will-nalathletics-teams-look-like">standards for prospective teams</a>, but the teams will have independent existences.
 
 The teams will be in, from and of their communities. They will form into leagues and compete as teams with schedules, rosters and uniforms. You know, team stuff. 
 
