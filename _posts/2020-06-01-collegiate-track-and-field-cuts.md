@@ -66,6 +66,8 @@ Now withdraw that credit for the way they caught and ate their own tail by citin
 
 They should have stuck to honesty: They just didn’t want these sports as varsity any more. 
 
+<blockquote class="blockquote-single-quote"><p>Coaches at three of the first four universities had an email in their inbox from us at least one month before the axe fell, inviting them to a one-on-one or group conversation about creating a future in this sport and their profession. None of them responded to take us up on the offer, or even say “Who TF are you?”</p></blockquote>
+
 Brown’s “transition” is one more sign of the cluelessness surrounding the field events. Some of the other “transitioned” sports will find similar competition and training quality at the club level as at varsity. Brown’s administration can delude themselves into thinking that various intra- or extramural running clubs can compare to Division I running. But at no level - in no world - is there a “club” equivalent for the throws, jumps and, arguably, hurdles and sprints. Even if Brown poured a <a href="https://blog.nalathletics.com/2020/03/18/nalathletics-whats-in-it-for-me-athletes">substantial amount of money into “club track & field”</a> and it really was “track & field” and not just distance running, there are no club competitions for the field events unless they compete “unattached” at the same NCAA meets they were just in, but now at the disadvantage of having lost varsity resources.
 
 Brown is sitting on a multibillion dollar endowment, like most (all?) Ivy League schools. This was a point of consternation for many commenters: “How can they cut a six-figure program when sitting on 10-figure endowment?!?” 
@@ -79,7 +81,7 @@ Not long after University of Akron announced the men’s cross country cut, seve
 
 Raising bridge funds for a season or two will be difficult, and over the long-term will be insufficient, for the same reason: The economy is currently in the loo and not showing signs of people having sentimentally disposable income for a save-our-program campaign for the foreseeable future. 
 
-The endowment talk is both misguided and late, especially at schools with well-off alumni like Brown. 
+<h6>The endowment talk is both misguided and late, especially at schools with well-off alumni like Brown.</h6>
 
 By 2016, the word had been going out to college coaches to get their programs endowed. Coaches were told that, when the time comes for schools to cut programs, whatever the reason may be at that time, only endowed programs - that is, with funding independent of the university’s revenues and whims - would be truly secure. Only an endowment would make them antifragile to whatever black swan landed on the track. 
 
