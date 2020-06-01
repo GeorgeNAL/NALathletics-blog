@@ -18,7 +18,7 @@ University of Akron cut men’s golf and women’s tennis along with the men’s
 
 <h4>Takeaway</h4>
 
- 1. Cross-country is usually the least expensive of the three sports under the XC/TF umbrella, so Akron probably saved less than $250,000 - the least of any single sport, men’s or women’s - by cutting men’s cross country.
+Cross-country is usually the least expensive of the three sports under the XC/TF umbrella, so Akron probably saved less than $250,000 - the least of any single sport, men’s or women’s - by cutting men’s cross country.
 
 ### 2. Central Michigan University: Men’s Indoor and Outdoor Track
 
@@ -28,9 +28,9 @@ CMU’s combined XC/TF cost $760,034 - like Akron, the second-least expensive of
 
 <h4>Takeaways</h4>
 
- 1. Cutting track & field is much worse for cross country than cutting cross country is for track & field. No distance runner will stay for long at a school that only offers them one season of competition. Distance runners at Akron may feel they are at a training, competitive or scholarship disadvantage by not having cross country, but the impact is much less than it is for the runners at CMU.
+Cutting track & field is much worse for cross country than cutting cross country is for track & field. No distance runner will stay for long at a school that only offers them one season of competition. Distance runners at Akron may feel they are at a training, competitive or scholarship disadvantage by not having cross country, but the impact is much less than it is for the runners at CMU.
 
- 2. Both Central Michigan University and the University of Akron are in the Mid-American Conference, suggesting that the mid-majors are first going to reduce the number of programs to the bare minimum to maintain Division I status, and then decide if they need to take advantage of the waivers of Division I requirements requested in mid-April.
+Both Central Michigan University and the University of Akron are in the Mid-American Conference, suggesting that the mid-majors are first going to reduce the number of programs to the bare minimum to maintain Division I status, and then decide if they need to take advantage of the waivers of Division I requirements requested in mid-April.
 
 ### 3. Appalachian State University, men’s indoor track & field (May 26)
 
@@ -40,11 +40,11 @@ Unlike Akron and Central Michigan, Appalachian State’s men’s XC/TF cost more
 
 #### Takeaways
 
-1. The permutations will continue until the budget improves! Appalachian State will keep cross country and outdoor track & field.
+The permutations will continue until the budget improves! Appalachian State will keep cross country and outdoor track & field.
 
-2. Golf and wrestling were between tennis and soccer on the expense list, but somehow escaped the axe. This could have been due to number of scholarships, prestige of the programs or alternative funding methods (more on that below).
+Golf and wrestling were between tennis and soccer on the expense list, but somehow escaped the axe. This could have been due to number of scholarships, prestige of the programs or alternative funding methods (more on that below).
 
-3. Similar to Akron, it would be great to know how much each of cross country, indoor and outdoor track & field cost to really get a sense of how much the school is saving by cutting just one of the three.
+Similar to Akron, it would be great to know how much each of cross country, indoor and outdoor track & field cost to really get a sense of how much the school is saving by cutting just one of the three.
 
 ### 4. Brown University, men’s cross-country, indoor and outdoor track & field (May 28)
 
@@ -60,15 +60,15 @@ Brown also cut men’s and women’s fencing, golf and squash; and women’s ski
 
 #### Takeaways
 
-1. Give Brown credit for one thing: they’re not even trying to make this about the COVID-19-induced shutdown. They were quite upfront that this was the result of a long-term process (all the right-sizing and not a response to the loss of athletics department or university-wide revenues from the shutdown. 
+Give Brown credit for one thing: they’re not even trying to make this about the COVID-19-induced shutdown. They were quite upfront that this was the result of a long-term process (all the right-sizing and not a response to the loss of athletics department or university-wide revenues from the shutdown. 
 
 Now withdraw that credit for the way they caught and ate their own tail by citing their commitment to diversity and inclusion by cutting the single most diverse and inclusive sport in, well, the world. Lesser minds than an Ivy Leaguer would have gotten tangled in a web of Title IX / D&I compliance gobbledygook long before now, but that doesn’t mean we don’t expect a school like Brown to be masters of the game they choose to play.  
 
 They should have stuck to honesty: They just didn’t want these sports as varsity any more. 
 
-2. Brown’s “transition” is one more sign of the cluelessness surrounding the field events. Some of the other “transitioned” sports will find similar competition and training quality at the club level as at varsity. Brown’s administration can delude themselves into thinking that various intra- or extramural running clubs can compare to Division I running. But at no level - in no world - is there a “club” equivalent for the throws, jumps and, arguably, hurdles and sprints. Even if Brown poured a <a href="https://blog.nalathletics.com/2020/03/18/nalathletics-whats-in-it-for-me-athletes">substantial amount of money into “club track & field”</a> and it really was “track & field” and not just distance running, there are no club competitions for the field events unless they compete “unattached” at the same NCAA meets they were just in, but now at the disadvantage of having lost varsity resources.
+Brown’s “transition” is one more sign of the cluelessness surrounding the field events. Some of the other “transitioned” sports will find similar competition and training quality at the club level as at varsity. Brown’s administration can delude themselves into thinking that various intra- or extramural running clubs can compare to Division I running. But at no level - in no world - is there a “club” equivalent for the throws, jumps and, arguably, hurdles and sprints. Even if Brown poured a <a href="https://blog.nalathletics.com/2020/03/18/nalathletics-whats-in-it-for-me-athletes">substantial amount of money into “club track & field”</a> and it really was “track & field” and not just distance running, there are no club competitions for the field events unless they compete “unattached” at the same NCAA meets they were just in, but now at the disadvantage of having lost varsity resources.
 
-3. Brown is sitting on a multibillion dollar endowment, like most (all?) Ivy League schools. This was a point of consternation for many commenters: “How can they cut a six-figure program when sitting on 10-figure endowment?!?” 
+Brown is sitting on a multibillion dollar endowment, like most (all?) Ivy League schools. This was a point of consternation for many commenters: “How can they cut a six-figure program when sitting on 10-figure endowment?!?” 
 
 How schools tap their endowments during this crisis is for someone else to handle. But at least for XC/TF….
 
