@@ -16,7 +16,7 @@ The DOE does not have a uniform requirement for how schools report their XC/TF d
 
 University of Akron cut men’s golf and women’s tennis along with the men’s cross country program. Akron’s combined expenditures for men’s XC/TF were $756,583, making the three sports combined the second-least expensive of the Zip’s five men’s programs. Only men’s golf cost less at $372,048. Women’s tennis cost $502,052, and was their second-least expensive women’s sport.
 
-#### Takeaway
+<h4>Takeaway</h4>
 
 1. Cross-country is usually the least expensive of the three sports under the XC/TF umbrella, so Akron probably saved less than $250,000 - the least of any single sport, men’s or women’s - by cutting men’s cross country.
 
@@ -26,7 +26,7 @@ Central Michigan University cut only these programs, taking the complementary ap
 
 CMU’s combined XC/TF cost $760,034 - like Akron, the second-least expensive of their five men’s programs. Wrestling cost $737,858, so the Chippewas’ intended savings by cutting men’s track & field is less than the cost of the wrestling program.
 
-#### Takeaways
+<h4> Takeaways</h4>
 
 1. Cutting track & field is much worse for cross country than cutting cross country is for track & field. No distance runner will stay for long at a school that only offers them one season of competition. Distance runners at Akron may feel they are at a training, competitive or scholarship disadvantage by not having cross country, but the impact is much less than it is for the runners at CMU.
 
@@ -108,6 +108,6 @@ None of them responded to take us up on the offer, or even say “Who TF are you
 
 Over 100 coaches at other schools received the same introduction / invitation. Wonder which of those non-respondents will be the next ones to find their programs listed on this page.
 
-## THIS POST WILL BE UPDATED AS MORE SCHOOLS CUT SOME PART OF XC/TF
+<strong>THIS POST WILL BE UPDATED AS MORE SCHOOLS CUT SOME PART OF XC/TF</strong>
 
 <em>Photo credit: Brown Stadium, <a href="https://www.flickr.com/photos/auvet/43023267130/in/photolist-6tCvpF-28xPupL-h1apjn-28xPx6s-2bets3s-28xPvHC-28xPyF1-7hchtS-Pb2Qi3">Jimmy Emerson, DVM / Flickr</a> under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC-BY-NC-ND-2.0</a>
