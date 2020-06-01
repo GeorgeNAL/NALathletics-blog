@@ -5,7 +5,7 @@ date: 2020-06-01 12:00:00 +0600
 tags: ncaa
 categories: [track & field]
 author: "George"
-post_image: "/assets/img/brown-university-track.jpg"
+post_image: "/assets/img/brown-stadium-track.jpg"
 slug: /collegiate track and field cuts/
 ---
 The COVID-19-induced shutdown is driving the need or providing the excuse for colleges to cut their track & field programs (among other sports). This post will keep a running tally of those programs; their 2018/19 expenses and net cost, and how those compare to other sports at each school (per the Department of Education’s <a href="https://ope.ed.gov/athletics/#/">Equity in Athletics data</a>); and some thoughts and takeaways about each decision and the picture as a whole. 
@@ -17,6 +17,7 @@ The DOE does not have a uniform requirement for how schools report their XC/TF d
 University of Akron cut men’s golf and women’s tennis along with the men’s cross country program. Akron’s combined expenditures for men’s XC/TF were $756,583, making the three sports combined the second-least expensive of the Zip’s five men’s programs. Only men’s golf cost less at $372,048. Women’s tennis cost $502,052, and was their second-least expensive women’s sport.
 
 #### Takeaway
+
 1. Cross-country is usually the least expensive of the three sports under the XC/TF umbrella, so Akron probably saved less than $250,000 - the least of any single sport, men’s or women’s - by cutting men’s cross country.
 
 ### 2. Central Michigan University: Men’s Indoor and Outdoor Track
@@ -26,6 +27,7 @@ Central Michigan University cut only these programs, taking the complementary ap
 CMU’s combined XC/TF cost $760,034 - like Akron, the second-least expensive of their five men’s programs. Wrestling cost $737,858, so the Chippewas’ intended savings by cutting men’s track & field is less than the cost of the wrestling program.
 
 #### Takeaways
+
 1. Cutting track & field is much worse for cross country than cutting cross country is for track & field. No distance runner will stay for long at a school that only offers them one season of competition. Distance runners at Akron may feel they are at a training, competitive or scholarship disadvantage by not having cross country, but the impact is much less than it is for the runners at CMU.
 
 2. Both Central Michigan University and the University of Akron are in the Mid-American Conference, suggesting that the mid-majors are first going to reduce the number of programs to the bare minimum to maintain Division I status, and then decide if they need to take advantage of the waivers of Division I requirements requested in mid-April.
@@ -37,6 +39,7 @@ Appalachian State cut men’s soccer and tennis along with indoor track & field.
 Unlike Akron and Central Michigan, Appalachian State’s men’s XC/TF cost more than their women’s program.
 
 #### Takeaways
+
 1. The permutations will continue until the budget improves! Appalachian State will keep cross country and outdoor track & field.
 
 2. Golf and wrestling were between tennis and soccer on the expense list, but somehow escaped the axe. This could have been due to number of scholarships, prestige of the programs or alternative funding methods (more on that below).
@@ -56,6 +59,7 @@ Men’s XC/TF cost Brown University $306,498, the fifth-least expensive of the B
 Brown also cut men’s and women’s fencing, golf and squash; and women’s skiing and equestrian. That means XC/TF was the only coed sport where one gender was cut and the other remained.
 
 #### Takeaways
+
 1. Give Brown credit for one thing: they’re not even trying to make this about the COVID-19-induced shutdown. They were quite upfront that this was the result of a long-term process (all the right-sizing and not a response to the loss of athletics department or university-wide revenues from the shutdown. 
 
 Now withdraw that credit for the way they caught and ate their own tail by citing their commitment to diversity and inclusion by cutting the single most diverse and inclusive sport in, well, the world. Lesser minds than an Ivy Leaguer would have gotten tangled in a web of Title IX / D&I compliance gobbledygook long before now, but that doesn’t mean we don’t expect a school like Brown to be masters of the game they choose to play.  
@@ -103,5 +107,7 @@ Coaches at three of the first four universities had an email in their inbox from
 None of them responded to take us up on the offer, or even say “Who TF are you?”
 
 Over 100 coaches at other schools received the same introduction / invitation. Wonder which of those non-respondents will be the next ones to find their programs listed on this page.
+
+## THIS POST WILL BE UPDATED AS MORE SCHOOLS CUT SOME PART OF XC/TF
 
 <em>Photo credit: Brown Stadium, <a href="https://www.flickr.com/photos/auvet/43023267130/in/photolist-6tCvpF-28xPupL-h1apjn-28xPx6s-2bets3s-28xPvHC-28xPyF1-7hchtS-Pb2Qi3">Jimmy Emerson, DVM / Flickr</a> under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC-BY-NC-ND-2.0</a>
