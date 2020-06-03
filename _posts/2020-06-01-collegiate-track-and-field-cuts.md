@@ -20,7 +20,7 @@ University of Akron cut men’s golf and women’s tennis along with the men’s
 
 Cross-country is usually the least expensive of the three sports under the XC/TF umbrella, so Akron probably saved less than $250,000 - the least of any single sport, men’s or women’s - by cutting men’s cross country.
 
-### 2. Central Michigan University: Men’s Indoor and Outdoor Track
+### 2. Central Michigan University: Men’s Indoor and Outdoor Track (May 19)
 
 Central Michigan University cut only these programs, taking the complementary approach as Akron: whereas Akron cut cross country and kept track & field, CMU cut track & field but retained cross-country.
 
@@ -30,7 +30,7 @@ CMU’s combined XC/TF cost $760,034 - like Akron, the second-least expensive of
 
 Cutting track & field is much worse for cross country than cutting cross country is for track & field. No distance runner will stay for long at a school that only offers them one season of competition. Distance runners at Akron may feel they are at a training, competitive or scholarship disadvantage by not having cross country, but the impact is much less than it is for the runners at CMU.
 
-Both Central Michigan University and the University of Akron are in the Mid-American Conference, suggesting that the mid-majors are first going to reduce the number of programs to the bare minimum to maintain Division I status, and then decide if they need to take advantage of the waivers of Division I requirements requested in mid-April.
+Both Central Michigan University and the University of Akron are in the Mid-American Conference, suggesting that the mid-majors are first going to reduce the number of programs to the bare minimum to maintain Division I status, and then decide if they need to take advantage of the <a href="https://www.espn.com/college-football/story/_/id/29037022/five-fbs-conferences-including-aac-c-usa-ask-ncaa-relax-division-requirements">waivers of Division I requirements</a> requested in mid-April.
 
 ### 3. Appalachian State University, men’s indoor track & field (May 26)
 
@@ -50,17 +50,17 @@ Similar to Akron, it would be great to know how much each of cross country, indo
 
 Brown cut… well, they didn’t cut. Cutting just sounds so… violent? Micro- or macroaggressive?
 
-Brown euphemized so absurdly we can only assume either their on-retainer McKinsey consultants or a crack team from the school’s liberal arts graduate program crafted the press release.  Rather than cut, the <a href="https://brownbears.com/news/2020/5/28/general-new-initiative-to-reshape-improve-competitiveness-in-brown-varsity-and-club-athletics.aspxBears"> “transitioned” 11 varsity teams to club status</a>, as part of an “initiative” to “reshape” the program and “right-size” rosters.
+Brown euphemized so absurdly we can only assume either their on-retainer McKinsey consultants or a crack team from the school’s liberal arts graduate program crafted the press release.  Rather than cut, they <a href="https://brownbears.com/news/2020/5/28/general-new-initiative-to-reshape-improve-competitiveness-in-brown-varsity-and-club-athletics.aspxBears"> “transitioned” 11 varsity teams to club status</a>, as part of an “initiative” to “reshape” the program and “right-size” rosters.
 
 No, really, they said all that and expect people to take them seriously. 
 
-Men’s XC/TF cost Brown University $306,498, the fifth-least expensive of the Bears’ 15 men’s programs. Of the four less costly men’s program, only tennis survived. 
+Men’s XC/TF cost Brown University $306,498, the fifth-least expensive of the Bears’ 15 men’s programs. Of the four less costly men’s programs, only tennis survived. 
 
 Brown also cut men’s and women’s fencing, golf and squash; and women’s skiing and equestrian. That means XC/TF was the only coed sport where one gender was cut and the other remained.
 
 #### Takeaways
 
-Give Brown credit for one thing: they’re not even trying to make this about the COVID-19-induced shutdown. They were quite upfront that this was the result of a long-term process (all the right-sizing and not a response to the loss of athletics department or university-wide revenues from the shutdown. 
+Give Brown credit for one thing: they’re not even trying to make this about the COVID-19-induced shutdown. They were quite upfront that this was the result of a long-term process (you know, the right-sizing) and not a response to the loss of athletics department or university-wide revenues from the shutdown. 
 
 Now withdraw that credit for the way they caught and ate their own tail by citing their commitment to diversity and inclusion by cutting the single most diverse and inclusive sport in, well, the world. Lesser minds than an Ivy Leaguer would have gotten tangled in a web of Title IX / D&I compliance gobbledygook long before now, but that doesn’t mean we don’t expect a school like Brown to be masters of the game they choose to play.  
 
@@ -68,7 +68,7 @@ They should have stuck to honesty: They just didn’t want these sports as varsi
 
 <blockquote class="blockquote-single-quote"><p>Coaches at three of the first four universities had an email in their inbox from us at least one month before the axe fell, inviting them to a one-on-one or group conversation about creating a future in this sport and their profession. None of them responded to take us up on the offer, or even say “Who TF are you?”</p></blockquote>
 
-Brown’s “transition” is one more sign of the cluelessness surrounding the field events. Some of the other “transitioned” sports will find similar competition and training quality at the club level as at varsity. Brown’s administration can delude themselves into thinking that various intra- or extramural running clubs can compare to Division I running. But at no level - in no world - is there a “club” equivalent for the throws, jumps and, arguably, hurdles and sprints. Even if Brown poured a <a href="https://blog.nalathletics.com/2020/03/18/nalathletics-whats-in-it-for-me-athletes">substantial amount of money into “club track & field”</a> and it really was “track & field” and not just distance running, there are no club competitions for the field events unless they compete “unattached” at the same NCAA meets they were just in, but now at the disadvantage of having lost varsity resources.
+Brown’s “transition” is one more sign of the cluelessness surrounding the field events. Some of the other “transitioned” sports will find similar competition and training quality at the club level as at varsity. Brown’s administration can delude themselves into thinking that various intra- or extramural running clubs can compare to Division I running. But at no level - in no world - is there a “club” equivalent for the throws, jumps, hurdles and sprints. Even if Brown poured a <a href="https://blog.nalathletics.com/2020/03/18/nalathletics-whats-in-it-for-me-athletes">substantial amount of money into “club track & field”</a> and it really was “track & field” and not just distance running, there are no club competitions for the field events unless they compete “unattached” at the same NCAA meets they were just in, but now at the disadvantage of having lost varsity resources.
 
 Brown is sitting on a multibillion dollar endowment, like most (all?) Ivy League schools. This was a point of consternation for many commenters: “How can they cut a six-figure program when sitting on 10-figure endowment?!?” 
 
@@ -96,7 +96,7 @@ Many football programs subsidize much of the rest of their athletics department:
 
 Whatever the reason, all four schools to have cut some portion of XC/TF (yes, Brown, you cut XC/TF) are starting from the bottom and cutting their way up. This strategy allows the schools to cut the most athletes (i.e., scholarships) and fiddle with whatever Division I and Title IX quotas they need to meet. 
 
-Or maybe they just figured that these are the sports no one - including sponsors and donors - would miss much. 
+Or maybe they just figured that these are the sports no one - including sponsors and donors - would miss much. Either way, track & field writ large will eventually feel the effects of these and future cuts.
 
 ### 3. Who is secure enough to pass up any opportunity for anything?
 
