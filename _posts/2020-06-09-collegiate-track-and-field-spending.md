@@ -30,7 +30,8 @@ Meanwhile, 47 track & field programs lost more than $1,000,000 for the 2018/19 s
  
 At the 2018/19 NCAA Division I Outdoor Track & Field National Championships, 18 schools were represented in the top 13 for either men’s or women’s team scores. Five of those schools - Brigham Young University, Florida State University, Mississippi State University, University of Houston and University of New Mexico - had a balanced budget for the year. All the rest operated at a loss - a combined loss of $46.7 million.
 
-![Track & field budgets by association](/blog/assets/img/track-and-field-budget-association-count.jpg}{: .blog-center-image}
+![Track & field budgets by association](/blog/assets/img/track-and-field-budget-association-count.jpg}
+{: .blog-center-image}
 
 Moving down the minor leagues, excuse me, NCAA structure, Division II and Division III lead all collegiate athletics for having the most track & field programs in the black: about 36%. Only 9% of track & field programs in those categories took a loss, whereas in the NCAA Division I-FBS, an even smaller percentage - 5% - brought in net revenue. But just Divisions II’s and III’s sound management is not a sign of parsimony: they spent $149 million and $81 million in 2018/19, respectively.
 
@@ -54,7 +55,10 @@ Professional sports leagues and national governing bodies in the US passively ou
 
 Now it may not be.
 
-![Track and field association spending](/blog/assets/img/track-and-field-organization-spending.jpg){: blog-center-image}Sources: Department of Education; The Sports Examiner; USATF{: .blog-image-caption}
+![Track and field association spending](/blog/assets/img/track-and-field-organization-spending.jpg)
+{: blog-center-image}
+Sources: Department of Education; The Sports Examiner; USATF
+{: .blog-image-caption}
 
 Even if NCAA non-revenue programs come through the COVID-19 shutdown era mostly intact, athletes, leagues and governing bodies - those consumers of athletic development - should recognize the wake-up call. No one needs well-developed athletes in their prime as much as the leagues and governing bodies: they need either to put their skin in that game, or find a partner who will.
 
