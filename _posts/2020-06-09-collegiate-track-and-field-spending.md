@@ -14,7 +14,7 @@ The American college athletics system (not just the NCAA) is the de facto develo
 
 This leaves the collegiate system and the professional sports leagues and governing bodies in a classic mismatch of skin in the game; and, in the case of track & field, a potential collapse of development and mid-tier opportunities. 
 
-## Collegiate and governing body spending on track & field
+### Collegiate and governing body spending on track & field
 
 In 2018/19, NCAA schools spent $755 million on track & field and the NAIA spent just over $100 million. Toss in various junior college associations and a few independent associations and the <a href="https://ope.ed.gov/athletics/">entire collegiate system spent</a> $975 million on the sport. 
 
@@ -30,7 +30,7 @@ Meanwhile, 47 track & field programs lost more than $1,000,000 for the 2018/19 s
  
 At the 2018/19 NCAA Division I Outdoor Track & Field National Championships, 18 schools were represented in the top 13 for either men’s or women’s team scores. Five of those schools - Brigham Young University, Florida State University, Mississippi State University, University of Houston and University of New Mexico - had a balanced budget for the year. All the rest operated at a loss - a combined loss of $46.7 million.
 
-![Track & field budgets by association](/assets/img/track-and-field-budget-association-count.jpg}{: .blog-center-image}
+![Track & field budgets by association](/blog/assets/img/track-and-field-budget-association-count.jpg}{: .blog-center-image}
 
 Moving down the minor leagues, excuse me, NCAA structure, Division II and Division III lead all collegiate athletics for having the most track & field programs in the black: about 36%. Only 9% of track & field programs in those categories took a loss, whereas in the NCAA Division I-FBS, an even smaller percentage - 5% - brought in net revenue. But just Divisions II’s and III’s sound management is not a sign of parsimony: they spent $149 million and $81 million in 2018/19, respectively.
 
@@ -46,7 +46,7 @@ So, once more with feeling: the global federation for track & field took in as m
 
 And, with the exception of Division I-FBS and Division I without football, they operated with positive revenue - unlike World Athletics.
 
-## Where will track & field athletes come from - or go - as programs disappear?
+### Where will track & field athletes come from - or go - as programs disappear?
 
 One of the early lessons of the coronavirus pandemic was that companies and industries cannot rely on a single supply chain for a vast majority of their goods or inputs. This is the flip side of what every company already knows: you won’t survive if you only have one customer, no matter how big or monopolistic that customer may be.
 
@@ -54,7 +54,7 @@ Professional sports leagues and national governing bodies in the US passively ou
 
 Now it may not be.
 
-![Track and field association spending](assets/img/track-and-field-organization-spending.jpg){: blog-center-image}Sources: Department of Education; The Sports Examiner; USATF{: .blog-image-caption}
+![Track and field association spending](/blog/assets/img/track-and-field-organization-spending.jpg){: blog-center-image}Sources: Department of Education; The Sports Examiner; USATF{: .blog-image-caption}
 
 Even if NCAA non-revenue programs come through the COVID-19 shutdown era mostly intact, athletes, leagues and governing bodies - those consumers of athletic development - should recognize the wake-up call. No one needs well-developed athletes in their prime as much as the leagues and governing bodies: they need either to put their skin in that game, or find a partner who will.
 
@@ -68,7 +68,7 @@ We can’t fault the NCAA for that. But we should consider the risks and trade-o
 
 American track & field relies on the college system not only to develop athletes age 18-22, but to provide competitive opportunities for post-collegiate athletes. Post-collegiate athletes seeking qualifying marks or simply half-decent competition compete mainly in college meets given the paucity of independent events. The situation is not much better at the top international levels: World Athletics spent $20 million on events and sports development, of which $4.55 million were for the Diamond League.
 
-The athletes who will be <a href="https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts"most affected by XC/TF program cuts</a> are those approaching or already in college. They will take the full force of the hit. They will lose their development pipeline and have nowhere to go. Those already on the small, unsatisfying circuit will stay on the small, unsatisfying circuit, and will be replaced by athletes coming from a smaller and, therefore, less competitive pool. 
+The athletes who will be <a href="https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts">most affected by XC/TF program cuts</a> are those approaching or already in college. They will take the full force of the hit. They will lose their development pipeline and have nowhere to go. Those already on the small, unsatisfying circuit will stay on the small, unsatisfying circuit, and will be replaced by athletes coming from a smaller and, therefore, less competitive pool. 
 
 We know <a href="https://blog.nalathletics.com/2020/03/30/athletics-wants-more-athletes">one person who will be happy</a> about that.
 
