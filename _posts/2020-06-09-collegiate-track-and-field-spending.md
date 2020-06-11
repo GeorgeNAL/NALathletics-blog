@@ -18,7 +18,7 @@ This leaves the collegiate system and the professional sports leagues and govern
 
 In 2018/19, NCAA schools spent $755 million on track & field and the NAIA spent just over $100 million. Toss in various junior college associations and a few independent associations, and the <a href="https://ope.ed.gov/athletics/">entire collegiate system spent</a> $975 million on the sport. 
 
-The NCAA came out $158 million in the red for track & field that year, while the entire collegiate system lost $156 million, showing how the NCAA is not just the biggest spender, but the biggest, well, loser on the sport. Actually, that’s not fair to Divisions II and III. They both stayed in the black. NCAA Division I - FBS lost $163 million, and Division I schools without football added a half-million dollar deficit of their own.
+The NCAA came out $158 million in the red for track & field that year, while the entire collegiate system lost $156 million, showing how the NCAA is not just the biggest spender, but the biggest, well, loser on the sport. Actually, that’s not fair to Divisions II and III. They both stayed in the black. NCAA Division I - FBS lost $163 million, and Division I schools without football added a slight deficit of their own.
 
 Stop and compare that to all the noise - some positive, most negative - around the 22-year, $500 million sponsorship contract Nike and USA Track & Field signed in 2014. That contract would not cover four years of the NCAA’s (or just D-I’s) losses. 
 
