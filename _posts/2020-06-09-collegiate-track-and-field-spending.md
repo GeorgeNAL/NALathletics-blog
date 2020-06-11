@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Collegiate spending on track & field dwarfs governing bodies: XC/TF program cuts are bill coming due"
-date: 2020-06-09 12:00:00 +0600
+title: "Collegiate spending on track & field dwarfs governing bodies: XC/TF program cuts are bills coming due"
+date: 2020-06-11 12:00:00 +0600
 tags: ncaa usatf worldathletics sportsbiz
 categories: [track & field]
 author: "George"
@@ -16,9 +16,9 @@ This leaves the collegiate system and the professional sports leagues and govern
 
 ### Collegiate and governing body spending on track & field
 
-In 2018/19, NCAA schools spent $755 million on track & field and the NAIA spent just over $100 million. Toss in various junior college associations and a few independent associations and the <a href="https://ope.ed.gov/athletics/">entire collegiate system spent</a> $975 million on the sport. 
+In 2018/19, NCAA schools spent $755 million on track & field and the NAIA spent just over $100 million. Toss in various junior college associations and a few independent associations, and the <a href="https://ope.ed.gov/athletics/">entire collegiate system spent</a> $975 million on the sport. 
 
-The NCAA came out $158 million in the red that year, while the entire collegiate system lost $156 million, showing how the NCAA is not just the biggest spender, but the biggest, well, loser on the sport. Actually, that’s not fair to Divisions II and III. They both stayed in the black. NCAA Division I - FBS lost $163 million, and Division I schools without football added a half-million dollar deficit of their own.
+The NCAA came out $158 million in the red for track & field that year, while the entire collegiate system lost $156 million, showing how the NCAA is not just the biggest spender, but the biggest, well, loser on the sport. Actually, that’s not fair to Divisions II and III. They both stayed in the black. NCAA Division I - FBS lost $163 million, and Division I schools without football added a half-million dollar deficit of their own.
 
 Stop and compare that to all the noise - some positive, most negative - around the 22-year, $500 million sponsorship contract Nike and USA Track & Field signed in 2014. That contract would not cover four years of the NCAA’s (or just D-I’s) losses. 
 
@@ -33,7 +33,7 @@ At the 2018/19 NCAA Division I Outdoor Track & Field National Championships, 18 
 ![Track & field budgets by association](/assets/img/track-and-field-association-budget-count.jpg)
 {: .blog-center-image}
 
-Moving down the minor leagues, excuse me, NCAA structure, Division II and Division III lead all collegiate athletics for having the most track & field programs in the black: about 36%. Only 9% of track & field programs in those categories took a loss, whereas in the NCAA Division I-FBS, an even smaller percentage - 5% - brought in net revenue. But just Divisions II’s and III’s sound management is not a sign of parsimony: they spent $149 million and $81 million in 2018/19, respectively.
+NCAA Division II and Division III lead all collegiate athletics for having the most track & field programs in the black: about 36%. Only 9% of track & field programs in those categories took a loss, whereas in the NCAA Division I-FBS, an even smaller percentage - 5% - brought in net revenue. But Divisions II’s and III’s sound management is not a sign of parsimony: they spent $149 million and $81 million in 2018/19, respectively.
 
 Let’s stop again and compare the collegiate system’s spending on the sport to the national and international governing bodies’. 
 
@@ -43,7 +43,7 @@ USATF CEO Max Siegel’s noisily derided compensation of $4 million is less than
 
 A month later, Perelman - via an anonymous benefactor - reported some of <a href="http://www.thesportsexaminer.com/lane-one-final-federation-finance-data-found-as-world-athletics-financial-data-leaked-lots-of-reserves-but-lots-more-spending/">World Athletics’ financials for 2018</a>. The global sporting organization for track & field had $45.7 million in revenue and $68.1 million in expenses in 2018. Events and “sport development activities” accounted for $20 million of their expenses. 
 
-So, once more with feeling: the global federation for track & field took in as much money in 2018 as 18 NCAA Division I schools lost as a group. The United States’ federation took in less than that. Each component of the NCAA - Division I FBS, Division I FCS, Division I schools without football, Division II and Division III - spent more than World Athletics, as did the total NAIA. 
+So, once more with feeling: the global federation for track & field took in as much money in 2018 as 18 NCAA Division I schools lost as a group. The United States’ federation took in less than that. Each component of the NCAA - Division I-FBS, Division I-FCS, Division I schools without football, Division II and Division III - and the NAIA spent more than World Athletics.
 
 And, with the exception of Division I-FBS and Division I without football, they operated with positive revenue - unlike World Athletics.
 
@@ -55,14 +55,14 @@ Professional sports leagues and national governing bodies in the US passively ou
 
 Now it may not be.
 
+Even if NCAA non-revenue programs come through the COVID-19 shutdown era mostly intact, athletes, leagues and governing bodies - those consumers of athletic development - should recognize the wake-up call. No one needs well-developed athletes in their prime as much as the leagues and governing bodies: they need either to put their skin in that game, or find a partner who will.
+
+Across the collegiate system, track & field is the fifth-costliest sport in terms of total expenditures, but has the highest deficit. Football and basketball cost the most, and are the only two revenue-generating sports. Next are soccer and baseball. They both spend more than track & field, but their deficit is about half of XC/TF’s.
+
 ![Track and field association spending](/assets/img/track-and-field-organization-spending.jpg)
 {: blog-center-image}
 Sources: Department of Education; The Sports Examiner; USATF
 {: .blog-image-caption}
-
-Even if NCAA non-revenue programs come through the COVID-19 shutdown era mostly intact, athletes, leagues and governing bodies - those consumers of athletic development - should recognize the wake-up call. No one needs well-developed athletes in their prime as much as the leagues and governing bodies: they need either to put their skin in that game, or find a partner who will.
-
-Across the collegiate system, track & field is the fifth-costliest sport in terms of total expenditures, but has the highest deficit. Football and basketball cost the most, and are the only two revenue-generating sports. Next are soccer and baseball. They both spend more than track & field, but their deficit is about half of XC/TF’s.
 
 Baseball, soccer and hockey are the only team sports with extensive regional and minor league systems. This allows those sports to take in a large number of athletes post-college, sort them according to their skill level and provide a path to the top tier. But neither of them - unlike hockey in Canada and soccer in Europe - offer a path from youth to professional via parallel progressions through the age groups and league pyramid. 
 
