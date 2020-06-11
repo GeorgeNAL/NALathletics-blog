@@ -46,7 +46,7 @@ Golf and wrestling were between tennis and soccer on the expense list, but someh
 
 Similar to Akron, it would be great to know how much each of cross country, indoor and outdoor track & field cost to really get a sense of how much the school is saving by cutting just one of the three.
 
-### 4. Brown University, men’s cross-country, indoor and outdoor track & field (May 28)
+### 4. Brown University, men’s cross-country, indoor and outdoor track & field (May 28) UPDATE: Reinstated June 9
 
 Brown cut… well, they didn’t cut. Cutting just sounds so… violent? Micro- or macroaggressive?
 
@@ -73,6 +73,8 @@ Brown’s “transition” is one more sign of the cluelessness surrounding the 
 Brown is sitting on a multibillion dollar endowment, like most (all?) Ivy League schools. This was a point of consternation for many commenters: “How can they cut a six-figure program when sitting on 10-figure endowment?!?” 
 
 How schools tap their endowments during this crisis is for someone else to handle. But at least for XC/TF….
+
+UPDATE: Apparently the multiyear process of right-sizing was incomplete, inasmuch as two weeks later the university reversed their decision. What can we say: the Ivy Leagues tend to lead by following whoever is currently the loudest. Well done, T&F alumni. Will the fencing alumni be next to rattle their sabres, or will some other sport be their foil? (Does anyone have a play on words for epee?)
 
 # Big(ger) picture takeaways
 ### 1. These are not the endowments you are looking for
