@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Collegiate spending on track & field dwarfs governing bodies: Program cuts are bills coming due"
+title: "Collegiate spending on track & field dwarfs governing bodies': Cuts are bills coming due"
 date: 2020-06-11 12:00:00 +0600
 tags: ncaa usatf worldathletics sportsbiz
 categories: [track & field]
