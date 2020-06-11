@@ -47,6 +47,11 @@ So, once more with feeling: the global federation for track & field took in as m
 
 And, with the exception of Division I-FBS and Division I without football, they operated with positive revenue - unlike World Athletics.
 
+![Track and field association spending](/assets/img/track-and-field-organization-spending.jpg)
+{: blog-center-image}
+Sources: Department of Education; The Sports Examiner; USATF
+{: .blog-image-caption}
+
 ### Where will track & field athletes come from - or go - as programs disappear?
 
 One of the early lessons of the coronavirus pandemic was that companies and industries cannot rely on a single supply chain for a vast majority of their goods or inputs. This is the flip side of what every company already knows: you won’t survive if you only have one customer, no matter how big or monopolistic that customer may be.
@@ -59,18 +64,15 @@ Even if NCAA non-revenue programs come through the COVID-19 shutdown era mostly 
 
 Across the collegiate system, track & field is the fifth-costliest sport in terms of total expenditures, but has the highest deficit. Football and basketball cost the most, and are the only two revenue-generating sports. Next are soccer and baseball. They both spend more than track & field, but their deficit is about half of XC/TF’s.
 
-![Track and field association spending](/assets/img/track-and-field-organization-spending.jpg)
-{: blog-center-image}
-Sources: Department of Education; The Sports Examiner; USATF
-{: .blog-image-caption}
-
 Baseball, soccer and hockey are the only team sports with extensive regional and minor league systems. This allows those sports to take in a large number of athletes post-college, sort them according to their skill level and provide a path to the top tier. But neither of them - unlike hockey in Canada and soccer in Europe - offer a path from youth to professional via parallel progressions through the age groups and league pyramid. 
 
 The path from youth sports to professional sports - major or minor league - for baseball, soccer and hockey is the same as football, basketball, tennis, golf, track & field and all the rest: they all go through the scholastic / collegiate systems, a system whose dominant force wrote a great marketing slogan around the fact that they are the final athletic destination for 392,000+ student-athletes a year. 
 
 We can’t fault the NCAA for that. But we should consider the risks and trade-offs of letting a dead-end system become the driver of American sports.
 
-American track & field relies on the college system not only to develop athletes age 18-22, but to provide competitive opportunities for post-collegiate athletes. Post-collegiate athletes seeking qualifying marks or simply half-decent competition compete mainly in college meets given the paucity of independent events. The situation is not much better at the top international levels: World Athletics spent $20 million on events and sports development, of which $4.55 million were for the Diamond League.
+American track & field relies on the college system not only to develop athletes age 18-22, but to provide competitive opportunities for post-collegiate athletes.  
+
+<blockquote class="blockquote-single-quote"><p>Post-collegiate athletes seeking qualifying marks or simply half-decent competition compete mainly in college meets given the paucity of independent events. The situation is not much better at the top international levels: World Athletics spent $20 million on events and sports development, of which $4.55 million were for the Diamond League.</p></blockquote>
 
 The athletes who will be <a href="https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts">most affected by XC/TF program cuts</a> are those approaching or already in college. They will take the full force of the hit. They will lose their development pipeline and have nowhere to go. Those already on the small, unsatisfying circuit will stay on the small, unsatisfying circuit, and will be replaced by athletes coming from a smaller and, therefore, less competitive pool. 
 
