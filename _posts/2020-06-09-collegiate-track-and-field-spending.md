@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Collegiate spending on track & field dwarfs governing bodies: XC/TF program cuts are bills coming due"
+title: "Collegiate spending on track & field dwarfs governing bodies: Program cuts are bills coming due"
 date: 2020-06-11 12:00:00 +0600
 tags: ncaa usatf worldathletics sportsbiz
 categories: [track & field]
@@ -86,4 +86,4 @@ Over the next 10 years, the effects on the sport will reveal themselves.
 
 The COVID-19 shutdown didn’t cause this predicament. It’s just what came along to do the trick.
 
-<em>Photo credit: Shiroyama Athletics Stadium, <a href="https://flic.kr/p/ZVEAFt">Tagosaku / Flickr</a> under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/"CC BY-NC-ND 2.0</a>)
+<em>Photo credit: Shiroyama Athletics Stadium, <a href="https://flic.krp/ZVEAFt">Tagosaku / Flickr</a> under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>)
