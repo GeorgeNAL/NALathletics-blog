@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Collegiate spending on track & field dwarfs governing bodies': Cuts are bills coming due"
+title: "Collegiate spending on track & field props up the sport: Cuts expose lack of depth"
 date: 2020-06-11 12:00:00 +0600
 tags: ncaa usatf worldathletics sportsbiz
 categories: [track & field]
 author: "George"
 post_image: "assets/img/shiroyama-athletics-stadium.jpg"
-slug: /collegiate-spending-track-and-field-dwarfs-governing-bodies/
+slug: /collegiate-spending-track-and-field-governing-bodies/
 ---
 The NCAA likes to come back to their line that all but 2% of their 400,000 student-athletes will go pro in something other than sports. It’s a good line, especially when they are trying to put the spotlight on their support for all student-athletes instead of their exploiting a few for billions of dollars. But it should have been a warning to those sports who outsourced player development to the collegiate system.
 
