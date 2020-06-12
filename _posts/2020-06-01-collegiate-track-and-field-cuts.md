@@ -12,7 +12,7 @@ The COVID-19-induced shutdown is driving the need or providing the excuse for co
 
 The DOE does not have a uniform requirement for how schools report their XC/TF data: some are broken down by cross country, indoor track and outdoor track, while others lump all their XC/TF programs as “All Track Combined.” 
 
-# Division I cross country and track & field program cuts
+# Division I XC/TF program cuts
 ### 1. University of Akron: Men’s Cross-Country (May 14) 
 
 University of Akron cut men’s golf and women’s tennis along with the men’s cross country program. Akron’s combined expenditures for men’s XC/TF were $756,583, making the three sports combined the second-least expensive of the Zip’s five men’s programs. Only men’s golf cost less at $372,048. Women’s tennis cost $502,052, and was their second-least expensive women’s sport.
