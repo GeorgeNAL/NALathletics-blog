@@ -24,6 +24,8 @@ So, if not the raw finances and performance, what could have shaped the decision
 
 One possibility: sport-specific endowments.
 
+### Endowed sports are showing a higher survival rate
+
 Of the 11 programs that were cut, only one - men’s rowing - had an endowed coaching position. Of the 23 survivors, 18 have at least one endowed coach. Gymnastics is now the Cardinal's only remaining non-endowed men's sport. 
 
 The two [biggest financial drains on the department](https://blog.nalathletics.com/2020/06/11/collegiate-spending-track-and-field-governing-bodies), basketball and XC/TF, both have endowed coaches. The men’s and women’s basketball teams have separate endowments for each of their head coaches and associate coaches, and the combined men’s and women’s [cross country / track & field have an endowed directorship](https://gostanford.com/staff-directory).
@@ -32,26 +34,26 @@ Stanford’s non-endowed and endowed women’s sports programs lost about the sa
 
 On the men’s side, though, the non-endowed programs took a net loss of $2,995,017. Excluding the highly distorting football program, the men’s programs with endowments lost $8,946,349. 
 
-Stanford retained programs that cost the university four times as much as those they eliminated.
+<blockquote class="blockquote-single-quote"><p>Stanford retained programs with losses four times as much as those they eliminated. Perhaps Stanford wasn't paying for those greater losses the way they were the lesser ones.</p></blockquote>
 
 Of the two Ivy League schools that have culled their athletics department, one showed a similar if less dramatic pattern, while the other had an external expense to consider.
 
-Brown University cut 11 programs last month, including the entirety of men’s XC/TF. Counting cross country, indoor track and outdoor track as three separate programs (as they do), five of Brown’s 20 endowed programs and six of their 18 non-endowed programs were “transitioned” to club status. The Bears later restored men’s XC/TF on the grounds of diversity and inclusion. That reversal meant one-tenth of the endowed programs were cut, while one-third of the the non-endowed programs. The four sports affected were among the six least expensive in the department.
+Brown University cut 11 programs last month, including the entirety of men’s XC/TF. Counting cross country, indoor track and outdoor track as three separate programs (as they do), five of Brown’s 20 endowed programs and six of their 18 non-endowed programs were “transitioned” to club status. The Bears later restored men’s XC/TF on the grounds of diversity and inclusion. That reversal meant 10% of the endowed programs were cut, while 33% of the the non-endowed programs. The four sports affected were among the six least expensive in the department.
 
 ![Stanford University Athletics Department endowments, expenses and cuts](/assets/img/stanford-university-endowments-expenses.jpg)
 {: .blog-center-image}
 
-Dartmouth College announced this week that five programs would be cut: men’s and women’s swimming & diving, men’s lightweight rowing and men’s and women’s golf. Men’s and women’s golf were both endowed, but the college president cited the [$1,000,000 a year deficit from operating](https://news.dartmouth.edu/news/2020/07/dartmouth-announces-changes-varsity-athletics-program) the Hanover Country Club. The golf programs themselves just over $300,000 in 2018/19. The other three cut programs were not endowed. However, the companion sport to one of them - heavyweight rowing - was endowed, and will row on.
+Dartmouth College announced this week that five programs would be cut: men’s and women’s swimming & diving, men’s lightweight rowing and men’s and women’s golf. Men’s and women’s golf were both endowed, but the college president cited the [$1,000,000 a year deficit from operating](https://news.dartmouth.edu/news/2020/07/dartmouth-announces-changes-varsity-athletics-program) the Hanover Country Club. The golf programs themselves cost just over $300,000 in 2018/19. The other three cut programs were not endowed. However, the companion sport to one of them - heavyweight rowing - was endowed, and will row on.
 
 ### When did athletics departments realize endowments matter? 
 
 ESPN noted [this trend as early as 2014](https://www.espn.com/college-football/story/_/id/10473550/endowments-exchange-namesakes-new-trend-coaching), specifically citing Stanford as an example. “An endowed coaching title potentially saves an athletic department millions of dollars." They then quoted Stanford’s Bradford M. Freeman Director of Football, David Shaw:
 
-<h6>"There's a misnomer out there that Stanford is swimming in cash. We have enough money to do the things we need to do, but we are constantly taking money from donors who are willing to help in any way they can… to be able to offset [salaries] through gifts and not have the university bear all that on its own, to free up money for some other things, that's huge."</h6>
+"There's a misnomer out there that Stanford is swimming in cash. We have enough money to do the things we need to do, but we are constantly taking money from donors who are willing to help in any way they can… to be able to offset [salaries] through gifts and not have the university bear all that on its own, to free up money for some other things, that's huge."
 
 About two years after that article, someone in a position to do so started advising college track & field coaches to get their programs endowed. He didn’t need to imagine anything as bizarre as all things COVID-19 to know that, eventually, under some set of circumstances, The Day would come. His advice to the coaches was that an endowment might be more than a safety net and a revenue source, but a matter of survival - perhaps the determining factor.
 
-### Cross country / track & field missed the window on endowments
+### Endowment window shut down when the economy did
 
 To our knowledge, the only endowed track & field program to be cut was Brown University’s, and that bear wasn’t dead, just in an induced hibernation.  
 
