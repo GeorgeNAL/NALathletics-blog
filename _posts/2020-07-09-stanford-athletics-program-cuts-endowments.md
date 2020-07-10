@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Endowments show which college sports programs took their survival seriously"
+title: "Endowments show which college sports programs took control of their survival"
 date: 2020-07-09 12:00:00 +0600
 tags: ncaa
 categories: [track & field]
@@ -10,17 +10,17 @@ slug: /stanford-athletics-program-cuts-endowments/
 ---
 <h6>Collegiate sports programs who secured endowments while times were good have a survival advantage as budget cuts ravage athletics departments.</h6>
 
-Stanford University has only two revenue generating sports, and they just cut one of them. While the Cardinal’s football program net $13,991,971 on $44 million of revenue in the 2018/19 school year, squash added a modest $60,819 to the coffers. That was not enough for them to avoid the axe taken to many of the Tree’s branches this week.
+Stanford University had only two revenue generating sports, and they just cut one of them. While the Cardinal’s football program net $13,991,971 on $44 million of revenue in the 2018/19 school year, squash added a modest $60,819 to the coffers. That was not enough for them to avoid the axe taken to many of the Tree’s branches this week.
 
 Even with football, Stanford’s [athletics department operates at a loss](https://ope.ed.gov/athletics/#/), per the Department of Education’s Equity in Athletics database. The leaves fell off the money Tree to the tune of $22,157,627 in 2018/19. Take football out of the revenue stream, and the remaining 21 sports left the department $36 million in the red. 
 
 Yet Stanford’s two most costly sports survived. 
 
-Basketball and the combined cross country / track & field programs lost $4,218,613 and $3,593,765, respectively, in 2018/19. Their combined losses are only about $800,000 more than the combined losses of the 11 cut programs. Women’s basketball took a net loss of about 10 times that of men’s basketball, a program that in many schools is considered “revenue generating.” At least in XC/TF, there’s a bit more financial parity: the men lost $1.6 million while the women lost just under $2 million. 
+Basketball and the combined cross country / track & field programs lost $4,218,613 and $3,593,765, respectively, in 2018/19. Their combined losses are only about $800,000 more than the combined losses of the 11 cut programs. Women’s basketball lost about 10 times that of men’s basketball, a program that in many schools is considered “revenue generating.” At least in XC/TF, there’s a bit more financial parity: the men ran, jumped and threw a $1.6 million deficit while the women lost just under $2 million. 
 
 Stanford University has won the most NCAA Division I Championships in history. The decision to cut these 11 programs is probably not based on performance: a school cannot accumulate 116 national championships without distributing them equally across all sports. Stanford has won [team titles in 20 different sports](http://fs.ncaa.org/Docs/stats/champs_records_book/Overall.pdf), and has either team or individual titles in four of the eight affected sports. And, as the school said in their announcement of the cuts, these programs produced 27 Olympic medals from students and alumni. 
 
-So, if not the raw finances and performance, what could have shaped the decision to cut these 11 particular programs, while leaving less successful (in competitive terms) and less costly (in total balance terms) programs in place?
+So, if not the raw finances and performance, what could have shaped the decision to prune these 11 particular programs, while leaving less successful (in competitive terms) and less costly (in total balance terms) programs in place?
 
 One possibility: sport-specific endowments.
 
@@ -32,9 +32,9 @@ The two [biggest financial drains on the department](https://blog.nalathletics.c
 
 Stanford’s non-endowed and endowed women’s sports programs lost about the same amount of money in 2018/19. Those with named coaching positions ran a loss of $12,045,675, while the non-endowed female sports lost just under $12 million. 
 
-On the men’s side, though, the non-endowed programs took a net loss of $2,995,017. Excluding the highly distorting football program, the men’s programs with endowments lost $8,946,349. 
+On the men’s side, though, the non-endowed programs sapped the Tree to the tune of $2,995,017. Excluding the highly distorting football program, the men’s programs with endowments lost $8,946,349. 
 
-<blockquote class="blockquote-single-quote"><p>Stanford retained programs with losses four times as much as those they eliminated. Perhaps Stanford wasn't paying for those greater losses the way they were the lesser ones.</p></blockquote>
+<blockquote class="blockquote-single-quote"><p>Stanford retained programs with losses four times as much as those they eliminated. Perhaps Stanford wasn't covering those deficits the way they were the lesser ones.</p></blockquote>
 
 Of the two Ivy League schools that have culled their athletics department, one showed a similar if less dramatic pattern, while the other had an external expense to consider.
 
