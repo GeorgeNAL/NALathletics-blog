@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Endowments show which college sports programs took control of their survival"
-date: 2020-07-09 12:00:00 +0600
+date: 2020-07-13 07:00:00 +0600
 tags: ncaa
 categories: [track & field]
 author: "George"
