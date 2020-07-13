@@ -34,7 +34,7 @@ Stanford’s non-endowed and endowed women’s sports programs lost about the sa
 
 On the men’s side, though, the non-endowed programs cost $2,995,017. Excluding the highly distorting football program, the men’s programs with endowments sapped the Tree to the tune of $8,946,349. 
 
-<blockquote class="blockquote-single-quote"><p>Stanford retained programs lost four times as much as those they eliminated. Perhaps Stanford wasn't on the hook for those sports' deficits the way they were the lesser ones.</p></blockquote>
+<blockquote class="blockquote-single-quote"><p>Stanford retained programs that lost four times as much as those they eliminated. Perhaps Stanford wasn't on the hook for those sports' deficits the way they were the lesser ones.</p></blockquote>
 
 Of the two Ivy League schools that have culled their athletics department, one showed a similar if less dramatic pattern, while the other had an external expense to consider.
 
@@ -59,7 +59,7 @@ To our knowledge, the only endowed track & field program to be cut was Brown Uni
 
 Clayton Murphy, who is the most vocal member of University of Akron’s cross-country alumni pushing for private funding of the school’s recently discontinued program, said Akron’s athletic department is passing up the chance to say “We made a mistake. We can privately fund these programs. We can keep the athletes here.” According to Murphy, “Everyone would understand if you can privately fund a program, it doesn’t deserve to be cut in the first place.”
  
-Some people did understand that, 4-5 years ago, while he was a student-athlete at Akron. 
+Some people did understand that, 4-5 years ago, when he was a student-athlete at Akron. 
 
 While Murphy is [criticizing the university’s lack of transparency](https://www.cantonrep.com/sports/20200630/olympian-clayton-murphy-says-uarsquos-handling-of-eliminated-sports-damaged-reputation-relationship-with-donors) around their program cuts, he should be zipping around Akron’s athletics department to see if the XC/TF program got the proverbial memo about endowments, and if they chose to ignore it.
 
