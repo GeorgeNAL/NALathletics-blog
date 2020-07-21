@@ -14,13 +14,13 @@ Obviously, there’s no point in asking you javelin throwers out there if you’
 
 We’ve been there. 
 
-We want to make it easier for athletes, fans and coaches in athletics. The first way we’re going to do that is making it easier to find a place to jump, throw or run.
+<h6>We want to make it easier for athletes, fans and coaches in athletics. The first way we’re going to do that is making it easier to find a place to jump, throw or run.</h6>
 
 what3words is a London-based company that has given a [unique 3-word address to every 3m x 3m square](https://what3words.com/) on earth. A few years ago, we realized that a lot of athletics happens in 3m x 3m squares. Throws circles, horizontal jump pits, high jump and pole vault landing pads can all fit snugly in a 3m x 3m square, as can a few lanes of the start or finish line of a track.
 
 Instead of telling people to show up at a track or giving them the street address of a school, and then expecting them to wander around until they find the event facility they need and hope it was sufficient, people can give the 3-word address of every throw circle, jump pit and javelin runway. And to give a nod to the runners, we included the start line of lane 1. 
 
-Our map will eventually have the [3-word address for every throwing, jumping and running facility](https://nalathletics.com/map), well, anywhere, starting in the US and southern Ontario. 
+Our map will eventually have the [3-word address for each individual place to jump, throw or start a run](https://nalathletics.com/map), well, anywhere, starting in the US and southern Ontario. 
 
 On our to-do list is opening up the map so you can help us [build the AirBnb of athletics](https://blog.nalathletics.com/2020/03/18/airbnb-athletics-who-needs-it).
 
