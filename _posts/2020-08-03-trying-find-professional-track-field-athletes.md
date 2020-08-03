@@ -5,7 +5,7 @@ date: 2020-08-03 09:00:00 +0600
 tags: ncaa usatf sportsbiz
 categories: [track & field]
 author: "George"
-post_image: "usatf-2018-outdoor-national-championships.jpg"
+post_image: "assets/img/usatf-2018-outdoor-national-championships.jpg"
 slug: /finding-professional-track-and-field-athletes/
 ---
 <h6>Track & field does not make it easy to know who - or what - a professional track & field athlete is. National championship meets are more likely to surface students, side hustlers and ambiguities than an unequivocal pro.</h6>
@@ -49,7 +49,7 @@ The pertinent question is what is really driving those 60%, along with those who
 
 Is their ambition to someday become a company-affiliated athlete? Do they want to be professionals - however defined in whatever structure - in track & field / athletics? Or is competing at a national championship an end in itself, a more competitive version of a participant medal but one with not much athletic, professional or financial ambition beyond that?
 
-That’s what we need to know, so if you’re one of the 60% or one of the roughly 30,000 track & field student-athletes who graduate and leave the sport every year, <a href=mailto:george@nalathletics.com>drop us a line</a>. We will literally (literally!) talk to each of you, and maybe we’ll do a group Zoom or podcast to hear and share what you have to say. 
+That’s what we need to know, so if you’re one of the 60% or one of the roughly 30,000 track & field student-athletes who graduate and leave the sport every year, <a href="mailto:george@nalathletics.com">drop us a line</a>. We will literally (literally!) talk to each of you, and maybe we’ll do a group Zoom or podcast to hear and share what you have to say. 
 
 *For what it’s worth, we consider a professional athlete to be anyone who makes their full-time living as an athlete. Athletes who rely on family support in order not to have a day job don’t count. A semi-pro athlete is anyone who gets some value from sponsorship(s) or competition, but has to work a day job to keep the lights on. 
 
