@@ -1,13 +1,14 @@
+---
 layout: post
 title: "Pac-12 track & field can't afford football giving up 50% of revenue"
-date: 2020-08-04 11:00:00 +0600
+date: 2020-08-04 11:30:00 +0600
 tags: ncaa finances
 categories: [track & field]
 author: "George"
 post_image: "assets/img/pac-12-track-and-field-championships.jpg"
 slug: /pac-12-track-and-field-football-player-demands/
 ---
-Pac-12 schools need more than 50% of football’s revenue just to keep football afloat, let alone financially draining sports like track & field.
+<h6>Pac-12 schools need more than 50% of football’s revenue just to keep football afloat, let alone financially draining sports like track & field.</h6>
 
 Among the least likely and least on-message of the [wide-ranging demands](https://www.theplayerstribune.com/en-us/articles/pac-12-players-covid-19-statement-football-season) of a group of Pac-12 football players was section IV.A.1: “Distribute 50% of each sport’s total conference revenue evenly among athletes in their respective sports.”
 
