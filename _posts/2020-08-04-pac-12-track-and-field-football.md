@@ -22,7 +22,7 @@ Per the Department of Education’s Equity in Athletics data, the Pac-12’s sch
 
 That leaves $242.8 million to cover the rest of schools’ sports programs.
 
-Earlier blogs have pointed out that college football and track & field are at opposite ends of the ledger: the former is the bigger (only) revenue generator, the latter is the biggest financial loser. College track & field loses - not just spends, but loses - millions at the individual school level and hundreds of millions at the nationwide level each year. 
+Our previous blogs have pointed out that college football and track & field are at opposite ends of the ledger: the former is the biggest (only) revenue generator, the latter is (often, usually) the biggest financial loser. College track & field loses - not just spends, but loses - millions at the individual school level and hundreds of millions at the nationwide level each year. 
 
 Eight of the Pac-12’s athletics departments (and there actually are 12 schools in the Pac-12) were in the black for the 2018/19 school year. University of Washington and the University of Oregon came out the furthest ahead with operating balances of $21.8 million and $19.5 million, respectively. At the other end, UCLA and Stanford - who recently [cut many of their non-endowed sports](https://blog.nalathletics.com/2020/07/13/stanford-athletics-program-cuts-endowments) programs - lost $26.2 million and $22.2 million, respectively. 
 
@@ -41,7 +41,7 @@ Only one school, therefore, could support track & field on half of football’s 
 
 As for the other eight, for as much as [track & field loses each year](https://blog.nalathletics.com/2020/06/11/collegiate-spending-track-and-field-governing-bodies), football would lose even more were they to forego 50% of their revenue. 
 
-If a school or conference were to look at these numbers and decide they would rather keep more programs than more student-athletes, the smart thing to do then would be to cut their most expensive programs. At six Pac-12 schools, track & field is the biggest financial drain. It’s the second-most expensive at three others. Cutting one very expensive sport could preserve several less financially leaky programs. They might be particularly attracted to this option if the track & field program was not endowed. 
+If a school or conference were to look at these numbers and decide they would rather keep more programs than more student-athletes, the smart thing to do then would be to cut their most expensive programs. At six Pac-12 schools, track & field is the biggest financial drain. It’s the second-most expensive at three others. Cutting one very expensive sport could preserve several less financially leaky programs. Administrators might be particularly attracted to this option if the [track & field program was not endowed](https://blog.nalathletics.com/2020/07/13/stanford-athletics-program-cuts-endowments). 
 
 Football needs more than half of its current revenue just to keep itself afloat, but college sports have piled a greater responsibility on football than its own survival. Football keeps the other sports going, and no collegiate sport needs football as much as track & field.
 
