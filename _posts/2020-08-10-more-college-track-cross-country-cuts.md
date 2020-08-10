@@ -50,6 +50,6 @@ The men’s TF/XC operated on $384,814 in 2018/19. This is well less than men’
 
 GW's men's overall track & field / cross country program is the least-expensive men’s varsity sport, just as water polo is for the women. For both genders, the only sports that cost less are two that were demoted: sailing and squash. GWU probably saved less by cutting men’s indoor track than by transitioning those other sports to a different accounting code. Cutting men’s tennis, at least, provides more significant savings.
 
-<h6>This post, like the last one, will be updated as <a href="https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts>more TF/XC programs are cut</a> or until so many are cut that we do a third post. If we've missed one or there's something more we should know, <a href="mailto:george@nalathletics.com">drop us a line</a>.</h6>
+<h6>This post, like the last one, will be updated as <a href="https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts">more TF/XC programs are cut</a> or until so many are cut that we do a third post. If we've missed one or there's something more we should know, <a href="mailto:george@nalathletics.com">drop us a line</a>.</h6>
 
 <em>Photo credit: Mr.TinDC, [Flickr](https://flic.kr/p/bUu1Jm) under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/).</em>
