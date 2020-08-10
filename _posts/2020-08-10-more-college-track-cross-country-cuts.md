@@ -30,7 +30,7 @@ The other men’s sports cut - tennis and swimming & diving - total out to just 
 
 On August 5, UConn became the [first FBS program to cancel its football](https://www.foxsports.com/stories/college-football/uconn-cancels-2020-football-season) season. Their decision came around the time Divisions II and III cancelled their fall championships, and just before FCS waved off the season. The self-inflicted reality of a year without football and its $16 million of revenue (and expenses) will show if the earlier, presumably defensive cuts were sufficient or merely a prelude.
 
-Johnson & Wales University, multiple men’s and women’s XC/TF (June 25 and August 6, 2020)
+### Johnson & Wales University, multiple men’s and women’s XC/TF (June 25 and August 6, 2020)
 
 Johnson & Wales started the year with four campuses and athletics programs at each of them. They will end the year with two campuses, each with a handful of their sports.
 
@@ -50,6 +50,6 @@ The men’s TF/XC operated on $384,814 in 2018/19. This is well less than men’
 
 GW's men's overall track & field / cross country program is the least-expensive men’s varsity sport, just as water polo is for the women. For both genders, the only sports that cost less are two that were demoted: sailing and squash. GWU probably saved less by cutting men’s indoor track than by transitioning those other sports to a different accounting code. Cutting men’s tennis, at least, provides more significant savings.
 
-<h6>This post, like the last one, will be updated as [more TF/XC programs are cut](https://blog.nalathletics.com/page/2/) or until so many are cut that we do a third post. If we've missed one or there's something more we should know, <a href="mailto:george@nalathletics.com">drop us a line</a>.</h6>
+<h6>This post, like the last one, will be updated as [more TF/XC programs are cut](https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts) or until so many are cut that we do a third post. If we've missed one or there's something more we should know, <a href="mailto:george@nalathletics.com">drop us a line</a>.</h6>
 
 <em>Photo credit: Mr.TinDC, [Flickr](https://flic.kr/p/bUu1Jm) under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/).</em>
