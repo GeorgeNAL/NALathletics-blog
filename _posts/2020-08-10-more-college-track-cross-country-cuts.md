@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "College track & field and cross country program cuts, Part II"
-date: 2020-08-10 08:00:00 +0600
+date: 2020-08-10 08:00:00 -0500
 tags: ncaa
 categories: [track & field]
 author: "George"
