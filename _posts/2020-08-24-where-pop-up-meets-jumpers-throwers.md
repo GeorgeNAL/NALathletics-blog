@@ -2,7 +2,7 @@
 layout: post
 title: "Where are all the pop-up mini-meets for jumpers and throwers?"
 date: 2020-08-24 10:30:00 -0500
-tags: track & field, jumping, throwing, what3words
+tags: track, jumping, throwing, what3words
 categories: [athletics]
 author: "George"
 post_image: "/assets/img/sand-springs-throws-circles.jpg"
@@ -12,11 +12,11 @@ slug: /where-pop-up-meets-jumpers-throwers/
 
 Old and busted: Barely publicized track meets that no one much cares to attend. New hotness: Intentionally unpublicized track meets that no one is allowed to attend. 
 
-Track & field may have the smallest difference in fan attendance before and during / after the coronavirus-induced shutdown. Whereas the sport barely showed any interest in attracting fans before all this started, this summer track meet organizers intentionally withheld the location of track meets to ensure no one showed up. Because of all the problems track & field has, hordes of fans trying to get into a stadium is clearly one of them.
+Track & field may have the smallest difference in fan attendance before and during / after the coronavirus-induced shutdown. Whereas the sport barely showed any interest in attracting fans before all this started, this summer track meet organizers intentionally withheld the location of track meets to ensure no one showed up. Because of all the [problems track & field has](https://blog.nalathletics.com/2020/03/30/athletics-wants-more-athletes), hordes of fans trying to get into a stadium is clearly one of them.
 
 Noticeably missing from the various clandestine pop-up meets were field events. 
 
-The west coast has had its share of mid-distance and distance races, some of which resulted in notable times. The Dallas-area featured on a check-the-box-hit-the-quota “series” of “meets” that allowed sprinters to hit one respectable mark and then get contractual credit for four other “competitions.” 
+The west coast has had its share of mid-distance and distance races, some of which resulted in notable times. The Dallas-area featured a check-the-box-hit-the-quota “series” of “meets” that allowed sprinters to hit one respectable mark and then get contractual credit for four other “competitions.” 
 
 But outside of one throws-specific meet in Couer d’Alene, ID, that produced an American record and some backyard pole vaulting, we’ve yet to see anything from the world of jumps and throws.
 
@@ -26,7 +26,7 @@ But even for those of us bothering to go snooping for such things, this summer h
 
 What little there was seems to be accelerating a mini-trend in track & field: event- or discipline-specific events. Distance runners go off and do their thing, pole vaulters go elsewhere and throwers find an even more remote location. Since USATF false-started like a guy who takes off on the word “Set,” the events and disciplines won’t even have a chance to come together for a [national championship track & field meet](https://blog.nalathletics.com/2020/08/03/finding-professional-track-and-field-athletes). 
 
-The single-event or single-discipline mini-meets ostensibly satisfy their hard-core base of fans, but by doing so they set a very low ceiling on attendance and growth. There are only so many people who are interested in that one thing, and there are only so many times those people can sit and watch that one thing over the course of a season. Limited-event mini-meets have two outcomes: a halfway decent number of people come out to one in a given area, or a sparse handful come to each of several in that area. There’s no road to a consistently decent (moderate, respectable - choose your word) attendance over the course of a season in one city or town.
+The single-event or single-discipline mini-meets ostensibly satisfy their hardcore fan base, but by doing so they set a very low ceiling on attendance and growth. There are only so many people who are interested in that one thing, and there are only so many times those people can sit and watch that one thing over the course of a season. Limited-event mini-meets have two outcomes: a halfway decent number of people come out to one in a given area, or a sparse handful come to each of several in that area. There’s no road to a consistently decent (moderate, respectable - choose your word) attendance over the course of a season in one city or town.
 
 Not that that has ever been [track & field’s goal](https://blog.nalathletics.com/2020/03/30/athletics-wants-more-athletes). 
 
@@ -42,4 +42,4 @@ If you’re a thrower in Parma, OH, yes, you and your long jumping, pole vaultin
 
 Like so much else in track & field, the shutdown workarounds work fine for the laughably (in a laugh-cry sort of way) small number of people that they work for, and exclude and ignore everyone else, athletes and fans alike, in equal parts.  
 
-For all those others - the athletes who have been done over, the fans who have been neglected and the people who should be athletes and fans if only the sport had ever reached them - NALathletics is stepping in. <a href="mailto:george@nalathletics.com">Drop us a line</a> if any of that sounds like you. Let us know the 3-word address of where you spend your best hours, and let’s see what we can do together. 
+For all those others - the athletes who have been done over, the fans who have been neglected and the people who should be athletes and fans if only the sport had ever reached them - NALathletics is opening another way. <a href="mailto:george@nalathletics.com">Drop us a line</a> if any of that sounds like you. Let us know the 3-word address of where you spend your best hours, and let’s see what we can do together. 
