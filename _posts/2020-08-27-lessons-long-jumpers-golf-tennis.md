@@ -16,7 +16,7 @@ We see the consequences of this in the sport’s marketing, sponsorships, revenu
 
 We also see it in how the athletes react to the occasional [one-off changes in the presentation](https://stockholm.diamondleague.com/en/lists-results-stockholm/) of their events. 
 
-The reaction of elite long jump community, led by the competitors from the meet, to the [Stockholm Diamond League long jump](https://www.athleticsweekly.com/diamond-league/long-jump-experiment-falls-short-1039931733/) shows how little awareness and knowledge these athletes have of any other sport. Reading their comments on Twitter and in interviews makes me wonder if they have any idea of how matches unfold in major sports life golf, tennis, soccer, American football, hockey.
+The reaction of the elite long jump community, led by the competitors from the meet, to the [Stockholm Diamond League long jump](https://www.athleticsweekly.com/diamond-league/long-jump-experiment-falls-short-1039931733/) shows how little awareness and knowledge these athletes have of any other sport. Reading their comments on Twitter and in interviews makes me wonder if they have any idea of how matches unfold in major sports life golf, tennis, soccer, American football and hockey.
 
 In each of those sports, what an individual or team needs to do to win may change over the course of a single game, match or tournament. Even in the individual sports, elements of excellence that mirror the definition of victory may not be enough to secure the victory. 
 
@@ -30,11 +30,11 @@ The winner of the golf tournament is the player with the lowest total number of 
 
 But to reach the fourth day of the competition, you need to make the cut on Friday. Only those golfers who achieve a certain score or reach a certain place on the leaderboard after the first two days advance to the final days. This is not much different from the usual cut after the first three flights of a long jump.
 
-It’s also not that different from the format at the Stockholm Diamond League. One of the most common complaints from the long jumpers - including the winner of the event! - is that the person with the longest jump of the day didn’t win the meet. The longest jumps of the day happened in the second and third rounds. In the final “winner takes all round,” the longest jump was .04 meters shorter.
+It’s also not that different from the format at the Stockholm Diamond League. One of the most common complaints from the long jumpers - including the winner of the event! - is that the person with the longest jump of the day didn’t win the meet. The longest jumps of the day happened in the second and third rounds. In the final “winner takes all round,” the longest jump was .04 meters shorter than those earlier ones.
 
-This is analogous to a golfer shooting the lowest round of the weekend on Friday, but because he played so poorly on Thursday, he didn’t make the cut. His Friday round stands as the lowest of the tournament, even though he didn’t play the full tournament. 
+This is analogous to a golfer shooting the lowest round of the weekend on Friday, but because he played so poorly on Thursday, he didn’t make the cut. His Friday round stands as the lowest of the tournament, even though he didn’t play - let alone win - the full tournament. 
 
-## <STRONG>RELATED: [DO LONG JUMPERS HAVE A LEG TO COMPLAIN ON? WHERE ARE ALL THE POP-UP MINI-MEETS FOR FIELD EVENTS?](https://blog.nalathletics.com/2020/08/24/where-pop-up-meets-jumpers-throwers)</STRONG>
+#### <STRONG>RELATED: [DO LONG JUMPERS HAVE A LEG TO COMPLAIN ON? WHERE ARE ALL THE POP-UP MINI-MEETS FOR FIELD EVENTS?](https://blog.nalathletics.com/2020/08/24/where-pop-up-meets-jumpers-throwers)</STRONG>
 
 Similarly, the winner of the tournament may not have had the best round or even a top-five round over any of the four days. She may not have had the most birdies in the tournament, and maybe not made an eagle. But that average-if-never-great level of consistency is enough for her to win, even if - perhaps - another golfer had more birdies and a hole-in-one, but a corresponding number of bogeys.
 
