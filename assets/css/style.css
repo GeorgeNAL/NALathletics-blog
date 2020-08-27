@@ -106,11 +106,14 @@ h1 a,
 h2 a,
 h3 a,
 h4 a,
-h5 a,
 h6 a {
 	color: inherit;
 }
-h1 {
+h5 a {
+    color: #265ec3;
+}
+
+1 {
 	font-size: 40px;
 	font-weight: 500;
 }
