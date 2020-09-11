@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minnesota track & field cuts will impact results sheets more than balance sheets"
-date: 2020-09-10 21:30:00 -0500
+date: 2020-09-10 21:30:00 -0600
 tags: ncaa
 categories: [track & field]
 author: "George"
