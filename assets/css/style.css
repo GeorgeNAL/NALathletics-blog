@@ -129,6 +129,7 @@ h4 {
 }
 h5 {
 	font-size: 18px;
+	line-height: 36px;
 }
 h6 {
 	font-size: 16px;
@@ -143,7 +144,7 @@ li {
 p {
 	font-size: 16px;
 	font-weight: normal;
-	line-height: 26px;
+	line-height: 28px;
     color: #040000;
 	margin-bottom: 15px;
 }

@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "USATF fumbles on another Team USA: World Half-Marathon Championship edition"
-date: 2020-09-12 14:45:00
+title: "USATF brushes off athletes, punts on Team USA for World Half-Marathon Championship"
+date: 2020-09-12 15:00:00
 tags: usatf worldathletics roadracing
 categories: [running]
 author: "George"
 post_image: "/assets/img/world-half-marathon-championships.jpg"
-slug: /usatf-fumbles-world-half-marathon-championship/
+slug: /usatf-2020-world-half-marathon-championship/
 ---
-<h6>Next month's World Athletics Half Marathon Championships will take place without Team USA, because the national governing body chose to deny athletes who rightfully qualified their chance to compete in their event’s biggest stage, and did so in the quietest way possible. Most of the sport- so far - is reciprocating the meek silence.</h6>
+<h6>Next month's World Athletics Half Marathon Championships will take place without Team USA, because USA Track & Field chose to deny athletes who rightfully qualified their chance to compete in their event’s biggest stage, and did so in the quietest way possible. If </h6>
 
 National governing bodies don’t have many actual jobs, and given how dismally they sometimes perform those, it’s remarkable so many people want them to expand beyond those few, apparently too-challenging tasks.
 
 One of the primary duties of national governing bodies - indeed, the very task the Ted Stevens Act granted them a monopoly to perform - is fielding Team USA in their respective sport for international competitions. USA Track & Field’s shambolic handling of the qualification criteria and [selection procedures for the 2019 Pan-American Games](https://www.letsrun.com/news/2019/06/usa-track-and-fields-pan-am-debacle-gets-even-weirder-an-arbitrator-has-apparently-ruled-against-usatf-but-only-in-certain-events/) was a new low yet perfectly on-brand for the organization and the sport. The stealth editing of the official qual standards, the intern-blaming, the flaccid response from the affected athletes… very USATF, much track & field, among all involved. The only institution that came out [looking good was LetsRun](https://www.letsrun.com/news/2019/06/usatf-makes-it-up-as-it-goes-along-again-ignores-its-own-selection-procedures-for-2019-pan-american-games/). Wow.
 
-At least last year, USA Track & Field sent a team to the Pan-Am Games which, after [two rounds of arbitration](https://www.letsrun.com/news/2019/07/usatfs-unprofessionalism-continues-new-pan-am-team-usa-roster-is-released-but-press-release-fails-to-mention-36-8-of-team-was-changed/), was the “right” team. Summer of 2020 gives us a different competition and a different outcome - but ultimately the same failure to live up to the standards of “You had one job.”
+At least last year, USA Track & Field sent a team to the Pan-Am Games which, after [two rounds of arbitration](https://www.letsrun.com/news/2019/07/usatfs-unprofessionalism-continues-new-pan-am-team-usa-roster-is-released-but-press-release-fails-to-mention-36-8-of-team-was-changed/), was the “right” team. Summer of 2020 offers different details but the same failure to live up to the standards of “You had one job.”
 
 Tucked into the middle of [Minnesota Distance Elite’s newsletter](https://mailchi.mp/eb96edcaece5/x9ooz8au4d-8026478) from September 11 is this:
 
@@ -34,9 +34,9 @@ USA Track & Field - like any national governing body - exists to hold national c
 
 ##### <strong>MORE INSTITUTIONAL FAILURES: [BIG 10 XC/TF SHOULD CO-SIGN FOOTBALL PARENTS' LETTER TO SAVE THEIR SPORTS](https://blog.nalathletics.com/2020/08/17/big-10-cross-country-track-and-field-football-parents)</strong>
 
-USATF has now defaulted on both responsibilities this summer. They cancelled the Outdoor National Championships - something many European countries held later in the summer - and now they are choosing not to field a national team squad in a global championship. They mouthed something about safety, but given the return of sports - and, in some cases, fans - in the US and around the world, “safety” comes off looking like a cover for indecisiveness, generic unconcern or risk aversion. 
+USATF has defaulted on both responsibilities this summer. They cancelled the Outdoor National Championships - something many European countries held later in the summer - and now they are choosing not to field a national team squad in a global championship. They mouthed something about safety, but given the return of sports - and, in some cases, fans - in the US and around the world, “safety” comes off looking like a cover for indecisiveness, generic unconcern or institutional risk aversion. 
 
-Yes, there are risks. There are always risks. Twice in 2020 USATF has decided that fulfilling their basic charter-defined missions are not worth the risks most other sports have found ways to mitigate or overcome. 
+Yes, there are risks. There are always risks. Twice now in 2020 USATF has decided that fulfilling their basic charter-defined missions are not worth the risks most other sports have found ways to mitigate or overcome. 
 
 Perhaps at some point athletes will start thinking that their athletic careers, their athletics ambitions, are not worth the risks of putting those careers and ambitions in the hands of the national governing body.
 
