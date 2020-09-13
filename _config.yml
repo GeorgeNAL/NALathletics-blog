@@ -1,5 +1,5 @@
 title: "NALathletics blog"
-email: "george.perry@austintrackclub.com"
+email: "george@nalathletics.com"
 description: >- # this means to ignore newlines until "baseurl:"
   NALathletics makes it easier to be an athlete or fan of athletics. Follow
   our blog to follow along with us as we make this happen. `#ForThoseWhoWantIt
@@ -7,8 +7,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.nalathletics.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
 mailchimp_list: "http://eepurl.com/gXBpev"
-twitter_username: jekyllrb
-github_username:  jekyll
 
 logo_url: "/assets/img/nalathletics-logo.png"
 cover_image: "assets/img/track-long-jump-complexe-sportif-guy-david-stade.jpg"
@@ -33,9 +31,6 @@ author:
   bio: "Find out more about why we're here, enjoy some wonderfully ludicrous stories from track & field and stay up on what we're doing."
   image: "/assets/img/nalathletics-red-logo.png"
 
-dailymotion_url: "https://dailymotion.com/nalathletics"
-instagram_url: "https://instagram.com/nalathletics"
-youtube_url: "https://youtube.com/nalathletics"
 copyright_text: '<p>Copyright © 2020 <a href="#">NALAthletics</a>. All Rights Reserved</p>'
 
 collections:
