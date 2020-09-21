@@ -36,17 +36,15 @@ Where do track & field people expect [new ideas and best practices to come from]
 
 People who work in track & field share Capriotti’s mono-everything approach. They don’t work in the sports industry - they work in track & field. 
 
-Designers will move around the shoe companies, media members tend to stay put at one outlet but might move around a small circuit, and there’s often a thin line - or no line - between the marketing reps, agents, club and event managers. But whatever the details, they stay on the [track & field / road running island](https://blog.nalathletics.com/2020/03/30/athletics-wants-more-athletes). 
+Designers will move around the shoe companies, media members tend to stay put at one outlet but might move around a small circuit, and there’s often a thin line - or no line - between the marketing reps, agents, club managers and event directors. But whatever the details, they stay inside the [walls of track & field / road running](https://blog.nalathletics.com/2020/03/30/athletics-wants-more-athletes). 
 
 The revolving door is between adjoining motel rooms.
 
 Even if they are not consciously following the standard Nike has permitted track & field, they are emulating one man who has done one job in one place for over two decades, rather than an industry that has left that man and their sport behind.
 
-Nike’s and Capriotti’s mutual indulgence in no way exonerates the rest of the sport for their lack of professional breadth or intellectual curiosity. 
+Nike’s and Capriotti’s mutual indulgence in no way exonerates the rest of the sport for their lack of professional breadth or intellectual curiosity. I’ve noted for years that I have never once encountered someone else from the track & field world at conferences or even Meetups in sports marketing, sports media, sponsorship, sports tech or anywhere else. 
 
-I’ve noted for years that I have never once encountered someone else from the track & field world at conferences or even Meetups in sports marketing, sports media, sponsorship, sports tech or anywhere else. 
-
-#### RELATED: [TRYING TO FIND THE PROFESSIONAL TRACK & FIELD ATHLETES AT USA OUTDOOR NATIONAL CHAMPIONSHIPS](https://blog.nalathletics.com/2020/08/03/finding-professional-track-and-field-athletes)
+##### RELATED: [TRYING TO FIND THE PROFESSIONAL TRACK & FIELD ATHLETES AT USA OUTDOOR NATIONAL CHAMPIONSHIPS](https://blog.nalathletics.com/2020/08/03/finding-professional-track-and-field-athletes)
 
 Most professionals in the sports industry work in just that: the sports industry. Their career takes them from one sport to another, from major to minor back to major leagues, from team to brand to media to startup. When they leave a powerful position, it makes headlines in the sports industry. Capriotti’s departure has gone unremarked upon outside of track & field circles.
 
@@ -54,7 +52,7 @@ Most professionals in the sports industry work in just that: the sports industry
 
 One of the great tests of leadership is how well an organization can function in its leader’s absence. John Capriotti made himself the indispensable man of track & field at Nike, where for over 20 years he showed little interest in or hope of passing that test. 
 
-#### MORE: [TRACK & FIELD MAY NOT WANT YOU, BUT ATHLETICS DOES](https://blog.nalathletics.com/2020/03/30/athletics-wants-more-athletes)
+##### MORE: [TRACK & FIELD MAY NOT WANT YOU, BUT ATHLETICS DOES](https://blog.nalathletics.com/2020/03/30/athletics-wants-more-athletes)
 
 Nike may have permitted track & field its stasis, but that does not mean Nike will spare track & field the consequences of Capriotti’s legacy. Track & field’s decades-long exemption from Nike’s <em>modus operandi</em> leaves it without internal champions or bottom-line arguments. Nike’s new leadership may see track & field for what it has always been: a vertical disconnected from the company’s internal career standards and personnel pipelines; a sport isolated from the rest of the industry; a fiefdom built on market share and control rather than innovation and growth. 
 
