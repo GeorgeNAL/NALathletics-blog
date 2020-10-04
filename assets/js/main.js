@@ -10,6 +10,12 @@
       .css({ overflow: "visible" });
   });
 
+  // meanmenu
+  $('#mobile-menu').meanmenu({
+    meanMenuContainer: '.mobile-menu',
+    meanScreenWidth: "1200"
+  });
+
   // sticky
   var wind = $(window);
   var sticky = $("#header-sticky");
