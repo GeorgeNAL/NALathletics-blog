@@ -389,8 +389,9 @@ label {
   position: relative;
 }
 .main-menu ul li a {
-    color: #040000;
+    color: #265ec3;
 	font-size: 14px;
+	font-family: 'Brix Slab', sans-serif;
 	line-height: 1;
 	font-weight: 500;
 	padding: 10px 0;
