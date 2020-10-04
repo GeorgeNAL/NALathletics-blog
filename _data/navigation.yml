@@ -3,13 +3,7 @@
 - text: Map
   url: https://nalathletics.com/map
 - text: Blog
-  url: /blog/
+  url: htpp://blog.nalathletics.com
 - text: Example 3
   url: /
-  submenu:
-    - text: Home 2
-      url: /index-2
-    - text: Home 3
-      url: /index-3
-    - text: Home 4
-      url: /index-4
+
