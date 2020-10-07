@@ -18,6 +18,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-archives
+  - jekyll-sitemap
 
 exclude:
   - Dockerfile
@@ -112,3 +113,10 @@ feed:
   collections:
     posts:
       path: "/index.xml"
+
+defaults:
+  -
+    scope:
+      path:            "assets/**"
+    values:
+      sitemap:         false
