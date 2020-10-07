@@ -28,7 +28,7 @@ One possibility: endowed sports programs.
 
 Of the 11 programs that were cut, only one - men’s rowing - had an endowed coaching position. Of the 23 survivors, 18 have at least one endowed coach. Gymnastics is now the Cardinal's only remaining non-endowed men's sport. 
 
-The two [biggest financial drains on the department](https://blog.nalathletics.com/2020/06/11/collegiate-spending-track-and-field-governing-bodies), basketball and XC/TF, both have endowed coaches. The men’s and women’s basketball teams have separate endowments for each of their head coaches and associate coaches, and the combined men’s and women’s [cross country / track & field have an endowed directorship](https://gostanford.com/staff-directory).
+The two [biggest financial drains on the department](https://nalathletics.com/blog/2020/06/11/collegiate-spending-track-and-field-governing-bodies), basketball and XC/TF, both have endowed coaches. The men’s and women’s basketball teams have separate endowments for each of their head coaches and associate coaches, and the combined men’s and women’s [cross country / track & field have an endowed directorship](https://gostanford.com/staff-directory).
 
 Stanford’s non-endowed and endowed women’s sports programs lost about the same amount of money in 2018/19. Those with named coaching positions ran a loss of $12,045,675, while the non-endowed female sports lost just under $12 million. 
 
@@ -38,7 +38,7 @@ On the men’s side, though, the non-endowed programs cost $2,995,017. Excluding
 
 Of the two Ivy League schools that have culled their athletics department, one showed a similar if less dramatic pattern, while the other had an external expense to consider.
 
-Brown University cut 11 programs last month, including the entirety of men’s XC/TF. Counting cross country, indoor track and outdoor track as three separate programs (as they do), five of Brown’s 20 endowed programs and six of their 18 non-endowed programs were “transitioned” to club status. The [Bears later restored men’s XC/TF](https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts) on the grounds of diversity and inclusion. That reversal meant 10% of the endowed programs were cut, alongside 33% of the the non-endowed programs. The four sports affected were among the six least expensive in the department.
+Brown University cut 11 programs last month, including the entirety of men’s XC/TF. Counting cross country, indoor track and outdoor track as three separate programs (as they do), five of Brown’s 20 endowed programs and six of their 18 non-endowed programs were “transitioned” to club status. The [Bears later restored men’s XC/TF](https://nalathletics.com/blog/2020/06/01/collegiate-track-and-field-cuts) on the grounds of diversity and inclusion. That reversal meant 10% of the endowed programs were cut, alongside 33% of the the non-endowed programs. The four sports affected were among the six least expensive in the department.
 
 ![Stanford University Athletics Department endowments, expenses and cuts](/assets/img/stanford-university-endowments-expenses.jpg)
 {: .blog-center-image}

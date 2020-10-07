@@ -74,9 +74,9 @@ American track & field relies on the college system not only to develop athletes
 
 <blockquote class="blockquote-single-quote"><p>Post-collegiate athletes seeking qualifying marks or simply half-decent competition compete mainly in college meets given the paucity of independent events. The situation is not much better at the top international levels: World Athletics spent $20 million on events and sports development, of which $4.55 million were for the Diamond League.</p></blockquote>
 
-The athletes who will be <a href="https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts">most affected by XC/TF program cuts</a> are those approaching or already in college. They will take the full force of the hit. They will lose their development pipeline and have nowhere to go. Those already on the small, unsatisfying circuit will stay on the small, unsatisfying circuit, and will be replaced by athletes coming from a smaller and, therefore, less competitive pool. 
+The athletes who will be <a href="https://nalathletics.com/blog/2020/06/01/collegiate-track-and-field-cuts">most affected by XC/TF program cuts</a> are those approaching or already in college. They will take the full force of the hit. They will lose their development pipeline and have nowhere to go. Those already on the small, unsatisfying circuit will stay on the small, unsatisfying circuit, and will be replaced by athletes coming from a smaller and, therefore, less competitive pool. 
 
-We know <a href="https://blog.nalathletics.com/2020/03/30/athletics-wants-more-athletes">one person who will be happy</a> about that.
+We know <a href="https://nalathletics.com/blog/2020/03/30/athletics-wants-more-athletes">one person who will be happy</a> about that.
 
 Coaches will be pushed out, too. With fewer athletes and fewer jobs, the sport will have fewer coaches to maintain and expand the profession’s knowledge base.
 

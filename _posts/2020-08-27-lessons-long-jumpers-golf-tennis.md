@@ -20,7 +20,7 @@ The reaction of the elite long jump community, led by the competitors from the m
 
 In each of those sports, what an individual or team needs to do to win may change over the course of a single game, match or tournament. Even in the individual sports, elements of excellence that mirror the definition of victory may not be enough to secure the victory. 
 
-And, in each of those sports, the definition and process of victory has changed over the years. What would have won in 1990 or 2000 will not win in 2020, and that was even before many leagues took the “opportunity” presented by the coronavirus-induced shutdown to [experiment with new formats and ideas](https://blog.nalathletics.com/2020/03/30/athletics-wants-more-athletes).
+And, in each of those sports, the definition and process of victory has changed over the years. What would have won in 1990 or 2000 will not win in 2020, and that was even before many leagues took the “opportunity” presented by the coronavirus-induced shutdown to [experiment with new formats and ideas](https://nalathletics.com/blog/2020/03/30/athletics-wants-more-athletes).
 
 Let’s do what track & field people rarely do and take a look at some other sports.
 
@@ -34,7 +34,7 @@ It’s also not that different from the format at the Stockholm Diamond League. 
 
 This is analogous to a golfer shooting the lowest round of the weekend on Friday, but because he played so poorly on Thursday, he didn’t make the cut. His Friday round stands as the lowest of the tournament, even though he didn’t play - let alone win - the full tournament. 
 
-##### <STRONG>RELATED: [DO LONG JUMPERS HAVE A LEG TO COMPLAIN ON? WHERE ARE ALL THE POP-UP MINI-MEETS FOR FIELD EVENTS?](https://blog.nalathletics.com/2020/08/24/where-pop-up-meets-jumpers-throwers)</STRONG>
+##### <STRONG>RELATED: [DO LONG JUMPERS HAVE A LEG TO COMPLAIN ON? WHERE ARE ALL THE POP-UP MINI-MEETS FOR FIELD EVENTS?](https://nalathletics.com/blog/2020/08/24/where-pop-up-meets-jumpers-throwers)</STRONG>
 
 Similarly, the winner of the tournament may not have had the best round or even a top-five round over any of the four days. She may not have had the most birdies in the tournament, and maybe not made an eagle. But that average-if-never-great level of consistency is enough for her to win, even if - perhaps - another golfer had more birdies and a hole-in-one, but a corresponding number of bogeys.
 

@@ -28,11 +28,11 @@ Were those athletes safe in Ostrava? Was USATF concerned about their safety, eve
 
 What about two days before that - September 6 - when some of the top American track & field athletes competed in Warsaw, Poland, on the Continental Tour? Does 230 miles and one month make that much of a difference in the safety of American athletes competing in Poland?
 
-We can probably keep working our way back through the summer to show that [professional American track & field athletes](https://blog.nalathletics.com/2020/08/03/finding-professional-track-and-field-athletes) - not wearing a Team USA jersey, but many regular members of Team USA - have been competing in Europe for as long as Europe has been open for track & field competitions.
+We can probably keep working our way back through the summer to show that [professional American track & field athletes](https://nalathletics.com/blog/2020/08/03/finding-professional-track-and-field-athletes) - not wearing a Team USA jersey, but many regular members of Team USA - have been competing in Europe for as long as Europe has been open for track & field competitions.
 
 USA Track & Field - like any national governing body - exists to hold national championship events and field Team USA. Everything else they do is either a lesser clause of the Ted Stevens Act or their founding charter, or an example of mission creep.
 
-##### <strong>MORE INSTITUTIONAL FAILURES: [BIG 10 XC/TF SHOULD CO-SIGN FOOTBALL PARENTS' LETTER TO SAVE THEIR SPORTS](https://blog.nalathletics.com/2020/08/17/big-10-cross-country-track-and-field-football-parents)</strong>
+##### <strong>MORE INSTITUTIONAL FAILURES: [BIG 10 XC/TF SHOULD CO-SIGN FOOTBALL PARENTS' LETTER TO SAVE THEIR SPORTS](https://nalathletics.com/blog/2020/08/17/big-10-cross-country-track-and-field-football-parents)</strong>
 
 USATF has defaulted on both responsibilities this summer. They cancelled the Outdoor National Championships - something many European countries held later in the summer - and now they are choosing not to field a national team squad in a global championship. They mouthed something about safety, but given the return of sports - and, in some cases, fans - in the US and around the world, “safety” comes off looking like a cover for indecisiveness, generic unconcern or institutional risk aversion. 
 

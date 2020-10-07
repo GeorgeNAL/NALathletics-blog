@@ -12,7 +12,7 @@ slug: /finding-professional-track-and-field-athletes/
 
 Track & field loves its information gaps when it comes to money and professionalism. The assiduously guarded secret of athlete sponsorship contracts - the existence of many of which are revealed only when the sponsor’s name appears next to the athlete’s on a heat sheet - protects both parties from having to admit how little the contract is worth. Athletes who receive only kit end up with the same identification as those making a full-time living, and that’s just as well for all involved, except for the fans and watchers who may want to know more, but when have the fans ever been a consideration?
 
-After our [blog on collegiate track & field spending](https://blog.nalathletics.com/2020/06/11/collegiate-spending-track-and-field-governing-bodies) did the rounds, we saw a question in a Twitter thread asking how many collegiate athletes go on to become professionals. 
+After our [blog on collegiate track & field spending](https://nalathletics.com/blog/2020/06/11/collegiate-spending-track-and-field-governing-bodies) did the rounds, we saw a question in a Twitter thread asking how many collegiate athletes go on to become professionals. 
 
 With no information about how much any athletes make, there’s no direct way of knowing how many athletes could be considered professional or semi-professional.* 
 
@@ -35,17 +35,17 @@ Between the known unknown of how much any of them gets paid and knowing that som
 
 For all we know, they might not even receive anything beyond a jersey from the club. What you see in the graph above and discussion below is a significant overshoot of how many of these athletes are pro's.
 
-Aside from not moving us any closer to determining who or what is a professional track & field athlete, the USATF Outdoor National Championships roster reinforces just how much the American college system - the NCAA in particular - is the [driving force in American track & field](https://blog.nalathletics.com/2020/06/11/collegiate-spending-track-and-field-governing-bodies). 
+Aside from not moving us any closer to determining who or what is a professional track & field athlete, the USATF Outdoor National Championships roster reinforces just how much the American college system - the NCAA in particular - is the [driving force in American track & field](https://nalathletics.com/blog/2020/06/11/collegiate-spending-track-and-field-governing-bodies). 
 
 College athletes were 28% of the total competitors from 2016-2019. Over these four years, only 60 more company-affiliated athletes - the closest thing we have to “professional” - competed than collegians. Consider that college athletes are all in a four-year age range, whereas company-affiliated athletes cover at least twice that (on the to-do list: age distribution). 
 
-At least the NCAA schools are getting what [they or their benefactors](https://blog.nalathletics.com/2020/07/13/stanford-athletics-program-cuts-endowments) paid for.
+At least the NCAA schools are getting what [they or their benefactors](https://nalathletics.com/blog/2020/07/13/stanford-athletics-program-cuts-endowments) paid for.
 
 These numbers raise two factors from a market perspective: the limited market capacity for professional track & field athletes, and the desire among post-collegiate athletes even in the absence of “professional” opportunities.
 
 Company-affiliated athletes made up 40% of the post-collegiate competitors. Most of them are out there for very little money. The other 60% are out there for even less (as in, none). 
 
-The pertinent question is what is really driving those 60%, along with those who fell short of qualifying for these meets and - for our purposes - those who were nowhere close to the qualifying standard but are still [in a throws circle](https://blog.nalathletics.com/2020/07/21/find-athletics-facilities-what3words), on a runway, over a landing pad or [around a track](https://nalathletics.com/) several days a week. 
+The pertinent question is what is really driving those 60%, along with those who fell short of qualifying for these meets and - for our purposes - those who were nowhere close to the qualifying standard but are still [in a throws circle](https://nalathletics.com/blog/2020/07/21/find-athletics-facilities-what3words), on a runway, over a landing pad or [around a track](https://nalathletics.com/) several days a week. 
 
 Is their ambition to someday become a company-affiliated athlete? Do they want to be professionals - however defined in whatever structure - in track & field / athletics? Or is competing at a national championship an end in itself, a more competitive version of a participant medal but one with not much athletic, professional or financial ambition beyond that?
 

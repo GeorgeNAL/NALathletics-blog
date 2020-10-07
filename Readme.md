@@ -2,7 +2,7 @@ This repository contains the code of the National Athletics League's Blog.
 
 ## Branch structure
 
-All the code merged into `master` is built and deployed automatically to https://blog.nalathletics.com
+All the code merged into `master` is built and deployed automatically to https://nalathletics.com/blog
 
 This is made publicly available automatically. Be careful.
 
@@ -21,4 +21,6 @@ The website can be built by running. This generates a folder `_site` that contai
 
 ## Deploying to prod
 
-This is done automatically via Netlify
+Deploys to blog.nalathletics.com (deprecated) are done automatically via Netlify
+
+Deploys to nalathletics.com/blog are done automatically after updating the branch `master` in github. This is done via Github Actions

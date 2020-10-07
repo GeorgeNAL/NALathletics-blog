@@ -10,9 +10,9 @@ slug: /college-track-and-field-cuts-football-not-help/
 ---
 <h6>Football’s surplus is most TF/XC programs’ budget, so surviving the summer was only ever going to be the first trial. Those schools where football doesn't make enough to prop up other sports, well, they end up on this list.</h6>
 
-Collegiate track & field / cross country programs may have started to think that, if they made it through August, they had survived the [coronavirus shutdown-induced cuts](https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts). That would have been a premature sense of security, as no one in the non-revenue generating sports should feel safe until they see how much revenue the one truly revenue-generating sport generates. 
+Collegiate track & field / cross country programs may have started to think that, if they made it through August, they had survived the [coronavirus shutdown-induced cuts](https://nalathletics.com/blog/2020/06/01/collegiate-track-and-field-cuts). That would have been a premature sense of security, as no one in the non-revenue generating sports should feel safe until they see how much revenue the one truly revenue-generating sport generates. 
 
-Only one program did not survive August. But September started with a reminder to all [coaches to diversify their income](https://blog.nalathletics.com/2020/08/10/more-college-track-and-field-cuts) and not feel to secure in their job or their profession.
+Only one program did not survive August. But September started with a reminder to all [coaches to diversify their income](https://nalathletics.com/blog/2020/08/10/more-college-track-and-field-cuts) and not feel to secure in their job or their profession.
 
 ### 1. New York Institute of Technology, men’s and women’s XC/TF (August 20)
 
@@ -28,16 +28,16 @@ The College of William & Mary announced seven programs - including men’s indoo
 
 All Tribe (really, forget the corona crazy - how has “The Tribe” survived 2020?) sports programs operated on a balanced budget in the 2018/19 season (make a note of this). W&M’s men’s XC/TF program was the fourth-most expensive program at $783,377. This puts the program’s expenses right in the middle of the programs that were cut: men’s and women’s gymnastics and women’s volleyball both cost more (volleyball a lot more), while men’s and women’s swimming cost less. The Tribe’s women’s XC/TF team - who will continue on - cost about 25% more than the men, coming in at $931,933.
 
-This suggests the College of William & Mary followed the pattern of the [second wave of track & field program cuts](https://blog.nalathletics.com/2020/08/10/more-college-track-and-field-cuts): instead of simply cutting from the bottom up, their decisions reflect the greater balancing act of finances, Title IX requirements, revenue from tuition and the long-term plans for the departments.
+This suggests the College of William & Mary followed the pattern of the [second wave of track & field program cuts](https://nalathletics.com/blog/2020/08/10/more-college-track-and-field-cuts): instead of simply cutting from the bottom up, their decisions reflect the greater balancing act of finances, Title IX requirements, revenue from tuition and the long-term plans for the departments.
 
 College of William & Mary also agreed to salary cuts with some of their more expensive coaches. An increasing number of Power Five schools, including the University of Texas and University of North Carolina, announced broad reductions in coaches’ and staff salaries, and seem to be avoiding program cuts through these measures. More on that in a future post.
 
-##### <strong>RELATED: [PAC-12 TRACK & FIELD CAN'T AFFORD FOOTBALL GIVING UP 50% OF REVENUE](https://blog.nalathletics.com/2020/08/04/pac-12-track-and-field-football-player-demands)</strong>
+##### <strong>RELATED: [PAC-12 TRACK & FIELD CAN'T AFFORD FOOTBALL GIVING UP 50% OF REVENUE](https://nalathletics.com/blog/2020/08/04/pac-12-track-and-field-football-player-demands)</strong>
 
 But what’s noteworthy is that, at those schools, football and basketball are revenue generating sports - they bring in a surplus that covers the losses of the other sports and the [assorted expenses of the athletics department](https://ope.ed.gov/athletics/). At William & Mary, football and basketball break even, just as track & field, gymnastics, swimming, volleyball and all the rest do. Football made and spent just over $7 million, while basketball zeroed out $5.8 million: $3.97 million for the men and $1.8 million for the women. The men's and women's combined XC/TF program made and spent $1.7 million, making XC/TF the third-most expensive program. 
 
 In fact, of the 17 schools that have cut all or part of their cross country / track & field programs, eight have football programs, and only one generates net revenue: Palomar College, and it’s barely, a rounding error. 
 
-At least insofar as what W&M - and [UConn, George Washington](https://blog.nalathletics.com/2020/08/10/more-college-track-and-field-cuts), [University of Akron, Central Michigan](https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts), Appalachian State, Urbana University and McMurry University - reports to the Department of Education, football and basketball are not the lifeline for the other sports, lending credibility to the idea that these seven programs were sacrificed for the survival of the nominal revenue generators.
+At least insofar as what W&M - and [UConn, George Washington](https://nalathletics.com/blog/2020/08/10/more-college-track-and-field-cuts), [University of Akron, Central Michigan](https://nalathletics.com/blog/2020/06/01/collegiate-track-and-field-cuts), Appalachian State, Urbana University and McMurry University - reports to the Department of Education, football and basketball are not the lifeline for the other sports, lending credibility to the idea that these seven programs were sacrificed for the survival of the nominal revenue generators.
 
 <em>Photo credit: C W / [Flickr](https://flic.kr/p/sckvZn), under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)</em>

@@ -10,9 +10,9 @@ slug: /more-college-track-and-field-cuts/
 ---
 <h6>Our last post on coronavirus-induced track & field program cuts was starting to get a bit unwieldy, so the list continues here.</h6>
 
-NCAA Divisions II and III have cancelled their fall sports championships while the Pac-12 figures out what they should do about the [demands of a group of football players](https://blog.nalathletics.com/2020/08/04/pac-12-track-and-field-football-player-demands) as the conference simultaneously plans some kind of loan in the event they, too, decide to axe the football season. The loan would barely cover one season of program expenses in the absence of football revenue, so if Pac-12 football falls through, we shouldn’t be surprised to see a high profile name on this list.
+NCAA Divisions II and III have cancelled their fall sports championships while the Pac-12 figures out what they should do about the [demands of a group of football players](https://nalathletics.com/blog/2020/08/04/pac-12-track-and-field-football-player-demands) as the conference simultaneously plans some kind of loan in the event they, too, decide to axe the football season. The loan would barely cover one season of program expenses in the absence of football revenue, so if Pac-12 football falls through, we shouldn’t be surprised to see a high profile name on this list.
 
-Picking up [where we left off](https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts)….
+Picking up [where we left off](https://nalathletics.com/blog/2020/06/01/collegiate-track-and-field-cuts)….
 
 ### Palomar College, men’s and women’s cross country (June 18, 2020)
 
@@ -40,7 +40,7 @@ Just over a month later, the flagship Providence campus [cancelled men’s and w
 
 ### George Washington University, men’s indoor track (July 31)
 
-George Washington University is combining the [UConn et al route with the Brown University maneuver](https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts): “transition” the programs to club status rather than cutting them outright.
+George Washington University is combining the [UConn et al route with the Brown University maneuver](https://nalathletics.com/blog/2020/06/01/collegiate-track-and-field-cuts): “transition” the programs to club status rather than cutting them outright.
 
 What [indoor track could do as a club sport](https://www.washingtonian.com/2020/07/31/george-washington-university-cuts-7-athletic-programs-citing-pandemic/) even if there were club indoor track competitions is beyond us. Yet it’s surely not the most ridiculous idea to come out of Foggy Bottom on any given day.
 
@@ -50,6 +50,6 @@ The men’s TF/XC operated on $384,814 in 2018/19. This is well less than men’
 
 GW's men's overall track & field / cross country program is the least-expensive men’s varsity sport, just as water polo is for the women. For both genders, the only sports that cost less are two that were demoted: sailing and squash. GWU probably saved less by cutting men’s indoor track than by transitioning those other sports to a different accounting code. Cutting men’s tennis, at least, provides more significant savings.
 
-<h6>This post, like the last one, will be updated as <a href="https://blog.nalathletics.com/2020/06/01/collegiate-track-and-field-cuts">more TF/XC programs are cut</a> or until so many are cut that we do a third post. If we've missed one or there's something more we should know, <a href="mailto:george@nalathletics.com">drop us a line</a>.</h6>
+<h6>This post, like the last one, will be updated as <a href="https://nalathletics.com/blog/2020/06/01/collegiate-track-and-field-cuts">more TF/XC programs are cut</a> or until so many are cut that we do a third post. If we've missed one or there's something more we should know, <a href="mailto:george@nalathletics.com">drop us a line</a>.</h6>
 
 <em>Photo credit: Mr.TinDC, [Flickr](https://flic.kr/p/bUu1Jm) under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/).</em>
