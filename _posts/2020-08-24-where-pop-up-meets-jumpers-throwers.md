@@ -12,7 +12,7 @@ slug: /where-pop-up-meets-jumpers-throwers/
 
 Old and busted: Barely publicized track meets that no one much cares to attend. New hotness: Intentionally unpublicized track meets that no one is allowed to attend. 
 
-Track & field may have the smallest difference in fan attendance before and during / after the coronavirus-induced shutdown. Whereas the sport barely showed any interest in attracting fans before all this started, this summer track meet organizers intentionally withheld the location of track meets to ensure no one showed up. Because of all the [problems track & field has](https://blog.nalathletics.com/2020/03/30/athletics-wants-more-athletes), hordes of fans trying to get into a stadium is clearly one of them.
+Track & field may have the smallest difference in fan attendance before and during / after the coronavirus-induced shutdown. Whereas the sport barely showed any interest in attracting fans before all this started, this summer track meet organizers intentionally withheld the location of track meets to ensure no one showed up. Because of all the [problems track & field has](https://nalathletics.com/blog/2020/03/30/athletics-wants-more-athletes), hordes of fans trying to get into a stadium is clearly one of them.
 
 Noticeably missing from the various clandestine pop-up meets were field events. 
 
@@ -24,11 +24,11 @@ Part of this is simply due to media coverage: there’s a lot more out there for
 
 But even for those of us bothering to go snooping for such things, this summer has been drier than usual for throwers and jumpers.
 
-What little there was seems to be accelerating a mini-trend in track & field: event- or discipline-specific events. Distance runners go off and do their thing, pole vaulters go elsewhere and throwers find an even more remote location. Since USATF false-started like a guy who takes off on the word “Set,” the events and disciplines won’t even have a chance to come together for a [national championship track & field meet](https://blog.nalathletics.com/2020/08/03/finding-professional-track-and-field-athletes). 
+What little there was seems to be accelerating a mini-trend in track & field: event- or discipline-specific events. Distance runners go off and do their thing, pole vaulters go elsewhere and throwers find an even more remote location. Since USATF false-started like a guy who takes off on the word “Set,” the events and disciplines won’t even have a chance to come together for a [national championship track & field meet](https://nalathletics.com/blog/2020/08/03/finding-professional-track-and-field-athletes). 
 
 The single-event or single-discipline mini-meets ostensibly satisfy their hardcore fan base, but by doing so they set a very low ceiling on attendance and growth. There are only so many people who are interested in that one thing, and there are only so many times those people can sit and watch that one thing over the course of a season. Limited-event mini-meets have two outcomes: a halfway decent number of people come out to one in a given area, or a sparse handful come to each of several in that area. There’s no road to a consistently decent (moderate, respectable - choose your word) attendance over the course of a season in one city or town.
 
-Not that that has ever been [track & field’s goal](https://blog.nalathletics.com/2020/03/30/athletics-wants-more-athletes). 
+Not that that has ever been [track & field’s goal](https://nalathletics.com/blog/2020/03/30/athletics-wants-more-athletes). 
 
 But it is ours for athletics. We’re still a bit away from presenting our matches, which will give equal attention and opportunity to each of the three disciplines. And even if we were willing to encourage people to watch these single-event pop-up mini-meets, we couldn’t, because no one knows where they are beforehand and they don’t have two-thirds of athletics in them anyway.
 

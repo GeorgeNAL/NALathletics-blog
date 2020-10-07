@@ -24,13 +24,13 @@ Like most of my other ideas, I straight ripped off the AirBnB comparison from so
 
 The next step, then, falls to the “landlords” of the athletics facilities to create a market for what they are sitting on.
 
-More about what's in it for <a href="http://blog.nalathletics.com/2020/03/18/whats-in-it-for-me-coaches">the coaches and facility managers...</a>
+More about what's in it for <a href="http://nalathletics.com/blog/2020/03/18/whats-in-it-for-me-coaches">the coaches and facility managers...</a>
 
 <h3>2. Athletes</h3>
 
 Distance runners can go to any number of apps or sites and find places to run, wherever they may be. Athletes who play athletics often get booted from one place to another in their hometown, and sometimes end up driving an hour just to find a halfway decent facility.
 
-But more than finding a place, this is about finding people in a place. For the athletes, more than anyone else, the map is only the necessary start. <a href="http://blog.nalathletics.com/2020/03/18/whats-in-it-for-me-athletes">Want to find out more...?</a>
+But more than finding a place, this is about finding people in a place. For the athletes, more than anyone else, the map is only the necessary start. <a href="http://nalathletics.com/blog/2020/03/18/whats-in-it-for-me-athletes">Want to find out more...?</a>
 
 <h3>3. Meet directors</h3>
 
@@ -38,7 +38,7 @@ Meet directors usually hold their meets at the same locations they’ve always h
 
 The more meet directors know about more facilities in their target area, the better they can find a facility that has what they need at the right price.
 
-More on <a href="http://blog.nalathletics.com/2020/03/18/whats-in-it-for-me-meet-directors">what's in it for meet directors...</a>
+More on <a href="http://nalathletics.com/blog/2020/03/18/whats-in-it-for-me-meet-directors">what's in it for meet directors...</a>
 
 <h3>What’s the long-term play?</h3>
 

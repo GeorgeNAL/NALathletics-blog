@@ -12,7 +12,7 @@ slug: /nalathletics whats in it for me athletes/
 
 This should be the easiest one. I’ve talked to dozens of athletes, and the two things nearly all of them have told me are the most needlessly difficult parts of being a post-collegiate athlete are finding an adequate place to train and how much it sucks always training alone. 
 
-Well, those two things are the essence of <a href="http://blog.nalathletics.com/2020/03/18/airbnb-athletics-who-needs-it">the AirBnB of athletics</a>?: find a place, either near your home or when you’re travelling; and find people, hopefully as a first step to turning them into your team.
+Well, those two things are the essence of <a href="http://nalathletics.com/blog/2020/03/18/airbnb-athletics-who-needs-it">the AirBnB of athletics</a>?: find a place, either near your home or when you’re travelling; and find people, hopefully as a first step to turning them into your team.
 
 What comes after that, after everyone has a good place and a good team? Well, that should be easy, too. 
 

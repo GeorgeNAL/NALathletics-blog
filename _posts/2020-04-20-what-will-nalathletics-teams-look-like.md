@@ -26,7 +26,7 @@ Take a look at European club athletes on social media. The athletes are all at t
 
 Now look at an average American track & field athlete’s: there’s rarely more than one person in a pic.
 
-Having the entire practice at the same time is also practical: when you’re <a href="https://blog.nalathletics.com/2020/03/18/nalathletics-whats-in-it-for-me-coaches">paying for facility usage</a>, better to pay for one block of time than three. 
+Having the entire practice at the same time is also practical: when you’re <a href="https://nalathletics.com/blog/2020/03/18/nalathletics-whats-in-it-for-me-coaches">paying for facility usage</a>, better to pay for one block of time than three. 
 
 <h3>What does that mean for NALathletics team coaches?</h3>
 
@@ -36,7 +36,7 @@ It’s really not a big deal.
 
 Vern Gambetta describes himself as a specialist in being a generalist. For so many reasons, a Gambetta-inspired coach is what we are looking for.
 
-Our coaches will have much the same mentality as our athletes: they want to <a href="https://blog.nalathletics.com/2020/03/18/nalathletics-whats-in-it-for-me-athletes">develop athletes to compete and win as a team</a> in a new variation of athletics. They understand that, at its fundamental essence, athletics is all of jumping, throwing and running, even as (most) athletes specialize over time. Our coaches may coach a youth team as well as the first team, which means they absolutely <a href="https://trainingground.guru/articles/vern-gambetta-lessons-from-five-decades-in-performance">will have to be fluent in all disciplines of athletics</a>, even if they may specialize in coaching one.
+Our coaches will have much the same mentality as our athletes: they want to <a href="https://nalathletics.com/blog/2020/03/18/nalathletics-whats-in-it-for-me-athletes">develop athletes to compete and win as a team</a> in a new variation of athletics. They understand that, at its fundamental essence, athletics is all of jumping, throwing and running, even as (most) athletes specialize over time. Our coaches may coach a youth team as well as the first team, which means they absolutely <a href="https://trainingground.guru/articles/vern-gambetta-lessons-from-five-decades-in-performance">will have to be fluent in all disciplines of athletics</a>, even if they may specialize in coaching one.
 
 Still, overseeing a single practice across all events is quite demanding. Fortunately, many athletes want to be coaches and can learn while - and through - training. If the coach cultivates leadership in his team captains and athletes step up to learn the trade as player-coaches, the team will grow stronger as the coach’s workload gets a bit lighter. NALathletics might even incentivize this in some ways (not sure on thedetails - I literally just started thinking about this as I was writing).
 

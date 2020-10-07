@@ -38,11 +38,11 @@ If they can make some money from it during those other hours, that’s less red 
 
 <h3>More athletes will need more coaches</h3>
 
-One of the motivations behind NALathletics is <a href="http://blog.nalathletics.com/2020/03/18/whats-in-it-for-me-athletes">keeping more athletes in the sport</a> after college. Athletes coming out of college in just about any other sport can keep playing it at whatever level they desire and can reach: pro, minor league, semi-pro, amateur competitive, recreationally competitive, beer league… The whole pyramid. 
+One of the motivations behind NALathletics is <a href="http://nalathletics.com/blog/2020/03/18/whats-in-it-for-me-athletes">keeping more athletes in the sport</a> after college. Athletes coming out of college in just about any other sport can keep playing it at whatever level they desire and can reach: pro, minor league, semi-pro, amateur competitive, recreationally competitive, beer league… The whole pyramid. 
 
 Track & field athletes don’t have those options, and they often don’t have the desire. We’re working on both. More on that later.
 
-For now, for the coaches, <a href="http://blog.nalathletics.com/2020/03/18/airbnb-athletics-who-needs-it">more athletes playing the sport</a> means more athletes for them to coach. Coaching athletes and clubs can be a second income source (unless you make so much money as a high school or college coach that you don’t want or need more money). As the clubs grow they will go from being a side hustle to a part-time job to a full-time job for any coach who wants it. 
+For now, for the coaches, <a href="http://nalathletics.com/blog/2020/03/18/airbnb-athletics-who-needs-it">more athletes playing the sport</a> means more athletes for them to coach. Coaching athletes and clubs can be a second income source (unless you make so much money as a high school or college coach that you don’t want or need more money). As the clubs grow they will go from being a side hustle to a part-time job to a full-time job for any coach who wants it. 
 
 If coaches want more money or a different environment than they would find in the scholastic or collegiate set up, it’ll be there. If schools just start cutting programs, there will be other jobs available.
 

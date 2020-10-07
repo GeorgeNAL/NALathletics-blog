@@ -22,7 +22,7 @@ Instead of telling people to show up at a track or giving them the street addres
 
 Our map will eventually have the [3-word address for each individual place to jump, throw or start a run](https://nalathletics.com/map), well, anywhere, starting in the US and southern Ontario. 
 
-On our to-do list is opening up the map so you can help us [build the AirBnb of athletics](https://blog.nalathletics.com/2020/03/18/airbnb-athletics-who-needs-it).
+On our to-do list is opening up the map so you can help us [build the AirBnb of athletics](https://nalathletics.com/blog/2020/03/18/airbnb-athletics-who-needs-it).
 
 What we need from you is the places we've missed, and all the things you only know once you’re there. How long are the runways? Are there lights or bathrooms? Is the track rubber or asphalt, are the throws circles smooth and does the high jump landing pad have a smell you’d rather not land on? And of course, we’ll need some pics. 
 
