@@ -1,5 +1,5 @@
 exports.handler = async (event, context) => {
-  const redirectUrl = "https://nalathletics.com";
+  const redirectUrl = `https://nalathletics.com/blog/`;
   console.log("redirecting", event);
   return {
     statusCode: 302,

@@ -3,3 +3,6 @@ _site/
 package-lock.json
 .jekyll-cache/
 .idea/
+
+# Local Netlify folder
+.netlify
