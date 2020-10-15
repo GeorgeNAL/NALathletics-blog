@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://nalathletics.com/blog/:splat"
+  status = 301
+  force = true
