@@ -6,7 +6,6 @@ layout: null
     {
       "title"    : "{{ post.title | escape }}",
       "category" : "{{ post.category }}",
-      "thumbnail" : "{{ post.post_image }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}"
