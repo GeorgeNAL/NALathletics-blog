@@ -11,8 +11,8 @@
   });
 
   // meanmenu
-  $('#mobile-menu').meanmenu({
-    meanMenuContainer: '.mobile-menu',
+  $("#mobile-menu").meanmenu({
+    meanMenuContainer: ".mobile-menu",
     meanScreenWidth: "1200"
   });
 
@@ -149,6 +149,6 @@
   var sjs = SimpleJekyllSearch({
     searchInput: document.getElementById("search-input"),
     resultsContainer: document.getElementById("results-container"),
-    json: "/search.json"
+    json: "/blog/search.json"
   });
 })(jQuery);
