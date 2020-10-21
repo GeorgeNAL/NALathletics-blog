@@ -35,7 +35,7 @@ We’ve heard from dozens of athletes that the two most needlessly difficult par
 On vacation and need a place to throw? Is your usual training spot shut down to resurface the track? Our map will show you the location and what3words’ <a href="https://what3words.com/">3-word address of every throw circle</a>, jump pit, runway and track. If the throws circle is on the other side of the building behind some trees, you’ll have the 3-word address for it and won’t have to go looking, or, worse, give up and go home.
 
 
-![Terry Fox Stadium](/assets/img/terry-fox-stadium-brampton-ontario-3-word-address.jpg){: .blog-center-image}
+![Terry Fox Stadium]({{ "/assets/img/terry-fox-stadium-brampton-ontario-3-word-address.jpg" | relative_url }}){: .blog-center-image}
 Yes, we know this picture is from Canada.
 {: .blog-image-caption}
 

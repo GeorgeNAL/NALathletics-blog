@@ -34,7 +34,7 @@ Oregon State has the only track & field program in the Pac-12 not to lose money:
 
 Only four Pac-12 schools can continue calling football a “revenue-generating sport” on 50% revenue. At three of those four schools - University of Oregon, University of Washington and Washington State University - all track & field powerhouses, TF/XC loses more than their respective football programs would make on 50% revenue. 
 
-![Pac-12 football and track & field losses](/assets/img/pac-12-football-track-and-field-losses.jpg)
+![Pac-12 football and track & field losses]({{"/assets/img/pac-12-football-track-and-field-losses.jpg" | relative_url }})
 {: .blog-center-image}
 
 Only one school, therefore, could support track & field on half of football’s net revenue. Go Utes. That would leave them with enough to support just two other teams at the current balances: golf and beach volleyball. Yes, University of Utah apparently has a beach volleyball team.

@@ -28,7 +28,7 @@ Of the four USATF Outdoor National Championships we looked at, in only one - 201
 
 Let’s note here the importance of thinking of these athletes as “company” athletes and not “professional” athletes. 
 
-![USATF Outdoor National Championships: Who and what are the professional athletes?](/assets/img/usatf-outdoor-national-championships-athlete-count.jpg)
+![USATF Outdoor National Championships: Who and what are the professional athletes?]({{ "/assets/img/usatf-outdoor-national-championships-athlete-count.jpg" | relative_url }})
 {: .blog-center-image}
 
 Between the known unknown of how much any of them gets paid and knowing that some of them list a sponsor that only provides limited kit, our methodology overstates the relationships between companies and athletes by including club-level sponsorships in the “company” count. If a sponsor’s name shows up with the club name, that athlete is counted as a “company” athlete even if they have no individual relationship with and receive nothing directly from the sponsor. 

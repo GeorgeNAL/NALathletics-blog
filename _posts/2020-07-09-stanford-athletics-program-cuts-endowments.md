@@ -40,7 +40,7 @@ Of the two Ivy League schools that have culled their athletics department, one s
 
 Brown University cut 11 programs last month, including the entirety of men’s XC/TF. Counting cross country, indoor track and outdoor track as three separate programs (as they do), five of Brown’s 20 endowed programs and six of their 18 non-endowed programs were “transitioned” to club status. The [Bears later restored men’s XC/TF](https://nalathletics.com/blog/2020/06/01/collegiate-track-and-field-cuts) on the grounds of diversity and inclusion. That reversal meant 10% of the endowed programs were cut, alongside 33% of the the non-endowed programs. The four sports affected were among the six least expensive in the department.
 
-![Stanford University Athletics Department endowments, expenses and cuts](/assets/img/stanford-university-endowments-expenses.jpg)
+![Stanford University Athletics Department endowments, expenses and cuts]({{ "/assets/img/stanford-university-endowments-expenses.jpg" | relative_url }})
 {: .blog-center-image}
 
 Dartmouth College announced last week that five programs would be cut: men’s and women’s swimming & diving, men’s lightweight rowing and men’s and women’s golf. Men’s and women’s golf were both endowed, but the college president cited the [$1,000,000 a year deficit from operating](https://news.dartmouth.edu/news/2020/07/dartmouth-announces-changes-varsity-athletics-program) the Hanover Country Club. The golf programs themselves cost just over $300,000 in 2018/19. The other three cut programs were not endowed. However, the companion sport to one of them - heavyweight rowing - was endowed, and will row on.
