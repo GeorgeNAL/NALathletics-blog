@@ -8,21 +8,21 @@ author: "George"
 post_image: "assets/img/hayward-field.jpg"
 slug: /track-and-field-mainstream-sports-incuriosity/
 ---
-<h6>Track & field showed up in two unexpected places last week: the Hashtag Sports daily newsletter by way of an article in SportTechie. Most people in track & field - an overwhelming share of people in track & field, in fact - missed them both and may never know it happened.</h6>
+<h6>Track & field showed up in two unexpected places last week: the Hashtag Sports daily newsletter by way of an article in SportTechie. Most people in track & field - an overwhelming share of people in track & field, most likely - missed them both and may never know it happened.</h6>
 
-SportTechie is always bullish about the people, companies and products they cover, but Jen Booton may have gone too far. Technology is only as useful as the people who use it. So, yes, while track & field <em>could</em> get an exposure boost from the iPhone 12 and 5G, it won't because it would require T&F people to use those technologies in a way that would give the sport that boost.
+SportTechie is always bullish about the people, companies and products they cover, but Jen Booton may have gone too far. Technology is only as useful as the people who use it. So, yes, while track & field <em>could</em> get an exposure boost from the iPhone 12 and 5G, it won't, because it would require T&F people to use those technologies in a way that would give the sport that boost.
 
 Staying true to track & field's years-ahead-of-the-rest commitment to living in a bubble, none of the sport's major aggregator sites or newsletters mentioned or linked to [Booton's article featuring Virginia Commonwealth University coach Tom Sage](https://www.sporttechie.com/track-and-field-pandemic-iphone-12-5G-sports-technology) and IUPUI's coach Marissa Chew. Anyone who stays within track & field to get their track & field news - or who simply has no interest in the sports world / industry beyond T&F - would have no idea that track & field popped its head into the mainstream sports industry because no one else in the world of track & field is any more interested in going out there.
 
-And no, this is not about a single article on one site and a single link on another newsletter, even if that one site is a venture capital-backed significant player in sports industry media and events (Disclosure: I contributed to SportTechie from 2014-18), as is the newsletter (minus the VC, to my knowledge).  
+And no, this is not about a single article on one site and a single link on another newsletter, even if that one site is a venture capital-backed significant player in sports industry media and events (Disclosure: I [contributed to SportTechie](https://www.sporttechie.com/author/501/George-Perry/) from 2014-18), as is the newsletter (minus the VC, to my knowledge).  
 
 The entire chain of events passed outside the notice of T&F.
 
-Coach Tom Sage of Virginia Commonwealth University tweeted during the Apple Event about how he'd like to see track & field presented on 5G. Sage had a reasonable number of retweets and likes, but the only commentor on the tweet was SportTechie reporter Jennifer Booton, who was presumably following the #AppleEvent hashtag for anything from the sports world. 
+Coach Tom Sage of Virginia Commonwealth University tweeted during the Apple Event about how he'd like to see track & field presented on 5G. Sage had a reasonable number of retweets and likes, but the only commentor on the tweet was SportTechie's Booton, who was presumably following the #AppleEvent hashtag for anything from the sports world. 
 
-She was looking across sports and came across track & field, while [track & field was looking within itself](https://nalathletics.com/blog/2020/08/27/lessons-long-jumpers-stockholm-golf-tennis) and found only itself.
+She was looking across sports and came across track & field, while [track & field looks only within itself](https://nalathletics.com/blog/2020/08/27/lessons-long-jumpers-stockholm-golf-tennis) and therefore sees only itself.
 
-When SportTechie tweeted the article to their 32,000 followers, the only retweets were from the two coaches featured in the article - Sage and Marissa Chew of IUPUI - and one family member. The combined number of comments on Sage's or Chew's tweets is... one. 
+When SportTechie tweeted the article to their 32,000 followers, the only retweets were from the two coaches featured in the article and one family member. The combined number of comments on Coach Sage's and Coach Chew's tweets is... one. 
 
 Each of those steps was an opportunity for someone, anyone, in track & field to notice, recognize the moment and care. 
 
