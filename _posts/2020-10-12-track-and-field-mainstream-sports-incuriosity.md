@@ -5,7 +5,7 @@ date: 2020-10-23 14:30:00 +0600
 tags: sportsbiz
 categories: [track & field]
 author: "George"
-post_image: "blog/assets/img/hayward-field.jpg"
+post_image: "assets/img/hayward-field.jpg"
 slug: /track-and-field-mainstream-sports-incuriosity/
 ---
 <h6>Track & field showed up in two unexpected places last week: the Hashtag Sports daily newsletter by way of an article in SportTechie. Most people in track & field - an overwhelming share of people in track & field, most likely - missed them both and may never know it happened.</h6>
