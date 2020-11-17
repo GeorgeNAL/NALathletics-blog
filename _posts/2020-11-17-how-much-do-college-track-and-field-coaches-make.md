@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "How much do college track & field coaches make? (Data viz)"
-date: 2020-11-17 06:30:00 +0600
+date: 2020-11-20 06:30:00 +0600
 tags: ncaa coaches dataviz
 categories: [sportsbiz]
 author: "George"
-post_image: "assets/img/pryor-high-school-long-jump.jpg"
+post_image: "assets/img/track-and-field-coaches.jpg"
 slug: /how-much-do-college-track-and-field-coaches-make/
 ---
 How much pro track & field athletes make is one of the great questions of sport. Every few years an anonymous survey or a heavily-redacted, surreptitiously-transferred document will set off a round of speculation and invective, but no one can point to a credibly and transparently sourced data set to offer a range of what athletes in each event at given levels of success make. It seems the athletes' non-disclosure clauses bind them for life, and that ex-agents and former shoe company sponsorship managers are similarly bound into perpetuity. Or, alternatively, maybe no one has ever thought to ask them (in our experience, that's very likely the case).
