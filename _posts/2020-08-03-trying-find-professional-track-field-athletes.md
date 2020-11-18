@@ -2,7 +2,7 @@
 layout: post
 title: "Trying to find the professional track & field athletes at USA Outdoor National Championships"
 date: 2020-08-03 09:00:00 +0600
-tags: ncaa usatf sportsbiz
+tags: ncaa usatf sportsbiz dataviz
 categories: [track & field]
 author: "George"
 post_image: "assets/img/usatf-2018-outdoor-national-championships.jpg"

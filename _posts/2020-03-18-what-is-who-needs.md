@@ -2,7 +2,7 @@
 layout: post
 title: "What's the AirBnB of athletics, and who needs it?"
 date: 2020-03-18 12:15:00 +0600
-tags: athletics sportsbiz
+tags: athletics sportsbiz map what3words
 categories: [athletics]
 author: "George"
 post_image: "/assets/img/university-of-toronto-track-curve.jpg"

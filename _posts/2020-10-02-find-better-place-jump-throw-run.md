@@ -2,7 +2,7 @@
 layout: post
 title: "Find a better place to throw, jump and run with the AirBnB of athletics"
 date: 2020-10-02 12:30:00 +0600
-tags: running jumping throwing
+tags: running jumping throwing map what3words sportsbiz
 categories: [athletics]
 author: "George"
 post_image: "assets/img/terry-fox-brampton-ontario-long-jump.jpg"

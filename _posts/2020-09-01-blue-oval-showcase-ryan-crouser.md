@@ -2,7 +2,7 @@
 layout: post
 title: "Blue Oval Showcase stirs more thoughts on formats and fans"
 date: 2020-09-01 11:15:00 -0500
-tags: track throws shotput
+tags: athletes throwing
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/drake-university-blue-oval.jpg"

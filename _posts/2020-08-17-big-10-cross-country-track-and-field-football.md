@@ -2,7 +2,7 @@
 layout: post
 title: "Big 10 XC/TF should co-sign football parents' letter to save their sports"
 date: 2020-08-17 10:30:00 -0500
-tags: ncaa, big 10, football
+tags: ncaa athletes
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/university-iowa-big-ten-track-and-field.jpg"

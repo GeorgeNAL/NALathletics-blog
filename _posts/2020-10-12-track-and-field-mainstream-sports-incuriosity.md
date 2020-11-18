@@ -2,7 +2,7 @@
 layout: post
 title: "Track & field pops into mainstream sports industry, incuriosity ensues"
 date: 2020-10-23 14:30:00 +0600
-tags: sportsbiz
+tags: sportsbiz coaches
 categories: [track & field]
 author: "George"
 post_image: "assets/img/hayward-field.jpg"

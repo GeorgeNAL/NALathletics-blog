@@ -2,7 +2,7 @@
 layout: post
 title: "Minnesota track & field cuts will impact results sheets more than balance sheets"
 date: 2020-09-10 21:30:00
-tags: ncaa
+tags: ncaa finances
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/sean-donnelly-university-minnesota-hammer.jpg"

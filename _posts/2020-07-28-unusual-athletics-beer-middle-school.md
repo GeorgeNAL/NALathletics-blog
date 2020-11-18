@@ -2,7 +2,7 @@
 layout: post
 title: "Unusual athletics: Beer Middle School's straight line track"
 date: 2020-07-28 10:00:00 +0600
-tags: track stadiums michigan
+tags: running map what3words
 categories: [athletics]
 author: "George"
 post_image: "assets/img/beer-middle-school-runway-track.jpg"

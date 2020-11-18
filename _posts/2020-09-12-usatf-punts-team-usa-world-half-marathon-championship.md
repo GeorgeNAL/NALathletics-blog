@@ -2,7 +2,7 @@
 layout: post
 title: "USATF brushes off athletes, punts on Team USA for World Half-Marathon Championship"
 date: 2020-09-12 15:30:00
-tags: usatf worldathletics roadracing
+tags: usatf worldathletics running
 categories: [running]
 author: "George"
 post_image: "/assets/img/world-half-marathon-championships.jpg"

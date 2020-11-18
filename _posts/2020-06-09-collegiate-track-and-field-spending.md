@@ -2,7 +2,7 @@
 layout: post
 title: "Collegiate spending on track & field props up the sport: Cuts expose lack of depth"
 date: 2020-06-11 12:00:00 +0600
-tags: ncaa usatf worldathletics sportsbiz
+tags: ncaa usatf worldathletics sportsbiz dataviz
 categories: [track & field]
 author: "George"
 post_image: "assets/img/shiroyama-athletics-stadium.jpg"

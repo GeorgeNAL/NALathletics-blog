@@ -2,7 +2,7 @@
 layout: post
 title: "Expand the map, expand athletics: 31,000+ places to throw, jump or run"
 date: 2020-11-12 12:30:00 +0600
-tags: running jumping throwing
+tags: running jumping throwing map what3words sportsbiz
 categories: [athletics]
 author: "George"
 post_image: "assets/img/pryor-high-school-long-jump.jpg"

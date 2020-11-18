@@ -2,7 +2,7 @@
 layout: post
 title: "Retiring Nike exec's career explains a lot about track & field"
 date: 2020-09-21 15:00:00
-tags: trackandfield athletics
+tags: athletics sportsbiz
 categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/hayward-field-university-oregon.jpg"

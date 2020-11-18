@@ -2,7 +2,7 @@
 layout: post
 title: "Collegiate track & field cuts: Schools, costs and thoughts"
 date: 2020-06-01 12:00:00 +0600
-tags: ncaa
+tags: ncaa finances
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/brown-stadium-track.jpg"

@@ -2,7 +2,7 @@
 layout: post
 title: "Track & field needs to make its peace with making money"
 date: 2020-11-05 14:30:00 +0600
-tags: sportsbiz
+tags: sportsbiz finances ncaa
 categories: [track & field]
 author: "George"
 post_image: "assets/img/javelin-throwers-unattached.jpg"

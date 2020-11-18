@@ -2,7 +2,7 @@
 layout: post
 title: "Lessons for long jumpers post-Stockholm DL: Watch more golf and tennis"
 date: 2020-08-27 11:30:00 -0500
-tags: track 
+tags: athletes coaches sportsbiz 
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/long-jump.jpg"

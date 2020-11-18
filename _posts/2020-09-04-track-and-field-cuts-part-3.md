@@ -2,7 +2,7 @@
 layout: post
 title: "College TF/XC program cuts, Part III: When football doesn't help"
 date: 2020-09-04 12:00:00 -0500
-tags: ncaa
+tags: ncaa finances
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/william-and-mary-track-and-field-cut.jpg"

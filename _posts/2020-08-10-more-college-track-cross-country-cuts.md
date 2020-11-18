@@ -2,7 +2,7 @@
 layout: post
 title: "College track & field and cross country program cuts, Part II"
 date: 2020-08-10 08:00:00 -0500
-tags: ncaa
+tags: ncaa finances
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/cardozo-hs-washington-dc-track.jpg"

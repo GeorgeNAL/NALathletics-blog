@@ -2,7 +2,7 @@
 layout: post
 title: "Where are all the pop-up mini-meets for jumpers and throwers?"
 date: 2020-08-24 10:30:00 -0500
-tags: track, jumping, throwing, what3words
+tags: jumping throwing map what3words
 categories: [athletics]
 author: "George"
 post_image: "/assets/img/sand-springs-throws-circles.jpg"

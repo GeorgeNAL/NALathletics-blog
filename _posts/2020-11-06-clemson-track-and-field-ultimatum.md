@@ -2,7 +2,7 @@
 layout: post
 title: "Clemson AD lays down the challenge to collegiate track & field backers"
 date: 2020-11-06 12:00:00 +0600
-tags: ncaa
+tags: ncaa finances
 categories: [track & field]
 author: "George"
 post_image: "assets/img/clemson-track-and-field-sprinter.jpg"

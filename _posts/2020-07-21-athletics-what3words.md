@@ -2,7 +2,7 @@
 layout: post
 title: "Where to jump, throw and run: 3-word addresses for athletics"
 date: 2020-07-21 06:00:00 +0600
-tags: sportsbiz running jumping throwing
+tags: sportsbiz running jumping throwing map what3words
 categories: [athletics]
 author: "George"
 post_image: "assets/img/charles-page-high-school-throws-circles.jpg"
