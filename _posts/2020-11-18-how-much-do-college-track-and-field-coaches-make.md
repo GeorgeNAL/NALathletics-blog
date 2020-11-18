@@ -97,20 +97,37 @@ Hopefully this effort will go some way towards helping somebody decide what to o
 
 Sources:
 AZ: https://www.azcentral.com/pages/interactives/news/local/arizona-data/arizona-government-salary-database/
+
 CA: https://ucannualwage.ucop.edu/wage/
+
 FL: https://data.tallahassee.com/salary/
+
 GA: http://open.georgia.gov/openga/salaryTravel/list
+
 IA: https://db.desmoinesregister.com/state-salaries-for-iowa/
+
 IN: https://gateway.ifionline.org/report_builder/Default2.aspx?rptType=employComp&rptVer=a
+
 KS: http://www.kansasopengov.org/kog/databank
+
 MA: http://cthrupayroll.mass.gov/#!/year/2019/
+
 MN: https://mn.gov/mmb/transparency-mn/payrolldata.jsp
+
 MO: https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/70329/2019-2020SalaryLibraryReport.pdf?sequence=3&isAllowed=y
+
 NC: https://uncdm.northcarolina.edu/salaries/index.php
+
 NE: https://nebraska.edu/-/media/projects/unca/offices-policies/business-and-finance-office/docs/budget-salary-information/personnel-roster-2019-20.pdf?la=en
+
 NY: http://nydatabases.com/database/state-employee-salaries
+
 OH: https://www.buckeyeinstitute.org/data/higher_ed_salary
+
 SD: https://open.sd.gov/employees.aspx
+
 TN: https://data.tennessee.edu/salary-database/
+
 UT: https://transparent.utah.gov/empdet.php
+
 WI: https://madison.com/news/local/education/university/the-cost-of-education-search-employee-salaries-for-wisconsin-universities/article_1ca6b96a-3e18-5dab-85a8-0c0a32034d71.html
