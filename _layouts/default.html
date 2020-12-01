@@ -17,6 +17,12 @@
         <link rel="stylesheet" href="{{ '/assets/css/default.css' | relative_url }}">
         <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
         <link rel="stylesheet" href="{{ '/assets/css/responsive.css' | relative_url }}">
+        {% for script in page.head_javascript %}
+        <script src="{{ script | relative_url }}"></script>
+        {% endfor %}
+        {% for css in page.head_stylesheet %}
+        <link href="{{ css | relative_url }}" rel="stylesheet" type="text/css"/>
+        {% endfor %}
     </head>
     <body>
 
