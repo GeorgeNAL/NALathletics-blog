@@ -7,7 +7,6 @@ library(tigris)
 library(readxl)
 library(geojsonio)
 
-
 salaries <- readRDS("data/salaries.rds")
 geo_state_avg <- readRDS("data/geo_state-avg.rds")
 dIavg <- readRDS("data/dIavg.rds")
