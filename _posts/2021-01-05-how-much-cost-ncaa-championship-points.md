@@ -18,10 +18,10 @@ Four of the 10 [highest-spending schools in NCAA Division I track & field](https
 
 As bad as Arkansas's marginal spending was, at least they won a title and had success across both programs. The next three biggest spenders were University of Oklahoma, who paid $2.4 million for each of three points; University of Nebraska ($1.7 million per point); and the comparatively frugal University of Texas, at $140,192 per point for 46 points. Among the top 20 spenders, one failed to garner a single men's or women's point at the 2019 national championships: the recently, [firmly cancelled program at Clemson University](https://nalathletics.com/blog/2020/11/06/clemson-track-and-field-ultimatum).
 
-On average, each point cost the top 20 Division I schools $364,000.
-
 ![NCAA Division I track & field combined points vs. total spending]({{ "/assets/img/ncaa-track-and-field-division-I-points-expenses.jpg" | relative_url }})
 {: .blog-center-image}
+
+On average, each point cost the top 20 Division I schools $364,000.
 
 North Carolina A&T was the most efficient school of the 20 top combined point-getters. Their 15th place finishes in both the men's and women's championships cost them $48,000 per point. And they were one of the four programs in the top 20 to not run a budget deficit that year (Florida State, Brigham Young and University of New Mexico were the others).
 
@@ -36,11 +36,14 @@ Perhaps reflecting the tighter budgets and culture of smarter spending at the Di
 
 Lincoln University spent half as much as GVSU and brought home six more points and a women's title. Grand Valley's edge over Ashland, Angelo State and Adams State came at about $200,000 per marginal point. And whereas the most efficient school in Division I was in the middle of the pack in the final tables, the most efficient schools in Division II were Lincoln and Ashland: $10,000 per point, less than 3% of the Division I top 20 average.
 
-MORE MONEY (well, actually less): [HOW MUCH DO COLLEGE TRACK & FIELD COACHES MAKE?](https://nalathletics.com/blog/2020/11/18/how-much-do-college-track-and-field-coaches-make)
-
 Unsurprisingly, the pattern continues as we move to Division III and NAIA (their championship results pages don't have logos, so no graphs, sadly). University of Wisconsin-Eau Claire had the highest combined point total and a D-III men's championship at $4,411 per point. Division III women's champion Loras College paid a few hundred dollars more per point, and each school spent as much in a year as the average Division I top 20 school paid per point. And they managed to do it without going into the red: only one school in Division III's top 20 ran at a loss, one of $15,000 at University of Wisconsin-Whitewater.
 
+![College track & field cost per point]({{ "/assets/img/college-cost-per-point-spread.jpg" | relative_url }})
+{: .blog-center-image}
+
 NAIA's top two point-getters, Southern University at New Orleans and William Carey University, were also in the $4,000 per point range. The rest of the top 20, though, overall spent more about $10,000 more per point than in Division III.
+
+MORE MONEY (well, actually less): [HOW MUCH DO COLLEGE TRACK & FIELD COACHES MAKE?](https://nalathletics.com/blog/2020/11/18/how-much-do-college-track-and-field-coaches-make)
 
 Last year's budget shortfalls led many college athletics departments to start asking "What are we getting from these non-revenue sports?" and the subsequent spree of program cuts prompted alumni and others to scramble for any possibly mollifying answer. 
 
