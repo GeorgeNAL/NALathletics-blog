@@ -43,13 +43,13 @@ Unsurprisingly, the pattern continues as we move to Division III and NAIA (their
 
 NAIA's top two point-getters, Southern University at New Orleans and William Carey University, were also in the $4,000 per point range. The rest of the top 20, though, overall spent more about $10,000 more per point than in Division III.
 
-MORE MONEY (well, actually less): [HOW MUCH DO COLLEGE TRACK & FIELD COACHES MAKE?](https://nalathletics.com/blog/2020/11/18/how-much-do-college-track-and-field-coaches-make)
+##### MORE MONEY (well, actually less): [HOW MUCH DO COLLEGE TRACK & FIELD COACHES MAKE?](https://nalathletics.com/blog/2020/11/18/how-much-do-college-track-and-field-coaches-make)
 
 Last year's budget shortfalls led many college athletics departments to start asking "What are we getting from these non-revenue sports?" and the subsequent spree of program cuts prompted alumni and others to scramble for any possibly mollifying answer. 
 
 If track & field at any level has to become accountable for its accounting, well, last year's cuts were a prelude. For the highest-spending schools, those for whom cutting track & field would have the greatest financial impact, scrutiny into their spending will lead to scrutiny into results. 
 
-RELATED: [TRACK & FIELD NEEDS TO MAKE ITS PEACE WITH MAKING MONEY](https://nalathletics.com/blog/2020/11/05/track-and-field-make-peace-making-money)
+##### RELATED: [TRACK & FIELD NEEDS TO MAKE ITS PEACE WITH MAKING MONEY](https://nalathletics.com/blog/2020/11/05/track-and-field-make-peace-making-money)
 
 The alternative to cutting a program may be demanding more success from the same or even reduced funding. If boosters and administrators are not willing to pay a few hundred thousand dollars for the marginal points at the top of the NCAA table (or the starters' kit at the bottom, looking at you, Boomer Sooner), coaches may have to look outside of Division I to align their spending with results. Or, maybe, the people putting the money in will look outside the system entirely for something that offers a better financial picture along with sporting success.
 
