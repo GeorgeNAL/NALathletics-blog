@@ -10,7 +10,7 @@ slug: /usatf-cancels-indoor-national-championships/
 ---
 <h6>USA Track & Field prohibited Team USA athletes from competing in the World Athletics Half Marathon Championships in the fall. With World Athletics already bumping World Indoor Championships off the 2021 calendar, did anyone really think USATF would bother with an indoor meet?</h6>
 
-The long line of indoor track & field cancellations have met their logical and lamely predictable end. USA Track & Field announced their [cancellationn of the national indoor championships](https://www.usatf.org/news/2021/2021-usatf-indoor-championships-combined-events-ca). 
+The long line of indoor track & field cancellations have met their logical and lamely predictable end. USA Track & Field announced their [cancellation of the national indoor championships](https://www.usatf.org/news/2021/2021-usatf-indoor-championships-combined-events-ca). 
 
 USATF attributed the decision to "statewide restrictions in New Mexico and other logistical challenges for the event [that] are too severe to overcome." New Mexico's statewide restrictions are, in fact, among the most onerous and irrational in the country: high school cross country athletes were required to wear face masks while competing in the fall. At 5,000 feet of altitude. 
 
@@ -18,13 +18,13 @@ Other states, though, including a state adjacent to New Mexico, have a more real
 
 ##### SECOND IN A SERIES? [USATF BRUSHES OFF ATHLETES, PUNTS ON TEAM USA FOR WORLD HALF-MARATHON CHAMPS](https://nalathletics.com/blog/2020/09/12/usatf-2020-world-half-marathon-championship)
 
-To the extent USATF cares about being openly accountable to its membership, and that membership care about holding it to being so, the governing body owes an explanation on what "logistical challenges" prevented them from holding the championship meet at Texas A & M, University of Arkansas, Texas Tech (OK, we can understand now wanting to do anything in Lubbock), LSU, Iowa State or Vanderbilt (Nashville, FFS!), among whatever other states and universities are already allowing and going ahead with indoor track & field and other indoor sports.
+To the extent USATF cares about being openly accountable to its membership, and that the membership care about holding it to being so, the governing body owes an explanation on what "logistical challenges" prevented them from holding the championship meet at Texas A & M, University of Arkansas, Texas Tech (OK, we can understand now wanting to do anything in Lubbock), LSU, Iowa State or Vanderbilt (Nashville, FFS!), among whatever other states and universities are already allowing and going ahead with indoor track & field and other indoor sports.
 
-As is always the case with track & field, it's barely worth pointing out that other sports have figured out how to do this ("Track & field is different," they've been saying for years). Other sports have moved events, temporarily relocated home games, established training "bubbles," and, in general, simply figured out how to get it done. If USATF wants to take the unprecedented step of showing enough intellectual curiosity to learn from other sports, they can step aside their backdoor in two months, when the entire NCAA tournament - all of March Madness - will be played in USATF's backyard in Indianapolis.  
+As is always the case with track & field, it's barely worth pointing out that other sports have figured out how to do this ("Track & field is different," they've been saying for years). Other sports have moved events, relocated home games and even home training bases, established "bubbles," and, in general, simply figured out how to get it done. If USATF wants to take the unprecedented step of showing enough intellectual curiosity to learn from other sports, they can step aside their backdoor in two months, when the entire NCAA tournament - all of March Madness - will be played in USATF's backyard in Indianapolis. Indoors, too.
 
-Those sports properties are accountable to their athletes, fans, sponsors and basic mission. They developed ways to put on competitive events because, as institutions, they either wanted to or felt they had to. USATF lacks either the motivation, the incentive or both.
+Those sports properties are accountable to their athletes, fans, sponsors and basic mission. They developed ways to put on competitive events because, as institutions, they either wanted to or recognized they had to. USATF lacks either the motivation, the incentive or both.
 
-Remember that the next time an athlete or someone else clamors for USATF to do more than fulfill their limited mandate.
+Remember that the next time an athlete or someone else clamors for USATF to creep beyond their limited mandate.
 
 ##### MORE: [NCAA T&F SPENDING AND SUCCESS: CAN WE BUY A POINT? (DATA VIZ)](https://nalathletics.com/blog/2021/01/05/ncaa-track-and-field-spending-results)
 
