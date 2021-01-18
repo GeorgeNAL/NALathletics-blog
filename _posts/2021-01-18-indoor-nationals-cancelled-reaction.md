@@ -22,6 +22,7 @@ Please prove us wrong by showing us some negative reaction from athletes or coac
 
 First, listen to the podcast. 
 
-<iframe src="https://widget.spreaker.com/player?episode_id=42992890&theme=light&autoplay=false&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F5134f700898225032d89dc9c892458bd.jpg" width="100%" height="400px" frameborder="0"></iframe>
+<a class="spreaker-player" href="https://www.spreaker.com/user/9346696/indoor-t-f-nationals-cancelled-crickets-" data-resource="episode_id=42992890" data-theme="light" data-autoplay="false" data-playlist="false" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/5134f700898225032d89dc9c892458bd.jpg" data-width="100%" data-height="400px">Listen to "Indoor T&amp;F nationals cancelled: Crickets ensue" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
+
 
 <em>Photo credit: Steven Pisano / [Flickr](https://flic.kr/p/rs3UqY), under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)</em>
