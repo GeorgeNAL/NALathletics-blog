@@ -77,14 +77,18 @@ h3 {
 	font-size: 28px;
 }
 h4 {
-	font-size: 22px;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 1.4;
 }
 h5 {
 	font-size: 18px;
 	line-height: 36px;
 }
 h6 {
+	font-family: 'Brix Slab';
 	font-size: 16px;
+	line-height: 1.6;
 }
 
 p {
@@ -94,6 +98,7 @@ p {
     color: #040000;
 	margin-bottom: 15px;
 }
+
 hr {
 	border-bottom: 1px solid #eceff8;
 	border-top: 0 none;
@@ -103,4 +108,20 @@ hr {
 
 .leaflet-container {
  background-color: #fefefe;
+}
+
+p .big-numbers {
+	font-size: 36px;
+	color: #265ec3;
+	font-family: 'Brix Slab';
+	justify-content: center;
+	display: flex;
+}
+
+p .text-with-big-numbers {
+	font-size: 18px;
+	color: #040000;
+	font-family: "Brix Sans";
+	justify-content: center;
+	display: flex;
 }

@@ -17,7 +17,7 @@ otheravg <- readRDS("data/otheravg.rds")
 ui <- fluidPage(
 
   tags$head(includeCSS("www/Salaries-data-layout.css")),
-  titlePanel("Public university track & field coaches: Average salaries"),
+  titlePanel("Public university track & field coaches: Salaries explorer"),
   actionLink("DI", "NCAA Division I"),
   actionLink("DII", "NCAA Division II"),
   actionLink("DIII", "NCAA Division III"),
@@ -25,6 +25,29 @@ ui <- fluidPage(
   leafletOutput("map"),
 
   hr(),
+  
+  fluidRow(
+    column(4, tags$div(p(span(number_of_schools, class="big-numbers"), span("Colleges", class="text-with-big-numbers")))),
+    
+    column(4, tags$div(p(span(number_of_coaches, class="big-numbers"), span("Coaches", class="text-with-big-numbers")))),
+    
+    column(4, tags$div(p(span(paste0("$",median_salary), class="big-numbers"), span("Median salary", class="text-with-big-numbers")))),
+  ),
+  
+  fluidRow(
+    column(1),
+    column(10, h6("Some states publish public university employee salaries under their transparency or \"sunshine\" laws. Our database is the most recent salary information publicly 
+    available for college track & field coaches in those states. We have removed the names of the individual coaches, and have made the database searchable by job title, 
+       competitive level (e.g., NCAA Division I-FBS, NCAA Division III, NAIA), state and event groups coached.")),
+    column(1)
+  ),
+  
+  fluidRow(
+    column(1),
+    column(10, h4("Key: J = Jumps (horizontal and vertical), T = Throws, P = Pole vault, D = Distance, X = Cross-country, M = Multis, S = Sprints, H = Hurdles, R = Relays. All head coaches or
+       directors are listed as \"TF/XC.\"")),
+    column(1)
+  ),
 
   fluidRow(
     column(3, selectInput("Title", "Title / Position", c("All", unique(salaries$Title)), selected = "Assistant coach")),
