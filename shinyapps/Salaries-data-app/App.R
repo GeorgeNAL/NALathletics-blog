@@ -14,6 +14,11 @@ dIIavg <- readRDS("data/dIIavg.rds")
 dIIIavg <- readRDS("data/dIIIavg.rds")
 otheravg <- readRDS("data/otheravg.rds")
 
+number_of_coaches <- nrow(salaries)
+number_of_schools <- length(unique(salaries$School))
+salaries$Salary <- as.numeric(salaries$Salary)
+median_salary <- scales::comma(round(median(salaries$Salary, na.rm=TRUE)))
+
 ui <- fluidPage(
 
   tags$head(includeCSS("www/Salaries-data-layout.css")),
