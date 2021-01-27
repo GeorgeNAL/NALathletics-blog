@@ -8,7 +8,7 @@ library(readxl)
 library(geojsonio)
 
 salaries <- readRDS("data/salaries.rds")
-geo_state_avg <- readRDS("data/geo_state-avg.rds")
+geo_state_avg <- readRDS("data/geo_state_avg.rds")
 dIavg <- readRDS("data/dIavg.rds")
 dIIavg <- readRDS("data/dIIavg.rds")
 dIIIavg <- readRDS("data/dIIIavg.rds")
