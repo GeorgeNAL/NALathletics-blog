@@ -20,9 +20,7 @@ ui <- fluidPage(
   actionLink("DII", "NCAA Division II"),
   actionLink("DIII", "NCAA Division III"),
   actionLink("Other", "NAIA & NJCAA"),
-  leafletOutput("map"),
-
-  hr(),
+  leafletOutput("map")
 
 )
 

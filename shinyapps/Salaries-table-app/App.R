@@ -14,6 +14,8 @@ ui <- fluidPage(
 
   tags$head(includeCSS("www/Salaries-data-layout.css")),
   
+  hr(),
+  
   fluidRow(
     column(4, tags$div(p(span(number_of_schools, class="big-numbers"), span("Colleges", class="text-with-big-numbers")))),
     
