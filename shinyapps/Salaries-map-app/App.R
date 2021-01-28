@@ -80,7 +80,7 @@ observeEvent (choice$dat, {
       weight = 1
     )
 })
-
+}
 shinyApp(ui, server)
 
 
