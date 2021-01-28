@@ -4,7 +4,6 @@ library(shiny)
 library(leaflet)
 library(tidyverse)
 library(tigris)
-library(readxl)
 library(geojsonio)
 
 salaries <- readRDS("data/salaries.rds")
