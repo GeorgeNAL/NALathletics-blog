@@ -14,7 +14,13 @@ otheravg <- readRDS("data/otheravg.rds")
 
 ui <- fluidPage(
 
-  tags$head(includeCSS("www/Salaries-data-layout.css")),
+  tags$head(includeCSS("www/Salaries-data-layout.css"),
+            tags$style(HTML("
+                            .map {
+                            overflow: visible;
+                            }
+                            "))
+            ),
   titlePanel("Public university track & field coaches: Salaries explorer"),
   actionLink("DI", "NCAA Division I"),
   actionLink("DII", "NCAA Division II"),
