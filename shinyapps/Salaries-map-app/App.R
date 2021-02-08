@@ -18,7 +18,7 @@ ui <- fluidPage(
         overflow: visible;
       }
     ")),
-    tags$script(src="www/iframeResizer.contentWindow.min.js")
+    tags$script(src="iframeResizer.contentWindow.min.js")
   ),
   titlePanel("Public university track & field coaches: Salaries explorer"),
   actionLink("DI", "NCAA Division I"),
