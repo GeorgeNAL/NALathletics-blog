@@ -1,5 +1,3 @@
-
-
 library(shiny)
 library(leaflet)
 library(tidyverse)
@@ -15,12 +13,13 @@ otheravg <- readRDS("data/otheravg.rds")
 ui <- fluidPage(
 
   tags$head(includeCSS("www/Salaries-data-layout.css"),
-            tags$style(HTML("
-                            .map {
-                            overflow: visible;
-                            }
-                            "))
-            ),
+    tags$style(HTML("
+      .map {
+        overflow: visible;
+      }
+    ")),
+    tags$script(src="www/iframeResizer.contentWindow.min.js")
+  ),
   titlePanel("Public university track & field coaches: Salaries explorer"),
   actionLink("DI", "NCAA Division I"),
   actionLink("DII", "NCAA Division II"),
