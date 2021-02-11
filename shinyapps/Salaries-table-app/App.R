@@ -41,14 +41,13 @@ ui <- fluidPage(
   ),
 
   fluidRow(
-    column(3, selectInput("Title", "Title / Position", c("All", unique(salaries$Title)), selected = "Assistant coach")),
+  #  column(3, selectInput("Title", "Title / Position", c("All", unique(salaries$Title)), selected = "Assistant coach")),
 
-    column(3, selectInput("Affiliation", "Competitive level", c("All", unique(salaries$Institutional_Affiliation)))),
+    column(4, selectInput("Affiliation", "Competitive level", c("All", unique(salaries$Institutional_Affiliation)))),
 
-    column(3, selectInput("State", "State", unique(salaries$State))),
+    column(4, selectInput("State", "State", unique(salaries$State))),
 
-    column(3, selectInput("Events", "Event groups coached", c("TF/XC (Head coach / Director)" = "TFXC"), "Jumps" = "J", "Throws" = "T", "Pole Vault" = "P", "Sprint/Hurdle/Relay" = "S|H|R", 
-                          "Distance/XC" = "D|X",  selected = "Jumps"))
+    column(4, selectInput("Events", "Event groups coached", c("TF/XC (Head coach / Director)" = "TFXC"), "Jumps" = "J", "Throws" = "T", "Pole Vault" = "P", "Sprint/Hurdle/Relay" = "S|H|R", "Distance/XC" = "D|X",  selected = "Jumps"))
   ),
 
   dataTableOutput("salaries_table")
