@@ -41,13 +41,13 @@ ui <- fluidPage(
   ),
 
   fluidRow(
-  #  column(3, selectInput("Title", "Title / Position", c("All", unique(salaries$Title)), selected = "Assistant coach")),
+    column(3, selectInput("Title", "Title / Position", c("All", unique(salaries$Title)), selected = "Assistant coach")),
 
-    column(4, selectInput("Affiliation", "Competitive level", c("All", unique(salaries$Institutional_Affiliation)))),
+    column(3, selectInput("Affiliation", "Competitive level", c("All", unique(salaries$Institutional_Affiliation)))),
 
-    column(4, selectInput("State", "State", unique(salaries$State))),
+    column(3, selectInput("State", "State", unique(salaries$State))),
 
-    column(4, selectInput("Events", "Event groups coached", c("TF/XC (Head coach / Director)" = "TFXC"), "Jumps" = "J", "Throws" = "T", "Pole Vault" = "P", "Sprint/Hurdle/Relay" = "S|H|R", "Distance/XC" = "D|X",  selected = "Jumps"))
+    column(3, selectInput("Events", "Event groups coached", c("Jumps" = "J", "Throws" = "T", "Pole Vault" = "P", "Sprint/Hurdle/Relay" = "S|H|R", "Distance/XC" = "D|X", "TF/XC (Head coach / Director)" = "TFXC"), selected = "Jumps"))
   ),
 
   dataTableOutput("salaries_table")
@@ -58,7 +58,7 @@ server <- function (input, output) {
 
 filtered_table <- reactive ({
   salaries %>%
-  #  filter(if (input$Title != "All") (Title == input$Title) else TRUE) %>%
+    filter(if (input$Title != "All") (Title == input$Title) else TRUE) %>%
     filter(if (input$Affiliation != "All") (Affiliation == input$Affiliation) else TRUE) %>%
     filter(State %in% input$State) %>%
     filter(str_detect(Sport, as.character(input$Events))) %>%
@@ -67,7 +67,7 @@ filtered_table <- reactive ({
 
 })
 
-output$salaries_table <- renderDataTable ( filtered_table(),  options = list(dom = "t", formatCurrency('A',currency = "", interval = 3, mark = ",")))
+output$salaries_table <- renderDataTable ( filtered_table(),  options = list(dom = "t"))
 }
 
 shinyApp(ui, server)
