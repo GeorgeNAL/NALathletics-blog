@@ -67,7 +67,7 @@ filtered_table <- reactive ({
 
 })
 
-output$salaries_table <- renderDataTable ( filtered_table(),  options = list(dom = "t", formatCurrency('A',currency = "", interval = 3, mark = ",")))
+output$salaries_table <- renderDataTable ( filtered_table(),  options = list(dom = "t"))
 }
 
 shinyApp(ui, server)
