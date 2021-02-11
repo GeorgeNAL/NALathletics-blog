@@ -59,7 +59,7 @@ server <- function (input, output) {
 
 filtered_table <- reactive ({
   salaries %>%
-    filter(if (input$Title != "All") (Title == input$Title) else TRUE) %>%
+  #  filter(if (input$Title != "All") (Title == input$Title) else TRUE) %>%
     filter(if (input$Affiliation != "All") (Affiliation == input$Affiliation) else TRUE) %>%
     filter(State %in% input$State) %>%
     filter(str_detect(Sport, as.character(input$Events))) %>%
