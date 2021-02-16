@@ -43,7 +43,7 @@ ui <- fluidPage(
   fluidRow(
     column(4, selectInput("Affiliation", "Competitive level", c("All", unique(salaries$Institutional_Affiliation)))),
 
-    column(4, selectInput("State", "State", unique(salaries$State))),
+    column(4, selectInput("State", "State", sort(unique(salaries$State)))),
 
     column(4, selectInput("Events", "Event groups coached", c("TF/XC (Head coach / Director)" = "TFXC", "Jumps" = "J", "Throws" = "T", "Pole Vault" = "P", "Sprint/Hurdle/Relay" = "S|H|R", 
                                                               "Distance/XC" = "D|X"), selected = "Jumps"))
