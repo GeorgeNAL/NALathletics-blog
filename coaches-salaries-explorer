@@ -1,0 +1,35 @@
+---
+layout: default
+title: "College T&F Coaches' Salaries Explorer"
+head_javascript:
+- "/assets/js/iframeResizer.min.js"
+---
+<main>
+<style>
+.layout{
+    display:flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+.layout--top{
+    height:auto;
+}
+.layout--bottom{
+    height:auto;
+}
+</style>
+    <div class="layout">
+        <iframe class="layout--top" id="iframe-one" src="/shinyapps/Salaries-map-app/" frameBorder="0"
+                ></iframe>
+
+        <iframe class="layout--bottom" id="iframe-two" src="/shinyapps/Salaries-table-app/" frameBorder="0"
+                ></iframe>
+    </div>
+    <script>
+        (function(){
+        iFrameResize({ log: true }, '#iframe-one');
+        iFrameResize({ log: true }, '#iframe-two');
+        })();
+    </script>
+
+  </main>
