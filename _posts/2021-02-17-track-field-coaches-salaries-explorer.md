@@ -20,8 +20,12 @@ And if you are one of these coaches, don't worry: we've removed all the names, a
 
 Search our table by competitive level (e.g., Division I - FBS, Division II, NAIA), state or events coached. As we roll out new visualizations, you'll be able to get a glance at the range of salaries for event groups, and then see who the outliers are at either end of the payscale. Many of those visuals are already up in non-explorable form at [our first post on track & field coaches' salaries](https://nalathletics.com/blog/2020/11/18/how-much-do-college-track-and-field-coaches-make). 
 
-The program cuts of the past year have made college track & field expenditures a regular topic of conversation in the sport. But as with so many conversations in track & field, the chatter progressed without any real facts or evidence in support. Now there is some.
+The [program cuts of the past year](https://nalathletics.com/blog/2020/11/22/track-and-field-alumni-start-funding-cancelled-seasons) have made [college track & field expenditures a regular topic](https://nalathletics.com/blog/2021/01/05/ncaa-track-and-field-spending-results) of conversation in the sport. But as with so many conversations in track & field, the chatter progressed without any real facts or evidence in support. Now there is some.
 
-##### [EXPLORE OUR DATABASE OF COLLEGE TRACK & FIELD COACHES' SALARIES](https://nalathletics.com/coaches-salaries-explorer)
+##### [EXPLORE OUR DATABASE OF COLLEGE TRACK & FIELD COACHES' SALARIES](https://nalathletics.com/coaches-salaries-explorer.html)
+
+Between this database our nothing-like-it [map of over 31,000 places to jump, throw and run](https://nalathletics.com/map) in the United States and southern Ontario, NALathletics may be ready to lay claim to having the world's largest publicly-accessible (and free!) store of athletics data. The only thing we're really missing is performance data.
+
+Can you hold tight another month or two?
 
 <em>Photo credit: Phil Roeder / [Flickr](https://flic.kr/p/9BrkM8), under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/).
