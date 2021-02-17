@@ -14,7 +14,7 @@ How much do pro track & field coaches make? We know a bit more about that, indir
 
 We did the leg work so you won't have to.
 
-Our coaches' salaries explorer is now live, so you can take a look at big picture trends or drill down to see what a Division III throws coach in Tennessee is making... or what your old college coach is making. 
+Our coaches' salaries explorer is now live, so you can take a look at big picture trends or drill down to see [what a Division III throws coach in Tennessee](https://nalathletics.com/coaches-salaries-explorer) is making... or what your old college coach is making. 
 
 And if you are one of these coaches, don't worry: we've removed all the names, and let's face it, most people won't bother to see who coached a given combination of events at a particular school in the year covered by the data. 
 
@@ -22,6 +22,6 @@ Search our table by competitive level (e.g., Division I - FBS, Division II, NAIA
 
 The program cuts of the past year have made college track & field expenditures a regular topic of conversation in the sport. But as with so many conversations in track & field, the chatter progressed without any real facts or evidence in support. Now there is some.
 
-##### [EXPLORE OUR DATABASE OF COLLEGE TRACK & FIELD COACHES' SALARIES](
+##### [EXPLORE OUR DATABASE OF COLLEGE TRACK & FIELD COACHES' SALARIES](https://nalathletics.com/coaches-salaries-explorer)
 
-
+<em>Photo credit: Phil Roeder / [Flickr](https://flic.kr/p/9BrkM8), under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/).
