@@ -28,7 +28,7 @@ Might fans be so starved for any live sports after a year of the coronavirus-ind
 
 Was viewership higher in states that legalized recreational marijuana? 
 
-<strong>UPDATE</strong>The Sports Examiner published the [ratings from the first three ATL meets and the NBIGP](http://www.thesportsexaminer.com/heard-at-halftime-new-york-rep-katko-calls-for-beijing-boycott-modest-tf-television-ratings-a-boycott-over-bikinis-in-qatar/) on Tuesday morning, noting that the ratings from ATL #4 won't be available for another week. TSX also provided some comparison and context. Props, and another piece of evidence that TSX is among the most under-rated sports sites out there.
+<strong>UPDATE: </strong>The Sports Examiner published the [ratings from the first three ATL meets and the NBIGP](http://www.thesportsexaminer.com/heard-at-halftime-new-york-rep-katko-calls-for-beijing-boycott-modest-tf-television-ratings-a-boycott-over-bikinis-in-qatar/) on Tuesday morning, noting that the ratings from ATL #4 won't be available for another week. TSX also provided some comparison and context. Props, and another piece of evidence that TSX is among the most under-rated sports sites out there.
 
 ### 2. What was the nature of USATF's "support" for the American Track League?
 
