@@ -14,14 +14,13 @@
 
 h2 {
 	font-family: 'Brix Sans', sans-serif;
-	font-weight: normal;
     color: #040000;
 	font-size: 36px;
-	margin-top: 0px;
-	font-style: normal;a
+	margin-top: 0;
+	font-style: normal;
 	font-weight: 500;
-	text-transform: normal;
 	line-height: 1.1;
+	text-align: center;
 }
 
 .control-label, .sorting {
