@@ -5,22 +5,22 @@ date: 2021-03-01 14:00:00
 tags: athletics coaches podcast
 categories: [sportsbiz]
 author: "George"
-post_image: "/assets/img/aerial-track-curve-throws-circle.jpeg"
+post_image: "/assets/img/aerial-track-curve-throws-circle.jpg"
 slug: /open-plea-track-field-coaches/
 ---
 <h6>Track & field rarely does the things that more successful sports do. One simple way T&F can move closer to those other sports is for people in T&F to simply respond to every e-mail.</h6>
 
-In the Amazon Prime show “Sneaky Pete,” the main character’s parole officer gives him a choice: he can either be an eagle, or he can be a s--tbird. One choice will lead him to a productive life back in a society, the other will put him on the path back to the big house.
+In the Amazon Prime show “Sneaky Pete,” the [main character’s parole officer](https://www.imdb.com/title/tt5308384/) gives him a choice: he can either be an eagle, or he can be a s--tbird. One choice will lead him to a productive life back in society, the other will put him on the path back to the big house.
 
 That choice came to mind last week. Like most weeks, 10-15 emails to college track & field coaches resulted in 2-3 responses and one actual phone call to talk about college athletes’ ambitions in the sport, their potential interest in [post-collegiate track & field](https://nalathletics.com/blog/2020/08/02/finding-professional-track-and-field-athletes), ways we can overcome the [logistical, financial and social obstacles](https://nalathletics.com/blog/2021/02/22/four-questions-american-track-league-nbigp) that dissuade so many athletes from staying in the sport... all things that should be relevant to any coach’s interests.
 
 1 out of 10-15. That’s about average.
 
-Last week also brought a single response from a different batch of outgoing emails, but that was a 1-of-1. 100% of the highly speculative, long-shot emails sent regarding athletics to an organization outside of track & field prompted a response, which turned into a daily exchange of e-mails.
+Last week also brought a single response from a different batch of outgoing emails, but that was a 1-of-1. 100% of the highly speculative, long-shot emails sent regarding a potential integration with NALathletics to an organization outside of track & field prompted a response, which turned into a daily exchange of e-mails.
 
-The person on the other end is well-known and well-respected throughout the professional sports industry, both on his own merits having worked in several major American sports and by way of his family name. He showed genuine interest in [our work and ambitions for athletics](https://nalathletics.com/blog/2020/04/23/time-to-build-athletics); understood the references to Twenty20 Cricket, WorldTeamTennis, [Universal Tennis Rating](https://www.myutr.com/howutrworks); and looked for synergies between our organization and his own. 
+The person on the other end was well-known and well-respected throughout the professional sports industry, both on his own merits having worked in several major American sports and by way of his family name. He showed genuine interest in [our work and ambitions for athletics](https://nalathletics.com/blog/2020/04/23/time-to-build-athletics); understood the references to Twenty20 Cricket, WorldTeamTennis, [Universal Tennis Rating](https://www.myutr.com/howutrworks); and looked for synergies between our organization and his own. 
 
-MORE: [TRYING TO FIND THE PRO T&F ATHLETES AT USA NATIONAL CHAMPIONSHIPS (Data viz)]((https://nalathletics.com/blog/2020/08/02/finding-professional-track-and-field-athletes)
+##### MORE: [TRYING TO FIND THE PRO T&F ATHLETES AT USA NATIONAL CHAMPIONSHIPS (Data viz)](https://nalathletics.com/blog/2020/08/02/finding-professional-track-and-field-athletes)
 
 Ultimately, being a highly speculative long shot, there wasn’t a way forward (short version: they are looking to partner with established organizations, and my offer to fly there this week to establish something just wasn’t enough). But there was more interest and more dialogue than I can expect to find within the actual sport I’m working in. 
 
