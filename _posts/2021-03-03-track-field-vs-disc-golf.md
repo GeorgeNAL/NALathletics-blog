@@ -24,29 +24,27 @@ Those out of the way, the figures involved speak to the scale of each sport’s 
 
 Within the context of these announcements, one man will get $1 million. Per the back of the napkin math above, assuming prize money is three-deep the average prize winner will take home $2,000. Not to get overly mathematical, that’s the mean of three athletes. The median take-home from all the athletes is zero dollars, since most won’t be top three (obviously). 
 
-Beyond these meets, let’s remember what we wrote here in June. World Athletics’ events and “sport development activities” came to $20 million in 2018, of which $4.55 million went to the Diamond League. The highest levels of the sport globally operate on the same scale as USATF, which is the same scale as a single disc golfer.
+Beyond these meets, let’s remember what we wrote here in June. World Athletics’ [events and “sport development activities”](http://www.thesportsexaminer.com/lane-one-when-you-disassemble-max-siegels-4-2-million-comp-reported-for-2018-it-all-comes-back-to-nike-and-the-usatf-board/) came to $20 million in 2018, of which $4.55 million went to the Diamond League. The highest levels of the sport globally operate on the same scale as USATF, which is the same scale as a single disc golfer.
 
-Also from that article, $1 million is anywhere from 15-25% of the [annual loss at the top track & field programs](https://nalathletics.com/blog/2020/06/11/collegiate-spending-track-and-field-governing-bodies) in NCAA Division I. Or, to take a different approach, the University of Nebraska paid $1.7 million for each of their [4 points at the 2019 NCAA Outdoor National Championships](https://nalathletics.com/blog/2021/01/05/ncaa-track-and-field-spending-results). The amount of [prize money at each meet in the Journey to Gold - Tokyo series](https://www.usatf.org/news/2021/usatf-announces-2021-journey-to-gold-tokyo-outdoor) will be about what the University of Texas - Austin paid for each of their 46 points.
+Also from that article, $1 million is anywhere from 15-25% of the [annual loss at the top track & field programs](https://nalathletics.com/blog/2020/06/11/collegiate-spending-track-and-field-governing-bodies) in NCAA Division I. Or, to take a different approach, the University of Nebraska paid $1.7 million for each of their [4 points at the 2019 NCAA Outdoor National Championships](https://nalathletics.com/blog/2021/01/05/ncaa-track-and-field-spending-results). The amount of [prize money at each meet in the Journey to Gold - Tokyo series](https://www.usatf.org/news/2021/usatf-announces-2021-journey-to-gold-tokyo-outdoor) will be about what the University of Texas paid for each of their 46 points.
 
-###### [NCAA TRACK & FIELD SPENDING AND SUCCESS: CAN WE BUY A POINT? (Data viz)](https://nalathletics.com/blog/2021/01/05/ncaa-track-and-field-spending-results)
+##### [NCAA TRACK & FIELD SPENDING AND SUCCESS: CAN WE BUY A POINT? (Data viz)](https://nalathletics.com/blog/2021/01/05/ncaa-track-and-field-spending-results)
 
-One final question on USATF’s expenditures on the professional side of the sport: anyone have an answer to question #2?
-
-##### [FOUR QUESTIONS FOR THE AMERICAN TRACK LEAGUE AND NEW BALANCE INDOOR GRAND PRIX](https://nalathletics.com/blog/2021/02/22/four-questions-american-track-league-nbigp)
+One final question on USATF’s expenditures on the professional side of the sport: anyone have an answer to [question #2](https://nalathletics.com/blog/2021/02/22/four-questions-american-track-league-nbigp)?
 
 ### Transparency: Disc golf puts it all out there
 
-How does Paul McBeth’s endorsement contract compare to the top track & field athlete’s in the United States? Does he make more than Grant Holloway or Matt Centrowitz? Is his 10-year, $10 million contract comparable to anything Galen Rupp ever signed? 
+How does Paul McBeth’s endorsement contract compare to those of the top track & field athletes in the United States? Does he make more than Grant Holloway or Matt Centrowitz? Is his 10-year, $10 million contract comparable to anything Galen Rupp ever signed? 
 
 Unlike track & field, disc golf makes some noise when their top athlete signs a record-setting contract. Discraft’s team manager even spoke on the record for FOS’ article about the contract. The only reason we’re here [talking about disc golf right now](https://frontofficesports.com/disc-golfs-10m-superstar/) is because they did that. It’s almost as if they realize that transparency drives interest, interest drives growth and growth drives money. 
 
-At least we know what [public university track & field coaches in 26 states](https://nalathletics.com/coaches-salaries-explorer.html) get paid. If only we didn’t have to rely on legally-mandated disclosure to have these partial conversations.
+At least we know what [public university track & field coaches in 26 states](https://nalathletics.com/coaches-salaries-explorer.html) get paid. If only we didn’t have to rely on legally-mandated disclosure to have these half-a$$ conversations. (Don't forget our standing offer of anonymity if you want [to send us some documents](mailto:george@nalathletics.com).
 
 ### Leading or lagging indicator of disc golf’s growth?
 
 The first four months of 2020 - that is, the first few months of all things COVID - saw an [84% increase in press mentions of disc golf](https://parkeddiscgolf.org/2020/04/27/why-disc-golf-is-pandemic-proof-and-other-sports-are-not/). Last April, the disc golf site Parked talked about why disc golf may be “pandemic proof.”
 
-Every argument they give could apply to track & field. Outdoors? Check. Socially distanced, if not solitary? Check. Public [facilities to train and play?](https://nalathletics.com/blog/2020/10/02/find-better-place-throw-jump-run)? Check. 
+Every argument they give could apply to track & field. Outdoors? Check. Socially distanced, if not solitary? Check. Public [facilities to train and play](https://nalathletics.com/blog/2020/10/02/find-better-place-throw-jump-run)? Check. 
 
 The author, Josh Woods, focuses his analysis on press coverage and comparisons to traditional golf and baseball, and concludes that it is “plausible that public interest in disc golf is less vulnerable to Covid-19 concerns and financial downturns than larger commercialized sports.”
 
