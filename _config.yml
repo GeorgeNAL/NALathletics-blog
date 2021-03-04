@@ -32,7 +32,7 @@ author:
   bio: "Find out more about why we're here, enjoy some wonderfully ludicrous stories from track & field and stay up on what we're doing."
   image: "/assets/img/nalathletics-red-logo.png"
 
-copyright_text: '<p>Copyright © 2020 <a href="#">NALAthletics</a>. All Rights Reserved</p>'
+copyright_text: '<p>Copyright © 2021 <a href="#">NALAthletics</a>. All Rights Reserved</p>'
 
 collections:
   posts:
@@ -54,7 +54,7 @@ pagination:
   collection: 'posts'
 
   # How many objects per paginated page, used to be `paginate` (default: 0, means all)
-  per_page: 6
+  per_page: 12
 
   # The permalink structure for the paginated pages (this can be any level deep)
   permalink: '/page/:num/' # Pages are index.html inside this folder (default)
