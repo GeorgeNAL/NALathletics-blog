@@ -20,13 +20,13 @@ What, then, did the sponsors hope to gain from their involvement with these meet
 
 More broadly, what do any companies that sponsor track & field or distance running hope to get out of it? That was the topic on this week's Lane9 podcast.
 
-##### ARE YOU HEAR TO LEAD, NOT READ? [DOWNLOAD THIS WEEK'S LANE9 PODCAST](https://www.spreaker.com/user/9346696/what-do-track-fields-sponsors-aim-to-get)
+##### ARE YOU HEAR TO LEAD, NOT READ? [DOWNLOAD THIS WEEK'S LANE9 PODCAST](https://podcasts.apple.com/us/podcast/lane9-athletics-beyond-the-sport/id1198173010)
 
-Small brands sponsoring small meets is onw thing. But Puma is returning to the distance running space by [sponsoring a new training group in Raleigh-Durham, NC](https://www.letsrun.com/news/2021/03/puma-jumps-back-into-distance-running-with-north-carolina-based-pro-group-led-by-alistair-cragg/). In a comprehensive article on the running aspect of the story, Let's Run's Jonathan Gault writes:
+Small brands sponsoring small meets is one thing. But Puma is returning to the distance running space by [sponsoring a new training group in Raleigh-Durham, NC](https://www.letsrun.com/news/2021/03/puma-jumps-back-into-distance-running-with-north-carolina-based-pro-group-led-by-alistair-cragg/). In a comprehensive article on the running aspect of the story, Let's Run's Jonathan Gault writes:
 
 <em>In 2021, it is a challenge to build a training group from scratch. Each new sponsored group — whether it’s Reebok, On, Under Armour, or Puma — may have its own culture and identity, but ultimately their corporate backers are providing support for the same reason: to sell shoes. And while that investment is a boon for the sport and its athletes, it presents a challenge to individual companies and groups. The more brands and groups there are, the harder it is to stand out and recruit top talent.</em>
 
-He should have stopped before that last sentence. The "challenge to individual companies and groups" is in the preceding sentence: "to sell shoes." Neither his article nor a similar one from Outside Magazine give any indication of how Puma intends to activate on this sponsorship, that is, how they will use the new group to advance their brand goals in distance running. There are very few examples anywhere in the sport of the sponsor leveraging their properties in a way that lets someone determine what the goal of the sponsorship is. The sponsors usually seem to play from the same sheet of music as the properties: exposure and awareness. That's the usual pitch from athletes, meets and teams (whether on their own or through an agent), and somehow seems to satisfy the brands.
+He should have chosen a different direction for that last sentence. The "challenge to individual companies and groups" is in the preceding sentence: "to sell shoes." Neither his article nor a similar one from Outside Magazine give any indication of how Puma intends to activate on this sponsorship, that is, how they will use the new group to advance their brand goals in distance running. There are very few examples anywhere in the sport of the sponsor leveraging their properties in a way that lets someone determine what the goal of the sponsorship is. The sponsors usually seem to play from the same sheet of music as the properties: exposure and awareness. That's the usual pitch from athletes, meets and teams (whether on their own or through an agent), and somehow seems to win over the brand.
 
 Little wonder, then, that so many sponsors come and go, and so many brand-dependent training groups come and go. Exposure and awareness are not worthwhile, competitive goals in modern sponsorship. They are too far away from desire, action, changing perceptions, selling shoes or any other legitimate brand goal.
 
@@ -35,9 +35,9 @@ Little wonder, then, that so many sponsors come and go, and so many brand-depend
 Puma, though, are extremely savvy in their sponsorships with other sports. Then again, almost all the other [shoe companies do much more with their non-track & field sponsorships](https://nalathletics.com/blog/2020/09/21/retiring-nike-exec-career-explains-track-and-field) than they do with those in T&F. LRC's Gault states the difficulty they face in cracking the market, and we'll have to see if their sponsorship game is up to the challenge. 
 
 Anyone watching with an informed eye should be able to answer, or at least take a reasonable swing at, three questions about any sponsorship:
-    1. What does the sponsor hope to gain from the relationship?
-    2. What is the sponsor doing to achieve that goal?
-    3. How will the sponsor measure their progress towards that goal?
+1. What does the sponsor hope to gain from the relationship?
+2. What is the sponsor doing to achieve that goal?
+3. How will the sponsor measure their progress towards that goal?
 
 With the answer to #2 being "Apparently, nothing" for recent meets, you can conclude the same answer for #1, which, obviously, moots #3.
 
