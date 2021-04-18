@@ -1,7 +1,7 @@
 
 
-library(shiny)
-library(tidyverse)
+library(shiny, lib.loc="./lib")
+library(tidyverse, lib.loc="./lib")
 
 salaries <- readRDS("data/salaries.rds")
 

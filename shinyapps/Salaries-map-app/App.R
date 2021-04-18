@@ -1,8 +1,8 @@
-library(shiny)
-library(leaflet)
-library(tidyverse)
-library(tigris)
-library(geojsonio)
+library(shiny, lib.loc="./lib")
+library(leaflet, lib.loc="./lib")
+library(tidyverse, lib.loc="./lib")
+library(tigris, lib.loc="./lib")
+library(geojsonio, lib.loc="./lib")
 
 geo_state_avg <- readRDS("data/geo_state_avg.rds")
 dIavg <- readRDS("data/dIavg.rds")
