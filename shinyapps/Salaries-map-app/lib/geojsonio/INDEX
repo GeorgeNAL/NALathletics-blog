@@ -1,0 +1,40 @@
+as.json                 Convert inputs to JSON
+as.location             Convert a path or URL to a location object.
+bounds                  Get bounds for a list or geo_list
+canada_cities           This is the same data set from the maps
+                        library, named differently
+centroid                Get centroid for a geo_list
+file_to_geojson         Convert spatial data files to GeoJSON from
+                        various formats.
+geo2topo                GeoJSON to TopoJSON and back
+geojson-add             Add together geo_list or json objects
+geojson_atomize         Atomize
+geojson_json            Convert many input types with spatial data to
+                        geojson specified as a json string
+geojson_list            Convert many input types with spatial data to
+                        geojson specified as a list
+geojson_read            Read geojson or other formats from a local file
+                        or a URL
+geojson_sf              Convert objects to an sf class
+geojson_sp              Convert objects to spatial classes
+geojson_style           Style a data.frame or list prior to converting
+                        to geojson
+geojson_write           Convert many input types with spatial data to a
+                        geojson file
+geojsonio               *I/O for GeoJSON*
+geojsonio-defunct       Defunct functions in geojsonio
+map_gist                Publish an interactive map as a GitHub gist
+map_leaf                Make an interactive map locally
+postgis                 PostGIS setup
+pretty                  Convert json input to pretty printed output
+projections             topojson projections and extensions
+states                  This is the same data set from the ggplot2
+                        library
+topojson_json           Convert many input types with spatial data to
+                        TopoJSON as a JSON string
+topojson_list           Convert many input types with spatial data to
+                        TopoJSON as a list
+topojson_read           Read topojson from a local file or a URL
+topojson_write          Write TopoJSON from various inputs
+us_cities               This is the same data set from the maps
+                        library, named differently

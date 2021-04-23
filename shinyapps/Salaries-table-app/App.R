@@ -1,7 +1,6 @@
-
-
-library(shiny, lib.loc="./lib")
-library(tidyverse, lib.loc="./lib")
+.libPaths("./lib")
+library(shiny)
+library(tidyverse)
 
 salaries <- readRDS("data/salaries.rds")
 
@@ -45,7 +44,7 @@ ui <- fluidPage(
 
     column(4, selectInput("State", "State", sort(unique(salaries$State)))),
 
-    column(4, selectInput("Events", "Event groups coached", c("TF/XC (Head coach / Director)" = "TFXC", "Jumps" = "J", "Throws" = "T", "Pole Vault" = "P", "Sprint/Hurdle/Relay" = "S|H|R", 
+    column(4, selectInput("Events", "Event groups coached", c("TF/XC (Head coach / Director)" = "TFXC", "Jumps" = "J", "Throws" = "T", "Pole Vault" = "P", "Sprint/Hurdle/Relay" = "S|H|R",
                                                               "Distance/XC" = "D|X"), selected = "Jumps"))
   ),
 
