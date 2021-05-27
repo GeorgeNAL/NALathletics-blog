@@ -10,7 +10,7 @@ slug: /track-and-field-lessons-learned-villareal-europa-league/
 ---
 <h6>Track & field can learn a lot from other sports, particularly European soccer. Villareal’s Europa League win is just the latest episode with valuable insight.</h6>
 
-Villareal is a city of 50,000 on Spain’s Mediterranean coast. The nearest large city is Valencia, about an hour away. In terms of populations and distance, if Valencia is Indianapolis, Villareal is Anderson, IN. Villareal’s economy centers around its ceramic tile industry, with four large manufacturers in the city. One of them is Pamesa, a name that is now a bit more familiar to soccer fans worldwide as it graces the jerseys of 2021 Europa League Champions Villareal C.F.
+Villareal is a city of 50,000 on Spain’s Mediterranean coast. The nearest large city is Valencia, about an hour away. In terms of populations and distance, if Valencia is Indianapolis, Villareal is Anderson, IN. Villareal’s economy centers around its ceramic tile industry, with four large manufacturers in the city. One of them is Pamesa, a name that is now a bit more familiar to soccer fans worldwide as it graces the jerseys of 2021 Europa League Champions Villareal CF.
 
 The owners of Pamesa bought Villareal for just over half a million dollars in 1997, taking on $100 million in debt to acquire a team in the second tier of Spanish football and “a [stadium] for 3,000 people with poor grass and no training ground.” 
 
@@ -28,7 +28,7 @@ In those early days, when not too many people wanted to attend the stadium that 
 
 Villareal’s ownership and sense of community are common within minor league American sports. But we rarely see this type of involvement or activity in American track & field.
 
-Most properties in the sport chase major sponsors that have little or no connection to the city hosting the team or event. Because track & field is stuck on the city-to-city series model of events, they forego the opportunity to go deep in communities, establishing a face-to-face, year-round, “locally sourced” presence. 
+Most properties in T&F chase major sponsors that have little or no connection to the city hosting the team or event. If any of the athletes are from or live in the city, it's a coincidence. Because track & field is stuck on the city-to-city series model of events, they forego the opportunity to go deep in communities and develop a face-to-face, year-round, “locally sourced” presence. 
 
 ### 2. Time and money are necessary but not sufficient
 
@@ -42,20 +42,22 @@ After paying all that in your first year, what’s left for years 2-25? Especial
 
 The Roig family did not come in with an expectation of immediate commercial or competitive success. Their strategy and operations enabled them to put their time and money on the same scale: that which was necessary for Villareal to flourish. 
 
-Track & field properties have a habit of [spending 10 years’ worth of money in a single year](https://nalathletics.com/blog/2021/02/22/four-questions-american-track-league-nbigp) in an attempt to achieve 10 years of success in that single year. Flash, meet pan. Rather than building from local to national, from second tier to first tier, from investor-funded to self-sustaining, track & field acts like it can buy its way into the Big Five within a year or two on the same budget the Roig family used for year 1 of 25. 
+Track & field properties have a habit of [spending 10 years’ worth of money in a single year](https://nalathletics.com/blog/2021/02/22/four-questions-american-track-league-nbigp) with the thought that they can achieve 10 years of success in that single year. Flash, meet pan. Rather than building from local to national, from second tier to first tier, from investor-funded to self-sustaining, track & field acts like it can buy its way into the Big Five within a year or two on the same budget the Roig family used for year 1 of 25. 
 
 ### 3. ...but not as much money as track & field tends to think
 
-The Roig family’s initial investment was not much more than routinely gets spent on one-off events or donation-laundering in track & field. Yes, that initial investment led to nine-figures of money put into the club. But, again, those nine figures covered 25 years en route to being self-sustaining in one of the largest sports leagues in the world. We’re talking track & field in the United States here. If Villareal’s Europa League title is what a $500,000 purchase and $3 million first-year outlay can buy in Europea football, imagine what those sums could buy here? If properly invested, that is, and aye there’s the rub.
+The Roig family’s initial investment was not much more than routinely gets spent on one-off events or donation-laundering in "professional" track & field. Yes, that initial investment led to nine-figures of money put into the club. But, again, those nine figures covered 25 years en route to being self-sustaining in one of the largest sports leagues in the world. We’re talking track & field in the United States here. If Villareal’s Europa League title is what a $500,000 purchase and $3 million first-year outlay can buy in European football, imagine what those amounts could seed here? If properly invested, that is, and aye there’s the rub.
 
 ##### MORE: [NCAA TRACK & FIELD SPENDING AND SUCCESS: CAN WE BUY A POINT? (Data viz)](https://nalathletics.com/blog/2021/01/05/ncaa-track-and-field-spending-results)
 
 ### Key Takeaways
 
-Villareal’s owners and managers didn’t go searching for national or international “whales” to sponsor the club, produce an instant title-challenger or afford the most expensive players on the market. They kept the work and the reward in Villareal, which gave each party a vested interest and a share in all the wins.
+Villareal’s owners and managers didn’t go searching for national or international “whales” to sponsor the club, produce an instant title-challenger or put the most famous players on their marquee. They kept the work and the reward in Villareal, which gave each party a vested interest and a share in all the wins.
 
-The club worked on a scale based on [strong business and sport development practices](https://nalathletics.com/blog/2020/12/26/track-field-road-racing-need-sports-business-professionals). The owners understood both business and sports business, including their level of involvement in the day-to-day and hiring experienced personnel from the industry. 
+The club worked on a scale based on [strong business and sport development practices](https://nalathletics.com/blog/2020/12/26/track-field-road-racing-need-sports-business-professionals). The owners understood both business and sports business, including their level of involvement and their limitations in the day-to-day and, therefore, hiring experienced personnel from the industry. 
 
 Part of the romance of Villareal’s Europa League win and part of the reason sports business students and professionals will study the club for so long is because the city is so small. Instead of following the American model of crowding as many new properties (or, worse, one-off events) as possible into Atlanta, San Francisco, New York or Dallas, track & field should wonder how great of an impact could they have in places like Anderson, IN.
 
-European soccer is a major influence on NALathletics’ perspectives, vision and ambition (it’s amazing what happens when you look outside your sport). What we outline above is what we’re already doing. Interested? Does everything you just read make too much sense? Get <a href="mailto:george@nalathletics.com">in touch and let’s talk</a>.  
+<h6>European soccer is a major influence on NALathletics’ perspectives, vision and ambition (it’s amazing what happens when you look outside your sport). What we outline above is what we’re already doing. Interested? Does everything you just read make too much sense? Get <a href="mailto:george@nalathletics.com">in touch and let’s talk</a>.</h6>
+
+<em>Photo credit: Juan Fernandez / [Flickr](https://flic.kr/p/6wyYfX), under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).</em>
