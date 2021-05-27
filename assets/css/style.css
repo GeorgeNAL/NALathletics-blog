@@ -114,7 +114,11 @@ h5 a {
     color: #265ec3;
 }
 
-1 {
+h6 a {
+    color: #265ec3;
+}
+
+h1 {
 	font-size: 40px;
 	font-weight: 500;
 }
