@@ -22,7 +22,7 @@ Or consider some of the memorable encounters I’ve had. I once exchanged emails
 
 That team never had a team sponsor, none of the athletes ever had a significant contract and the team was defunct in about two years.
 
-Then there was the Olympic medalist who said he didn’t want to do a similar “off track” interview because he had just switched sponsors. Rather than show his new sponsor what a gem they had just signed by showing his willingness to be available to the media and by taking other aspects of his personality out into the world, no, he figured they would prefer he keep a low profile.
+Then there was the Olympic medalist who said he didn’t want to do a similar “off track” interview because he had recently switched sponsors. Rather than show his new sponsor what a gem they had just signed by showing his willingness to be available to the media and by taking other aspects of his personality out into the world, no, he figured they would prefer he keep a low profile.
 
 ##### MORE: [T&F CAN LEARN FROM VILLAREAL's EUROPA LEAGUE TITLE](https://nalathletics.com/blog/2021/05/27/track-and-field-lessons-learned-villareal-europa-league)
 
