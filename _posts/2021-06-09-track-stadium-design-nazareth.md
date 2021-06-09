@@ -18,6 +18,8 @@ We recently visited Nazareth College outside of Rochester, NY, and it’s a grea
 
 From one side of the track, you can see a throws cage on the other side of a soccer and field hockey field. Someone sitting in the top row of the bleachers could probably see a thrower in the circle, but not enough to see who they are or how their throw went. And even then, only if they turned and looked 90 degrees to the left - you can’t have an eye on both the circle and the track. 
 
+##### ALSO: [NCAA T&F SPENDING AND SUCCESS: CAN WE BUY A POINT? (Data viz)](https://nalathletics.com/blog/2021/01/05/ncaa-track-and-field-spending-results)
+
 That throws circle at [///reaffirmed.wriggling.prouder](https://nalathletics.com/map/stadium/nazareth-college) is only a few yards behind the outfield fence of the school’s softball diamond. If a track meet and softball game were going on at the same time, the softball fans would have a better view and chance to cheer for the thrower than the fans in the track stadium!
 
 ![Nazareth College throws circle]({{ "/assets/img/nazareth-college-throws-circle.jpeg" | relative_url }})
@@ -31,10 +33,10 @@ If a coach, fan or teammate wants to cheer on two athletes whose events are at t
 
 The [scattered layout of the throws facilities](https://nalathletics.com/blog/2021/04/27/3-words-know-where-track-meets) creates poor experiences for fans, coaches and athletes who want to take in the entire sport, or at least more than one discipline. And it creates needless difficulty and frustration for any local thrower who shows up looking for a place to practice. If they go to the stadium and look around, at most they’ll see the cage in the outfield. They could easily drive into campus, walk around the stadium, assume there’s nothing there for them and head out. 
 
-This is why we built the NALathletics map, so athletes can know where to go. Javelin throwers already have enough difficult finding a place to train, so making it easier for them to find a well-maintained runway and a spacious landing area could make a significant difference in their motivation, progress and desire to stay in the sport.
+This is why we built the NALathletics map, so athletes can know where to go. Javelin throwers have enough difficulty finding a place to train, so making it easier for them to find a well-maintained runway and a spacious landing area could make a positive difference in their motivation, progress and desire to stay in the sport.
 
 ##### MORE: [WHAT T&F CAN LEARN FROM VILLAREAL'S EUROPA LEAGUE TITLE](https://nalathletics.com/blog/2021/05/27/track-and-field-lessons-learned-villareal-europa-league)
 
 Nazareth’s throws cluster could be a great place for throwers to come together in the Rochester area. The school is already (or should be) on the national throws map. Despite being a small Division III school, Nazareth has had regular representation in the USA Track & Field National Championships over the last few years thanks to [hammer and weight thrower Luis Rivera](https://www.instagram.com/luis4real/) (whose records still stand at these circles).
 
-Bringing athletes together is Goal #1b for NALathletics (finding a place to train is 1a). While we’d prefer that all disciplines can come together in the same place, if we have to start with a throws squad gathering around ///modesty.popular.spouting a few hundred meters and out of sight from the jumpers and runners, so be it, as long as they all go out together afterwards and share the same colors. 
+Bringing athletes together is Goal #1b for NALathletics (finding a place to train is 1a). While we’d prefer that all disciplines can come together in the same place, if we have to start with a [throws squad gathering around ///modesty.popular.spouting](https://what3words.com/modesty.popular.spouting) a few hundred meters out of sight from the jumpers and runners, so be it, as long as they all go out together afterwards and share the same colors. 
