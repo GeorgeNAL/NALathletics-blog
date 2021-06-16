@@ -5,14 +5,14 @@ date: 2021-06-16 13:00:00
 tags: trackandfield ncaa dataviz
 categories: [athletics]
 author: "George"
-post_image: "/assets/img/new-hayward-field.jpg"
+post_image: "/assets/img/new-hayward-field.jpeg"
 slug: /international-athletes-ncaa-championships/
 ---
-<h6>International students made up one-third of the top 10 finishers at the 2021 NCAA Outdoor Track & Field Championships. A functional future for American track & field involves keeping these athletes in the US after graduation.</h6>
+<h6>International students made up one-third of the top 10 finishers at the 2021 NCAA Outdoor Track & Field Championships. These athletes are a unique subset of the athletes we need to keep in the sport past graduation.</h6>
 
 If not for COVID, we’d be at the point on the track & field calendar where people start asking “How can we keep more of the top American track & field athletes in the US for the summer, so they don’t have to go to Europe?” Since travel to Europe is still a coronavirus-induced pain and there’s not much going on over there for American athletes anyway, let’s put a twist on that old standby query: 
 
-How can we keep more of the top European track & field athletes in the US for the summer or longer? You know, the ones who are doing so well on American college track & field teams? In fact, how can we keep them in the US alongside their American teammates and opponents for their post-collegiate careers?
+How can we keep more of the top international track & field athletes in the US for the summer or longer? You know, the ones who are doing so well on American college track & field teams? In fact, how can we keep them in the US alongside their American teammates and opponents for their post-collegiate careers?
 
 ### International athletes at NCAA Track & Field Top 10s
 
@@ -27,7 +27,7 @@ Europe dominated the throws and multi events among the international student-ath
 
 ### European club athletics look like a sport
 
-International track & field student-athletes occupy an interesting intersection of two of our motivating questions. First, how can we keep more track & field athletes in the sport after they graduate college? Second, and in part as an answer to the first, what can we learn and import from the European sport model? 
+International track & field student-athletes occupy an interesting intersection of two of our motivating questions. First, how can we keep more track & field athletes in the sport after they graduate college? Second, as part answer to the first, what can we learn and import from the European sport model? 
 
 Our competitive and business models are based in large part on the European club system, not just in track & field but in all sports. The hurdles are more cultural - that is, the [culture of track & field in the US](https://nalathletics.com/blog/2021/05/20/track-and-field-value-not-thank-you) - than commercial. 
 
@@ -35,11 +35,11 @@ One of the easiest ways to see this is on social media. Go to Instagram and look
 
 The pictures, the graphics, the captions, the hashtags from across the pond all convey sports.
 
-##### [MAKING IT EASIER TO FIND A PLACE, THEN FIND THE PEOPLE](https://nalathletics.com/blog/2020/10/02/find-better-place-throw-jump-run)
+##### GET STARTED: [FIND A PLACE, THEN FIND THE PEOPLE](https://nalathletics.com/blog/2020/10/02/find-better-place-throw-jump-run)
 
 If aliens came down to earth and looked at the social media feeds of a swath of pro or semi-pro sports teams, European athletics clubs and athletes, American track & field clubs and athletes, and fitness influencers and hangers-on, they would group together the first two and the last two. 
 
-H: American athletics missing out on a what should be a global game
+### American athletics missing out on a what should be a global game
 
 The most successful sports are ones that attract the most athletes able to compete at whatever level. Soccer is the global game not because it’s played everywhere, but because everyone goes anywhere they have to in order to play at the highest level they can. 
 
@@ -51,6 +51,6 @@ A functional athletics ecosystem in the US would benefit greatly from internatio
 
 Best of all, these athletes are already here! The numbers above are from the top 10 finishers at NCAA Division I, but it stands to reason that the percentages would extrapolate to the start lists; and, to varying extents, to team rosters and the other divisions of the NCAA and NAIA.
 
-<h6>If any of this sounds interesting to you, if you’d like to both stay in the sport and stay in the US to do it, if a European-inspired club model appeals to you more than what’s out there in American track & field right now, <a href="mailto:george@nalathletics.com">mash this link and let us know</a>.</h6> 
+<h6>If any of this sounds interesting to you, if you’d like to both stay in the sport and stay in the US to do it and if a European-inspired club model - or just anything different - appeals to you more than what’s out there in American track & field right now, <a href="mailto:george@nalathletics.com">mash this link and let us know</a>.</h6> 
 
 <em>Photo credit: Rick Obst / [Flickr](https://flic.kr/p/2j9MZAg), under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).</em>
