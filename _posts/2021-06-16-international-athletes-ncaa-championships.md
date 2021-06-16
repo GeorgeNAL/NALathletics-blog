@@ -8,7 +8,7 @@ author: "George"
 post_image: "/assets/img/new-hayward-field.jpeg"
 slug: /international-athletes-ncaa-championships/
 ---
-<h6>International students made up one-third of the top 10 finishers at the 2021 NCAA Outdoor Track & Field Championships. These athletes are a unique subset of the athletes we need to keep in the sport past graduation.</h6>
+<h6>International students made up 30% of the top 10 finishers at the 2021 NCAA Outdoor Track & Field Championships. These athletes are a unique subset of the athletes we need to keep in the sport past graduation.</h6>
 
 If not for COVID, we’d be at the point on the track & field calendar where people start asking “How can we keep more of the top American track & field athletes in the US for the summer, so they don’t have to go to Europe?” Since travel to Europe is still a coronavirus-induced pain and there’s not much going on over there for American athletes anyway, let’s put a twist on that old standby query: 
 
@@ -16,14 +16,14 @@ How can we keep more of the top international track & field athletes in the US f
 
 ### International athletes at NCAA Track & Field Top 10s
 
-At the 2021 NCAA Outdoor Track & Field Championships, [332 athletes finished in the top 10](https://flashresults.com/2021_Meets/Outdoor/06-09_NCAA/) of the individual events (i.e., relays excluded). One-third of them - 110 athletes from 39 countries - were international students. Europe had the largest contingent, with 38 student-athletes; followed by the Caribbean with 27 and Africa with 24. Eleven countries had an athlete atop the podium, but only one country had two: [Thomas Mardel and Marie-Therese Obst of Norway won the hammer and javelin](https://sportindepth.com/index.php/2021/06/14/the-ncaa-championships-is-back-at-glorious-hayward-field/), respectively. 
+At the 2021 NCAA Outdoor Track & Field Championships, [332 athletes finished in the top 10](https://flashresults.com/2021_Meets/Outdoor/06-09_NCAA/) of the individual events (i.e., relays excluded). Just under one-third of them - 98 athletes from 39 countries - were international students. Europe had the largest contingent, with 39 student-athletes; followed by the Caribbean with 29 and Africa with 24. Eleven countries had an athlete atop the podium, but only one country had two: [Thomas Mardel and Marie-Therese Obst of Norway won the hammer and javelin](https://sportindepth.com/index.php/2021/06/14/the-ncaa-championships-is-back-at-glorious-hayward-field/), respectively. 
 
 Jamaica had 19 top 10 finishers, the most of any non-US country. These athletes were more evenly distributed across the three “standalone” disciplines - 9 runners, 6 jumpers, 4 throwers - than any other country’s athletes. Kenya had 11 top 10 finishers, all of whom were runners.
 
 ![International athletes at NCAA Outdoor Track & Field Championships]({{ "/assets/img/international-athletes-ncaa-championships.jpg" | relative_url }})
 {: .blog-center-image}
 
-Europe dominated the throws and multi events among the international student-athletes. Europeans had six of the 20 spots among the heptathlon and decathlon, and were 18 of the 80 top throwers. In addition to Mardel and Obst, Norwegian hammer throwers Beatrice Llano and Jon Nerdal finished fifth and seventh, respectively. 
+Europe dominated the throws and multi events among the international student-athletes. Europeans had three of the 20 spots among the heptathlon and decathlon, including three from Germany alone. and were 18 of the 80 top throwers. In addition to Mardel and Obst, Norwegian hammer throwers Beatrice Llano and Jon Nerdal finished fifth and seventh, respectively. 
 
 ### European club athletics look like a sport
 
