@@ -18,7 +18,7 @@ But even so, for those track & field athletes who end up on the happy side of th
 
 Every event family except for the multi-events saw a plurality of entrants with a qualifying mark. Distance runners, on the other hand, had 75% of entrants punch their tickets to Olympic Trials before the qualifying window closed. As a result, only three runners - all in the men’s 10,000m - were welcomed in. However, multis had only 62 entrants, less than half of the next lowest event, hurdles. The other five event families ranged from 239 (middle distance) to 287 (sprints) entrants.
 
-![USA Track & Field Olympic Trials: Athletes off the bubble by event family]({{ "olympic-trials-status-entry-event-family.jpg" | relative_url }})
+![USA Track & Field Olympic Trials: Athletes off the bubble by event family]({{ "/assets/img/olympic-trials-status-entry-event-family.jpg" | relative_url }})
 {: .blog-center-image}
 
 
@@ -29,7 +29,7 @@ It appears that, like at most USA Track & Field National Championships, there wi
 Of the athletes who did affiliate themselves, 222 collegiate athletes qualified and another 204 were accepted off the bubble. Company sponsored athletes claimed 206 spots, and 183 club or unattached athletes qualified. 
 
 
-![USA Track & Field Olympic Trials: Collegiate and post-collegiate athletes off the bubble]({{ "olympic-trials-status-entry-athlete-affiliation.jpg" | relative_url }})
+![USA Track & Field Olympic Trials: Collegiate and post-collegiate athletes off the bubble]({{ "/assets/img/olympic-trials-status-entry-athlete-affiliation.jpg" | relative_url }})
 {: .blog-center-image}
 
 
