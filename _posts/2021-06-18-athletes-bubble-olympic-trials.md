@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qualified or accepted: Off the bubble and into track & field Olympic Trials"
+title: "Qualified or accepted: Off the bubble and into track & field Olympic Trials (data viz)"
 date: 2021-06-18 16:00:00
 tags: olympictrials usatf dataviz
 categories: [track & field]
