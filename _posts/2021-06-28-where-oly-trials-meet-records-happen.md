@@ -36,19 +36,19 @@ They might need to expand the landing area out a few meters if they plan on havi
 
 #### Triple jump pit: [///thick.await.sector](https://what3words.com/thick.await.sector)
 
-OK, so which event is less appreciated: the hammer, which has their circle outside of the stadium? Or the triple jump, which uses the same track-side runways as the long jump, but doesn’t even get a clip of Keturjah Orji’s meet record on NBC Sports? We had to go with some fan’s video on YouTube (props, Dr. Seth Jenny).
+OK, so which event is less appreciated: the hammer, which had to use a circle outside of the stadium? Or the triple jump, which uses the same track-side runways as the long jump, but doesn’t even get a clip of Keturjah Orji’s meet record on NBC Sports? We had to go with some fan’s video on YouTube (props, Dr. Seth Jenny).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ie_-XVypTwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Orji jumped 14.52m to set what might be the least-viewed meet record of the Olympic Trials.
+Orji jumped 14.52m to set what might be the least-viewed meet record of the Olympic Trials. If only an NFL player competed in the triple jump.
 
 #### Pole vault: [///take.hammer.deed](https://what3words.com/take.hammer.deed)
 
-OK, hmmm, this is a bit odd. NBC Sports does not have any footage on YouTube of pole vault finals We would have thought pole vault would have warranted some highlight clips, especially since so many of the throws and long jumps have clips. [Dr. Jenny to the rescue](https://www.youtube.com/channel/UCYqRE1r6eZZZjIE4iPwlsxQ) yet again!
+OK, hmmm, this is a bit odd. NBC Sports does not have any footage on YouTube of the pole vault finals. We would have thought pole vault would have warranted some highlight clips, especially since so many of the throws and one long jump competitor have clips. [Dr. Jenny to the rescue](https://www.youtube.com/channel/UCYqRE1r6eZZZjIE4iPwlsxQ) yet again!
 
 Well, as best as we can tell given the camera angle, Katie Nageotte set her PR and meet record of 4.95m at //take.hammer.deed.
 
-##### RELATED: [T&F CAN LEARN FROM TENNIS: NO MEDIA, NO MONEY}(https://nalathletics.com/blog/2021/06/04/track-and-field-tennis-no-media-no-money)
+##### RELATED: [T&F CAN LEARN FROM TENNIS: NO MEDIA, NO MONEY](https://nalathletics.com/blog/2021/06/04/track-and-field-tennis-no-media-no-money)
 
 #### Running events: We’ll get back to you!
 
