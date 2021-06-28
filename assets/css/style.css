@@ -77,6 +77,11 @@ a:hover {
 	color: #ff180e;
 	text-decoration: none;
 }
+
+h4 a:hover {
+        color: #265ec3;
+	text-decoration: none;
+}
 a,
 button {
 	color: #265ec3;

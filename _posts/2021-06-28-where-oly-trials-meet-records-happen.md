@@ -26,7 +26,7 @@ Price set the record for the qualifying round (77.10), then returned for the Ame
 
 #### Javelin runway: [///sheets.shock.glitz](https://what3words.com/sheets.shock.glitz)
 
-There should be more shock and glitz in the javelin but, like the hammer, it’s lucky to be included in most meets at this point. Maggie Malone, who was one of the X “unattached” athletes coming into this meet, threw 63.50m for a two-meter win and the meet record.
+There should be more shock and glitz in the javelin but, like the hammer, it’s lucky to be included in most meets at this point. Maggie Malone, who was one of the [“unattached” athletes](https://nalathletics.com/blog/2020/08/02/finding-professional-track-and-field-athletes) coming into this meet, threw 63.50m for a two-meter win and the meet record.
 
 #### Shot put circle: [///badly.land.shows](https://what3words.com/badly.land.shows)
 
