@@ -27,7 +27,7 @@ The first surprise was that the hurdles had the second-most highlight clips but 
 ![USA Track & Field Olympic Trials: Total views per event group on NBCSports YouTube]({{ "/assets/img/track-field-olympic-trials-nbcsports-youtube-totals.jpg" | relative_url }})
 {: .blog-center-image}
 
-In terms of average number of viewers per clip, throws were right between sprints and mid-distance. That’s a pretty solid demand signal for more throwing content. And it’s not just the Ryan Crouser effect: the clip of his world record had only 100,000 more views than DeAnna Price’s American record, and 150,000 more than a clip of shot putters Raven Saunders and Jessica Ramsey.
+In terms of average number of viewers per clip, throws were closer to sprints than mid-distance. That’s a pretty solid demand signal for more throwing content. And it’s not just the Ryan Crouser effect: the clip of his world record had only 100,000 more views than DeAnna Price’s American record, and 150,000 more than a clip of shot putters Raven Saunders and Jessica Ramsey.
 
 ![USA Track & Field Olympic Trials: Average views per event group on NBCSports YouTube]({{ "/assets/img/track-field-olympic-trials-nbcsports-youtube-averages.jpg" | relative_url }})
 {: .blog-center-image}
