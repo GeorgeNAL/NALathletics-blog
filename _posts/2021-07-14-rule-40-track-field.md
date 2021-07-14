@@ -34,11 +34,11 @@ Whatever someone is to you, if you’re thanking them - if you think you need to
 
 ##### MORE: [TRACK & FIELD NEEDS TO THINK VALUE FOR VALUE, NOT "THANK YOU"](https://nalathletics.com/blog/2021/05/20/track-and-field-value-not-thank-you)
 
-Whether an athlete thanks a brand before, during or after an event, they are not creating value for that brand. Nor are they are not enhancing the fan experience. Which means it’s not [accurate to call it a sponsorship](https://powersponsorship.com/most-least-powerful-sponsorship-benefits/), nor is it accurate to consider it an exchange of commercial value.
+Whether an athlete thanks a brand before, during or after an event, they are not creating value for that brand. Nor are they are enhancing the fan experience. Which means it’s not [accurate to call it a sponsorship](https://powersponsorship.com/most-least-powerful-sponsorship-benefits/), nor is it accurate to consider it an exchange of commercial value.
 
-“She thanked her sponsor. I’m totally buying that company’s shoes / sunglasses / watches / car / hard seltzer / financial services. Or, at the very least, I think more positively of the brand in a way that moves me towards some brand goal.” Said no one ever.
+“She thanked her sponsor. I’m totally buying that company’s shoes / sunglasses / watches / car / hard seltzer / financial services. Or, at the very least, I think more positively of the brand than I did before this interaction in a way that moves me towards some brand goal.” Said no one ever.
 
-Rule 40 should be an annoyance. If there’s anything worth getting upset at the IOC about it’s their [tap-dancing justification](https://www.teamusa.org/rule40) for the rule. They should just forthrightly say that they are protecting their sponsors’ investment, like every other sports property. 
+Rule 40 should be an annoyance. If there’s anything worth getting upset at the IOC about, it’s their [tap-dancing justification](https://www.teamusa.org/rule40) for the rule. They should just forthrightly say that they are protecting their sponsors’ investment, like every other sports property. 
 
 Such rules are no more than annoyances for most brands and sponsored sports properties. The difference between those in other sports and those in track & field is that the former activate year-round and across multiple channels to create value for both parties (and, in the best cases, the fans). The latter are trying to squeeze in a bit of gratitude, another reminder of the real nature of these relationships and the cultural challenges this sport still faces.
 
