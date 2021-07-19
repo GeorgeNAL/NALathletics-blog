@@ -10,13 +10,13 @@ slug: /how-to-find-long-jump-shot-put-any-field-event/
 ---
 Finding a running track is pretty easy: go to the nearest high school. If you’re not picky, maybe even a middle school. You can try a nearby college, but most reserve their tracks exclusively for their track & field teams (especially at Division I schools).
 
-But what if you’re looking for a place to do some long jumping, shot putting or any other of the field events? You’d think they’d be within or next to the track, since they are the field component of “track & field.” Maybe half of the time you’d probably be right. The all-within-the-oval design you may have seen at [Hayward Field while watching Olympic Trials](https://nalathletics.com/blog/2021/06/28/track-field-olympic-trials-meet-records-3-word-addresses) is certainly the exception, but there’s usually some effort to keep the sport together. At least all within sight of each other.
+But what if you’re looking for a place to do some long jumping, shot putting or any other of the field events? You’d think they’d be within or next to the track, since they put the field in “track & field.” Maybe half of the time you’d probably be right. The nearly-all-within-the-oval design you may have seen at [Hayward Field while watching Olympic Trials](https://nalathletics.com/blog/2021/06/28/track-field-olympic-trials-meet-records-3-word-addresses) is certainly the exception, but there’s usually some effort to keep the sport together. At least all within sight of each other.
 
-Too many times, though, the [throws circles are not in the track's sight lines](https://nalathletics.com/blog/2021/06/09/track-field-stadiums-detach-throwers), and sometimes they're even scattered around the school’s campus. In the course of tracking down over 31,000 athletics facilities, we’ve long jump runways tucked on the other side of some trees that line a curve of the track and throws circles closer to centerfield than the oval.
+Too many times, though, the [throws circles are not in the track's sight lines](https://nalathletics.com/blog/2021/06/09/track-field-stadiums-detach-throwers), and sometimes they're even scattered around the school’s campus. In the course of tracking down over 31,000 athletics facilities, we’ve encountered long jump runways tucked on the other side of some trees that line a curve of the track and throws circles closer to centerfield than the oval.
 
 Even some top Power Five programs will have a few circles or javelin runways back behind the stadium, especially if those are the “practice circles.” 
 
-Anyone who shows up at the [track looking for a place to jump or throw](https://nalathletics.com/) may have to do a bit of searching before they find what they need. Track & field being the solo-est of solo sports, the athlete may not have anyone they can text to ask “Where TF is this thing?” And, the field events being the niche-iest part of a niche sport, there’s probably not going to be a crowd of jumpers and throwers drawing your attention to where action’s at.
+Anyone who shows up at the [track looking for a place to jump or throw](https://nalathletics.com/) may have to do a bit of searching before they find what they need. Track & field being the solo-est of solo sports, the athlete may not have anyone they can text to ask “Where TF is this thing?” And, the field events being the niche-iest part of a niche sport, there’s probably not going to be a crowd of jumpers and throwers drawing your attention to where the action’s at.
 
 ##### LOOKING FOR SOMETHING ELSE? [TRY OUR SALARIES EXPLORER](https://nalathletics.com/coaches-salaries-explorer.html)
 
@@ -28,11 +28,11 @@ Give the app permission to detect your location, or just enter where you are (or
 
 ### 2. Find an athletics stadium near you
 
-Our top-level search brings up all the athletics stadiums near you. The stadium is the high school, the university, the (rarely) public or private sports complex. Within each stadium are the facilities: the individual throws circles, jump pits, javelin runways and the track itself.
+Our top-level search brings up all the athletics stadiums near you. The stadium is the collection of athletics facilities at the high school, university or (rarely) public or (more rarely) private sports complex. Within each stadium, then, are the event facilities: the individual throws circles, jump pits, javelin runways and the track itself.
 
 ### 3. See if they have your field event's facilities
 
-Once you select a stadium, the icons will show you which disciplines - run, jump, throw - the stadium supports. Not every stadium will have facilities for all events, though, so click through the dropdowns or check the shield logos to see if they have what you’re looking for. If not, move on to the next nearest stadium.
+Once you select a stadium, the icons will show you which disciplines - run, jump, throw - the stadium supports. Not every stadium will have facilities for all events in a discipline, though, so click through the dropdowns or check the shield logos to see if they have what you’re looking for. If not, move on to the next nearest stadium.
 
 ### 4. Remember these 3 words 
 
