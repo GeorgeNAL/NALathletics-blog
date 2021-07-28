@@ -12,7 +12,7 @@ slug: /olympic-track-field-sports-betting-primer/
 
 For as long as we can remember, one of the more facile proposals to revitalize track & field has been to introduce gambling. We can debate carts and horses some other time. Since track & field fans are often a bit out of step with the sports world at large, we figured we’d do a track & field-centric intro to sports betting for anyone looking to take some action for the first time.
 
-At this point, there’s probably some legalese we should include, so nothing here is meant to be an endorsement, encouragement or anything other than providing definitions, examples and contexts. And, they say, [when the fun stops, stop](http://www.whenthefunstops.com/) (with gambling - the fun should never stop when reading this site).
+At this point, there’s probably some legalese we should include, so nothing here is meant to be an endorsement, encouragement or anything other than providing definitions, examples and contexts. And, as they say, [when the fun stops, stop](http://www.whenthefunstops.com/) (with gambling - the fun should never stop when reading this site).
 
 ### Moneylines: Pick the podium-topper
 
@@ -38,13 +38,13 @@ Keep in mind that the odds are not static: when you place a wager, you lock in t
 
 ### Parlays: Like a multi-event, but for sports betting
 
-You can build you own multi-athlete multi-event with a track & field parlay. A parlay is two or more bets, where you have to win each individual bet in order to win the parlay. Obviously, the odds are pretty low of winning, dropping with each wager you add to the parlay. But, just as obviously, if you manage to win, you’ll win a lot more than you would with any of those single bets.
+You can build you own multi-athlete multi-event with a track & field parlay. A parlay is two or more bets where you have to win each individual bet in order to win the parlay. Obviously, the odds are pretty low of winning, dropping with each wager you add to the parlay. But, just as obviously, if you manage to win, you’ll win a lot more than you would with any of those single bets.
 
 An enterprising sports book could offer parlay pentathlons or heptathlons (a parlay decathlon would just be silly, but hey, you’d be surprised what’s out there - see prop bets below), where instead of selecting events at random you pick the winner of the 5 or 7 individual standalone events that comprise the multis.
 
 ### Over-under: Making it work for track & field
 
-Betting the total points scored is a staple for team sports betting. The sportsbook give their projection for how many points the two teams will combine for, and the bettor simply bets that the actual outcome will be more or less. Doesn’t matter who wins or by how much: you’re just choosing over or under that total.
+Betting the total points scored is a staple for team sports betting. The sportsbook gives their projection for how many points the two teams will combine for, and the player simply bets that the actual outcome will be more or less. Doesn’t matter who wins or by how much: you’re just choosing over or under that total.
 
 Within athletics, the over-under would basically be a prop bet: will the winning height, distance or time be over or under the projection. If the oddsmakers say Crouser will win with a 22.60m throw and Katie Nageotte will win by clearing 4.90, you’d put your money on over or under.
 
@@ -72,7 +72,7 @@ Again, the confounding aspect of betting on track & field is that applying the n
 
 ##### RELATED: [WHAT T&F CAN LEARN FROM VILLAREAL'S EUROPA LEAGUE TITLE](https://nalathletics.com/blog/2021/05/27/track-and-field-lessons-learned-villareal-europa-league)
 
-In a way, that’s a bit like a teaser. A teaser is a way to soften some of the bets in a parlay. Teasers open the spread in both directions, making it easier for the player to win that bet and therefore up their chances of winning the parlays. Of course, that comes at the expense of the payout if you do win. 
+In a way, that’s a bit like a teaser. A teaser is a way to soften some of the bets in a parlay. Teasers open the spread in both directions, making it easier for the player to win that bet and therefore up their chances of winning the parlays. Of course, that comes at the expense of the payout if you do win. For track & field, a teaser could allow for a partial payout on a parlay if an athlete covered the spread <em>or</em> won.
 
 <h6>What do you still want to know? How else would you bet on athletics: any ideas for some tasty props or parlays worth watching?</h6>
 
