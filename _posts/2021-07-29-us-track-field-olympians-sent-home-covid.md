@@ -14,14 +14,16 @@ Us, on July 27: "Simply playing the numbers, more athletes, including some from 
 
 July 29: It begins.
 
-We spent a good chunk of last year keeping up with the universities that cut (and, for reasons some respectable and some craven, restored) their track & field programs due to COVID-related budget cuts. Outside of a few status quo defenders, that produced what we could call "track & field crickets": a shrug followed by something like "it is what it is." Far less refreshing than [Irish crickets](https://podcasts.apple.com/us/podcast/victory-the-podcast/id1517406283). In any events, since this list will only grow in the coming days, we'll do our best to keep up with the US track & field Olympians who are sent home - not DQ'd, but DNS'd, because so much better that way - for a positive COVID test in the Olympic Village.
+We spent a good chunk of last year keeping up with the universities that cut (and, for reasons some understandable and some craven, restored) their track & field programs due to COVID-related budget cuts. Outside of a few status quo defenders, those produced what we could call "track & field crickets": a shrug accompanied by something like "oh well that sucks." Far less refreshing than [Irish crickets](https://podcasts.apple.com/us/podcast/victory-the-podcast/id1517406283). 
+
+In any event, since this list will only grow in the coming days, we'll do our best to keep up with the US track & field Olympians who are sent home - not DQ'd, but DNS'd, because so much better that way - for a positive COVID test in the Olympic Village.
 
 ### Sam Kendricks, Pole Vault
 
 The 2016 Olympic bronze medalist, two-time outdoor World Champion, two-time indoor World Champion, American record holder and viral-for-the-right-national-anthem-related-reasons star Sam Kendricks. 
 
-##### WHAT ARE THE ODDS? [BETTING ON OLYMPIC TRACK & FIELD 101](https://nalathletics.com/blog/2021/07/28/olympic-track-field-sports-betting-primer)
-
 As ridiculous as this is, at least Kendricks was the the one with the actual positive test. Always wanting to take their COVID absurdity to 11, the [Aussies rushed their entire track & field squad](https://www.theguardian.com/sport/2021/jul/29/olympic-athletes-fear-domino-effect-as-pole-vaulters-test-positive-for-covid) into an emergency quarantine pending their own tests since a few of the vaulters were deemed in close contact with Kendricks. 
+
+##### WHAT ARE THE ODDS? [BETTING ON OLYMPIC TRACK & FIELD 101](https://nalathletics.com/blog/2021/07/28/olympic-track-field-sports-betting-primer)
 
 And to think somebody (many somebodies, in fact) all thought these were [worthwhile ways of going about a sporting](https://nalathletics.com/blog/2021/07/27/covid-olympics-track-field-worth) event. 
