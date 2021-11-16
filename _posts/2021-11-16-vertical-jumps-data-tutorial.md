@@ -5,7 +5,7 @@ date: 2021-11-16 17:30:00
 tags: athletics trackandfield datascience R jumping
 categories: [sportsbiz]
 author: "George"
-post_image: "/assets/img/high.jump.jpg"
+post_image: "/assets/img/high-jump.jpg"
 slug: /pole-vault-high-jump-data-table-tutorial/
 ---
 <em>This post was written and submitted as part of an entry into RStudio's Table Contest: 2021 Edition. If you're not interested in an R tutorial, check out any of our other posts or just read the beginning and the end to get an idea of what we're doing with track & field results data.</em>
@@ -29,7 +29,6 @@ Or even this:
 
 ![Another sadly typical T&F vertical event results display]({{ "/assets/img/vertical-results-screenshot2.jpg" | relative_url }})
 {: .blog-center-image}
-
 
 
 Sadly, not only is that what goes in the official record of the meet, it’s usually what makes its way onto websites and social media. On meet days, photos of printouts and screen caps abound on T&F Twitter and Insta. Results are scattered all over the web, so simply compiling a bunch of these results sheets is quite challenging, let alone if you wanted to get a snapshot of an athlete’s season or career. “How many heights did she clear at last year’s national championships?” is a question few ask, and no one other than the athlete and her coach could probably answer.
