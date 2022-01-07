@@ -52,7 +52,7 @@ The owners of the PBR teams will operate their teams and manage their staffs the
 
 ### 4. Risk-taking and independence pay off in the long run
 
-For a too-long stretch of the last couple years, the Professional Bull Riders was the only major or mid-major professional sports league competing in the US. When college sports were shutting down seasons, [USA Track & Field was cancelling national championships]((https://nalathletics.com/blog/2021/01/08/usatf-cancels-indoor-national-championships) and states were saying “No sports, no indoor events, no fans” or anything similar, PBR found other states, cities and venues that were happy to have their business and that of their fans. 
+For a too-long stretch of the last couple years, the Professional Bull Riders was the only major or mid-major professional sports league competing in the US. When college sports were shutting down seasons, [USA Track & Field was cancelling national championships](https://nalathletics.com/blog/2021/01/08/usatf-cancels-indoor-national-championships) and states were saying “No sports, no indoor events, no fans” or anything similar, PBR found other states, cities and venues that were happy to have their business and that of their fans. 
 
 “We went where they let us go," Gleason said.
 
