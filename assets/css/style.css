@@ -314,6 +314,12 @@ label {
     color: #fefefe;
 }
 
+.faq-img {
+	max-width: 80%;
+	height: auto;
+	vertical-align: middle;
+}
+
 
 /* 2. Header */
 .basic-bar {
