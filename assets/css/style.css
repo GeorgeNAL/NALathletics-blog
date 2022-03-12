@@ -1658,7 +1658,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .overview {
-	padding: 115px;
+/*	padding: 115px; */
 /*	margin-bottom: -100px; */
 	position: relative;
 	z-index: 9;
