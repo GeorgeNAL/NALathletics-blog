@@ -349,7 +349,7 @@ label {
 
 .anchor{
   position: absolute;
-  transform: translateY(-50vh)
+  transform: translateY(-50vh);
 }
 
 /* 2. Header */
