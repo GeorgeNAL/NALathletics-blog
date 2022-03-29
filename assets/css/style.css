@@ -350,6 +350,15 @@ label {
 .anchor{
   position: absolute;
   transform: translateY(-50vh);
+  top: 50%;
+}
+
+.accordion_title {
+  font-family: "Brix Sans", sans-serif;
+  font-weight: normal;
+  color: #265ec3;
+  font-size: 24px;
+  font-weight: bold;
 }
 
 /* 2. Header */
