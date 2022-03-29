@@ -27,7 +27,7 @@
   font-family: "Brix Sans";
   src: url("../fonts/BrixSans-Bold.otf");
   font-weight: bold;
-  font-display: swap;
+  font-display: swap;Sans
 }
 
 @font-face {
@@ -355,7 +355,7 @@ label {
 
 .accordion_title {
   font-family: "Brix Sans", sans-serif !important;
-  color: #265ec3 !important;
+  color: #040000;
   font-size: 24px;
   font-weight: bold;
 }
