@@ -347,6 +347,13 @@ label {
   vertical-align: middle;
 }
 
+.anchor{
+  display: block;
+  height: 100px;
+  margin-top: -100px;
+  visibility: hidden;
+}
+
 /* 2. Header */
 .basic-bar {
   height: 60px;
