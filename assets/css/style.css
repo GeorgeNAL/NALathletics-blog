@@ -348,10 +348,8 @@ label {
 }
 
 .anchor{
-  display: block;
-  height: 100px;
-  margin-top: -100px;
-  visibility: hidden;
+  position: absolute;
+  transform: translateY(-50vh)
 }
 
 /* 2. Header */
