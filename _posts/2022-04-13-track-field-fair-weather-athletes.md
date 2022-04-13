@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Things you'll only find in track & field: Fair weather (literally) athletes"
-date: 2022-4-13 12:00:00 +0600
+date: 2022-04-13 11:30:00 +0600
 tags: athletics 
 categories: [track & field]
 author: "George"
