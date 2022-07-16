@@ -91,7 +91,7 @@ pagination:
 
   # Optional, the default file extension for generated pages (e.g html, json, xml).
   # Internally this is set to html by default
-  extension: ""
+  extension: html
 
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension

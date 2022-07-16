@@ -5,7 +5,6 @@ page_header_image: "/assets/img/blog_page_header.jpg"
 pagination:
   enabled: true
 ---
-
 <main>
 
 {% include page_header.html %}
@@ -13,7 +12,7 @@ pagination:
 <section class="blog-area pt-120 pb-80">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8">
+            <div class="col-lg-12">
               {% for post in paginator.posts %}
                 <article class="postbox post format-image mb-40">
                 	{% if post.post_image %}
@@ -58,9 +57,6 @@ pagination:
                         </ul>
                     {% endif %}
                 </div>
-            </div>
-            <div class="col-lg-4">
-              {% include sidebar.html %}
             </div>
         </div>
     </div>
