@@ -1945,6 +1945,12 @@ input.main-search-input:-ms-input-placeholder {
   -o-object-fit: cover;
      object-fit: cover;
 }
+.postbox {
+  max-width: 800px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
 .postbox__thumb img {
   width: 100%;
 }
