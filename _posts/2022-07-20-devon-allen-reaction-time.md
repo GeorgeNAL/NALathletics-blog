@@ -12,7 +12,7 @@ slug: /devon-allen-reaction-times-world-championships/
 
 If any athlete was going to be wrongly disqualified for a false false start, it was Devon Allen. His reaction time data from across his career shows that being first off the line is kind of his thing.
 
-We looked at data from 1,044 athletes (519 men, 525 women) competing in 436 sprint and hurdle races: 60m, 100m and 110m hurdles, and the 100m and 200m sprints. The meets cover eight USA Indoor and Outdoor Championships - including the 2016 and 2021 Olympic Trials - 10 Diamond League meets and four NCAA championships. Originally, we were only going to look at the races that Devon Allen competed in. We then added [all sprint and hurdle races from those meets](https://github.com/gpilgrim2670/JumpeR), and then added a few meets (the NCAA championships) that he did not compete in. We incorporated those additional races and meets to provide context, and maybe to take the edge off Allen’s perceived dominance: anyone can look good when you build your dataset around them, right?
+We looked at data from 1,044 athletes (519 men, 525 women) competing in 436 sprint and hurdle races: 60m, 100m and 110m hurdles, and the 100m and 200m sprints. The meets cover eight USA Indoor and Outdoor Championships - including the 2016 and 2021 Olympic Trials - 10 Diamond League meets and four NCAA championships. Originally, we were only going to look at the races that Devon Allen competed in. We then added [all sprint and hurdle races from those meets](https://cran.rstudio.com/web/packages/JumpeR/), and then added a few meets (the NCAA championships) that he did not compete in. We incorporated those additional races and meets to provide context, and maybe to take the edge off Allen’s perceived dominance: anyone can look good when you build your dataset around them, right?
 
 But the more meets that entered the dataset, the clearer Allen’s reaction time freakitude (it’s a word) became.
 
@@ -27,8 +27,10 @@ Allen managed this low average despite having a race with reaction time greater 
 ![Top three fastest reaction times from sprint and hurdle races at USA National Championship]({{ "/assets/img/devon-allen-top-three-reaction-times.png" | relative_url }})
 {: .blog-center-image}
 
+
 ![Devon Allen's reaction times vs. all sprinters and hurdlers at USAs and Diamond League]({{ "/assets/img/devon-allen-reaction-time-spread.png" | relative_url }})
 {: .blog-center-image}
+
 
 From the full dataset, 361 athletes had at least one race with a reaction time under .150. Allen did it 22 times, while four athletes did it seven times and four athletes did it six times.
 
@@ -52,4 +54,5 @@ Let’s Run shared some interesting data on the [median reaction times from Worl
 That just brings us back to the singular athlete that is Devon Allen. He did not drop his reaction times significantly this season compared to previous years. If World Athletics did use a new (or misuse an old) technology in the starting blocks, it leveled the playing field and brought other athletes’ reaction times more in line with Allen’s usual. As often happens, levelling the playing field – intentionally or not – came at the expense of the high performers.
 
 <em>Photo credit: [Phil Roeder](https://flic.kr/p/27prdYu) / Flickr, under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).</em>
+<em>Date credit: [JumpeR](https://cran.rstudio.com/web/packages/JumpeR/), available on CRAN.</em>
 
