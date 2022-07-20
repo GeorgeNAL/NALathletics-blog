@@ -20,7 +20,7 @@ Other sports have this to a lesser extent. The confined nature of the NFL and NB
 
 The chart below compares the Twitter and Instagram followers of Schefter, Wojnarowski and [soccer’s Fabrizio Romano](https://twitter.com/FabrizioRomano) with some of track & field’s most popular or successful athletes.
 
-![Major sport contract reports vs. track & field's most popular athletes]({{ "/assets/img/international-athletes-ncaa-championships.jpg" | relative_url }})
+![Major sport contract reporters vs. track & field's most popular athletes]({{ "/assets/img/transfer-reports-track-field-athletes-followers.png" | relative_url }})
 {: .blog-center-image}
 
 These reporters have more followers than nearly all track & field athletes. More than Olympic medalists, more than NCAA champions, more than people who look much better in your feed. 
