@@ -24,7 +24,7 @@ Since 1972, four athletes have won 10 or more [USA outdoor track & field titles]
 
 Emma Coburn was one of three athletes competing at the 2022 outdoor championships to already have the record for most USA outdoor titles in her event. The other two were Ryan Crouser and Allyson Felix. Crouser currently shares the record for most shot put championships with Adam Nelson, and is on track to not only take the top spot for himself but to lock it up for some time. Then again, I once said that about Roger Federer, and he has the mixed fortune of still playing while his rivals sail past his record. 
 
-###### (Article continues after the table)
+###### (Article continues after the table. Click the column titles to sort!)
 {% include title_table.html %}
 
 
