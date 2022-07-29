@@ -15,6 +15,9 @@ pagination:
             <div class="col-lg-12">
               {% for post in paginator.posts %}
                 <article class="postbox post format-image mb-40">
+                 <h3 class="blog-title">
+                            <a href="{{post.url | relative_url}}">{{post.title}}</a>
+                        </h3>
                 	{% if post.post_image %}
                     <div class="postbox__thumb">
                         <a href="{{post.url | relative_url}}">
@@ -23,9 +26,6 @@ pagination:
                     </div>
                     {% endif %}
                     <div class="postbox__text p-50">
-                        <h3 class="blog-title">
-                            <a href="{{post.url | relative_url}}">{{post.title}}</a>
-                        </h3>
                         <div class="post-meta mb-15">
                             <span><i class="far fa-calendar-check"></i>  {{post.date | date_to_long_string }}</span>
                             <span><i class="far fa-user"></i> {{post.author}}</span>
