@@ -23,14 +23,14 @@ pagination:
                     </div>
                     {% endif %}
                     <div class="postbox__text p-50">
+                        <h3 class="blog-title">
+                            <a href="{{post.url | relative_url}}">{{post.title}}</a>
+                        </h3>
                         <div class="post-meta mb-15">
                             <span><i class="far fa-calendar-check"></i>  {{post.date | date_to_long_string }}</span>
                             <span><i class="far fa-user"></i> {{post.author}}</span>
                             <span><i class="far fa-comments"></i> <a href="{{post.url | relative_url}}#disqus_thread" data-disqus-identifier="{{post.id}}">0 Comments</a></span>
                         </div>
-                        <h3 class="blog-title">
-                            <a href="{{post.url | relative_url}}">{{post.title}}</a>
-                        </h3>
                         <div class="post-text mb-20">
                            {{post.excerpt | strip_html | truncatewords: "45" }}
                         </div>

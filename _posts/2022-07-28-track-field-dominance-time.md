@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Track & field's young stars can pursue dominance over time, instead of just times"
+title: "Track & field athletes can pursue dominance over time, instead of just times"
 date: 2022-07-28 12:00:00
 tags: athletics dataviz
 categories: [trackandfield]
