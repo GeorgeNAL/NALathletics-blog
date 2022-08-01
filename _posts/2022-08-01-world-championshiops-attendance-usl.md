@@ -24,14 +24,15 @@ World Championships’ viewing numbers, though, are in the ball park for total m
 
 ![World Championships 2022 attendance vs. United Soccer League]({{ "/assets/img/world-championships-attendance.png" | relative_url }})
 {: .blog-center-image}
+&nbsp;
 
 As of July 24, 11 games into a 32-matchweek season, [1.3 million fans had attended a USL Championship game](https://twitter.com/phat7deuce/status/1552419307300294657) and 185,000 fans attended USL1 matches. That puts them on track for about 4 million fans and a half million fans, respectively.
 
 The various apples-and-oranges comparisons here are not only apt – they prove the point. Recurring customers (fans) are more valuable than one-time customers. In-person fans are more valuable than remote fans. Sports properties would rather have 4 million in-person fans, many of whom are season ticket holders or multiple game attendees, than 10 million remote fans over the course of a week. The property with the recurring in-person fans features teams in the second-tier of their sport in a country in which that sport is, at the global level, decidedly second tier. The other, the one that managed to do each night for one week what several cities do every week, featured the world’s absolute best athletes in their sport.
 
-##### Maybe it's better people didn't watch: [Devon Allen's reaction times: T&F needs to keep up](https://nalathletics.com/blog/2022/07/20/devon-allen-reaction-times-world-championships)
+##### Maybe it's better people didn't watch: [DEVON ALLEN'S REACTION TIMES: T&F NEEDS TO KEEP UP](https://nalathletics.com/blog/2022/07/20/devon-allen-reaction-times-world-championships)
 
-The two points of comparison that favor World Championships are location and price. Eugene is much smaller than most USL cities, even as the USL cities tend to be mid-market or lower. The three [USL teams with average attendance over 10,000](https://twitter.com/phat7deuce/status/1549055259028357121) are in their respective state capitols and, in the case of Indianapolis and Albuquerque, largest cities in their states. World Championships tickets were also more in line with an international destination event than weekly, local entertainment. The cost and logistics of travel, lodging and tickets made World Championships cost prohibitive for many fans. 
+The two points of comparison that favor World Championships are location and price. Eugene is much smaller than most USL cities, even as the USL cities tend to be mid-market or lower. The three [USL teams with average attendance over 10,000](https://twitter.com/phat7deuce/status/1549055259028357121) are in their respective state capitals and, in the case of Indianapolis and Albuquerque, largest cities in their states. World Championships tickets were also more in line with an international destination event than weekly, local entertainment. The cost and logistics of travel, lodging and tickets made World Championships cost prohibitive for many fans. 
 
 But again, this cuts both ways and stronger in one direction. World Championships were an international destination once-in-a-may-not-come-back-here event, not affordably priced, regularly available local entertainment for families and hipsters. 
 
@@ -50,3 +51,5 @@ Because that’s the measure of success. World Championships showed that track &
 ### Ready to jump, throw and run on a cold Wednesday night?
 
 Want to give athletics a permanent home in cities across the US? Want to be part of showing how athletics – not track & field, athletics, our way – can, in fact, do it under whatever weather conditions you have in your hometown?  <a href = "mailto: george@nalathletics.com"> Drop us a line</a>. Teams and leagues are forming now. Where? Wherever you are. 
+
+<em>Photo credit: Hayden Schiff via [Flickr](https://flic.kr/p/2aJKbv9), under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).</em>
