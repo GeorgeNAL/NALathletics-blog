@@ -20,7 +20,7 @@ And, we should add, for any amount of time.
 
 Competitive amateur and recreational sports leagues across sports have rolling, overlapping and – ultimately – year-round mini-seasons. While leagues that are in their sport’s “pyramid” need to match the seasons of the leagues above them so players can be called up and sent down, the broad base of grassroots leagues are flexible and creative in their scheduling. Because some of these leagues have players working to get into the bottom tier of the pyramid, their annual cycle may peak in some way during the higher levels’ seasons. But overall, supply and demand shape the schedule.
 
-As a result, you get fall leagues and spring leagues, presented by the same overarching league. Some leagues have 6-, 8 or 12- week seasons, so a player can do three seasons for the same team in the same league each year. These overlap with weekend, week-long, month-long or nearly year-long tournaments.
+As a result, you get fall leagues and spring leagues, presented by the same overarching league. Some leagues have six, eight or 12 week seasons, so a player can do three seasons for the same team in the same league each year. These overlap with weekend, week-long, month-long or nearly year-long tournaments.
 
 A six-week league may sound silly next to the nine month season of the [professional European soccer](https://nalathletics.com/blog/2021/05/27/track-and-field-lessons-learned-villareal-europa-league) or North American hockey pyramids or the seven month baseball season from MLB to Single-A, but six weeks is fully one half of most post-collegiate track & field athletes’ only season each year.
 
@@ -34,6 +34,6 @@ As we [form leagues anywhere and almost any time](https://nalathletics.com/faq),
 
 Athletics needs more of everything, starting with more athletes (sorry, [Carl, you’re still wrong](https://nalathletics.com/blog/2020/03/30/athletics-wants-more-athletes)). Which means we need to offer more to athletes: more opportunities, more reasons to join, more ways to make it easy to be an athlete or fan of the sport. 
 
-Get in touch – <a href = "mailto: george@nalathletics.com">email</a>, [IG DM](https://www.instagram.com/nalathletics/), messenger pigeon, harassment on the street – if you were or are about to be one of the 20,000 T&F athletes who graduate every year with seemingly nothing in front of you for the sport. Teams and leagues are forming now ([Just the FAQs, please](https://www.instagram.com/nalathletics/). You tell us what you’d like for where, when and how long (and cool things like what colors your team should have and all that – perks of being first).
+Get in touch – <a href = "mailto: george@nalathletics.com">email</a>, [IG DM](https://www.instagram.com/nalathletics/), messenger pigeon, harassment on the street – if you were or are about to be one of the 20,000 T&F athletes who graduate every year with seemingly nothing in front of you for the sport. Teams and leagues are forming now ([Just the FAQs, please])(https://www.instagram.com/nalathletics/). You tell us what you’d like for where, when and how long (and cool things like what colors your team should have and all that – perks of being first).
 
 <em>Photo credit: filip bossuyt / [Flickr](https://flic.kr/p/Hz7tpx), under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).</em>
