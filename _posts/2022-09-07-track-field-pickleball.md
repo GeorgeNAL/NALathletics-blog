@@ -27,16 +27,16 @@ As someone who would never advise a client to name a product pickle-anything if 
 Like any successful sport, [pickleball offers a plethora of lessons](https://www.ppatour.com/) for any other sport looking to grow or find traction. Because this blog is about track & field, we’re going to focus on an aspect that is so basic that it wouldn’t even appear on any other sport’s “lessons learned” list because no other sport would need to hear it, let alone consider it a lesson to be learned.
 
 <h4>Q: Why is so much investment money pouring into pickleball?
-A: Because people with money want to invest, and the people operating the sport welcome investment.
+\nA: Because people with money want to invest, and the people operating the sport welcome investment.
 </h4>
 
 Track & field does not have a money problem. Millions of dollars flow through the sport every year.  
 
 Note my always careful word choice: flow through. Money flows from benefactors, through 501(c)3’s, to athletes, coaches or other non-profits (e.g., clubs) and right on out of the sport. 
 
-None of those millions from people who have made millions (maybe even a [few in the Three Comma Club](https://www.youtube.com/watch?v=xzMUrB-Um1Y)) invest their money in the sport. Unlike the people who have invested in lacrosse, golf (TopGolf et al, not the Saudis), women’s hockey, padel and now pickleball, track & field’s donors – that’s what they are – are not trying to expand the value of their money through the sport so as to get a return on their investment or enjoy the perks of being a professional team owner. Nor are they even trying to get the sport to where they don’t have to keep writing one way checks every year. Unless part of what they are after are those sweet sweet tax deductions.
+None of those millions from people who have made millions (maybe even a [few in the Three Comma Club](https://www.youtube.com/watch?v=xzMUrB-Um1Y)) invest their money in the sport. Unlike the people who have invested in lacrosse, golf (TopGolf et al, not the Saudis), [women’s hockey](https://nalathletics.com/blog/2022/08/16/track-field-niche-sport-attendance-salaries), padel and now pickleball, track & field’s donors – that’s what they are – are not trying to expand the value of their money through the sport so as to get a return on their investment or enjoy the perks of being a professional team owner. Nor are they even trying to get the sport to where they don’t have to keep writing one way checks every year. Unless part of what they are after are those sweet sweet tax deductions.
 
-Maybe there are just no worthwhile properties for potential investors to invest in? Or no commercial properties at all? Even if that were the case, and it’s not (we have no doubt the [American Track League](https://nalathletics.com/blog/2021/02/22/four-questions-american-track-league-nbigp) or [Sound Running](https://nalathletics.com/blog/2021/06/14/viewership-ratings-track-and-field-ppv) could benefit from the money and professional management – though would they be savvy enough to take it?), people who can give that much money first must know how to create it. They could start something on their own, or spark and seed something still in the ideation phase. Or hold a pitch competition. Or lure a few serial entrepreneurs away from those other sports now off the runway. 
+Maybe there are just no worthwhile properties for potential investors to invest in. Or no commercial properties at all. Even if that were the case, and it’s not (we have no doubt the [American Track League](https://nalathletics.com/blog/2021/02/22/four-questions-american-track-league-nbigp) or [Sound Running](https://nalathletics.com/blog/2021/06/14/viewership-ratings-track-and-field-ppv) could benefit from the money and professional management – though would they be savvy enough to take it?), people who can give that much money first must know how to create it. They could start something on their own, or spark and seed something still in the ideation phase. Or hold a pitch competition. Or lure a few serial entrepreneurs away from those other sports now off the runway. 
 
 There’s any number of ways they could [build commercial enterprises within track & field](https://nalathletics.com/blog/2020/09/21/retiring-nike-exec-career-explains-track-and-field), and then manage them professionally so the success of the venture and success of the sport brings them a return on investment.
 
@@ -44,15 +44,17 @@ If they wanted to.
 
 ##### MORE: [TRACK & FIELD VS. DISC GOLF: WHAT WILL $1 MILLION GET YOU?](https://nalathletics.com/blog/2021/03/03/track-field-vs-disc-golf)
 
-Same as investors did decades ago with the “big four American sports.” Same as how investors have with the fastest growing sports of the last decade. Like what Ellin, Foxman and Ricketts want to do with pickleball.  
+Same as investors did decades ago with the “big four American sports.” Same as how investors have with the fastest growing sports of the last decade. Like what Ellin, Foxman, Ricketts and the others want to do with pickleball.  
 
 ### Pickleball is just the latest come-from-behind victor over track & field
 
-Pickleball has done countless things right: hiring branding and marketing [agencies to remake the image of the sport](https://apptour.org/), positioning themselves as a true pyramid sport, highly competitive and professionally oriented at one end while also a recreational activity for all comers at the other; capitalizing on the COVID-19-related shutdowns; pouncing on grassroots momentum; building digital platforms to precede or complement IRL growth; learning lessons from the sports that succeeded before them. 
+Pickleball has done countless things right: hiring branding and marketing [agencies to remake the image of the sport](https://apptour.org/), positioning themselves as a true pyramid, highly competitive and professionally oriented at one end while also a recreational activity for all comers at the other; capitalizing on the [COVID-19-related shutdowns](https://nalathletics.com/blog/2021/03/04/usatf-defaults-another-national-championship); pouncing on grassroots momentum; building digital platforms to precede or complement IRL growth; learning lessons from the sports that succeeded before them. 
 
-All of those happened within the chicken-egg cycle of investment money coming in, that money being applied towards commercial growth, which in turn fuels more investment money coming in. And, mind you, fwiw, those are all things that we have done here to varying extents on a budget that would make a shoestring look like trans-Alaska pipeline. 
+All of those happened within the chicken-egg cycle of investment money coming in, that money being applied towards commercial growth, which in turn fuels more investment money coming in. And, mind you, fwiw, [those are all things that we have done here](https://nalathletics.com/blog/2020/04/23/time-to-build-athletics) to varying extents on a budget that would make a shoestring look like trans-Alaska pipeline. 
 
 ##### KEEP READING: [TRACK & FIELD ATHLETE SALARIES LIKELY LINE UP WITH OTHER NON-MAJOR SPORTS'](https://nalathletics.com/blog/2022/08/16/track-field-niche-sport-attendance-salaries)
+
+##### [OR FIND A PLACE TO TRAIN AND COMPETE WITH OUR WEB APP](https://nalathletics.com/map)
 
 Athletics has demographic, cultural, sporting and logistic advantages that grind-stage startups in nascent sports could not imagine. But one after another, those sports and their properties emerge, grow, explode, thrive and enrich – literally, make rich – countless people within. The ones that don’t at least provide valuable lessons to others in that sport and the broader industry. 
 
