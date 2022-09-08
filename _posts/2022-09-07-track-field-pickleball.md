@@ -26,9 +26,8 @@ As someone who would never advise a client to name a product pickle-anything if 
 
 Like any successful sport, [pickleball offers a plethora of lessons](https://www.ppatour.com/) for any other sport looking to grow or find traction. Because this blog is about track & field, we’re going to focus on an aspect that is so basic that it wouldn’t even appear on any other sport’s “lessons learned” list because no other sport would need to hear it, let alone consider it a lesson to be learned.
 
-<h4>Q: Why is so much investment money pouring into pickleball?
-\nA: Because people with money want to invest, and the people operating the sport welcome investment.
-</h4>
+<h4>Q: Why is so much investment money pouring into pickleball?</h4>
+<h4>A: Because people with money want to invest, and the people operating the sport welcome investment.</h4>
 
 Track & field does not have a money problem. Millions of dollars flow through the sport every year.  
 
