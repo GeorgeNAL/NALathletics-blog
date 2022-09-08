@@ -53,8 +53,6 @@ All of those happened within the chicken-egg cycle of investment money coming in
 
 ##### KEEP READING: [TRACK & FIELD ATHLETE SALARIES LIKELY LINE UP WITH OTHER NON-MAJOR SPORTS'](https://nalathletics.com/blog/2022/08/16/track-field-niche-sport-attendance-salaries)
 
-##### [OR FIND A PLACE TO TRAIN AND COMPETE WITH OUR WEB APP](https://nalathletics.com/map)
-
 Athletics has demographic, cultural, sporting and logistic advantages that grind-stage startups in nascent sports could not imagine. But one after another, those sports and their properties emerge, grow, explode, thrive and enrich – literally, make rich – countless people within. The ones that don’t at least provide valuable lessons to others in that sport and the broader industry. 
 
 If we’re the only ones who see that and think in those terms, wonderful. More for us. 
