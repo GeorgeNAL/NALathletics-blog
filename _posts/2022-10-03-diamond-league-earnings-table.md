@@ -19,8 +19,10 @@ Scanning through the first few pages of the table, you may notice that there are
 
 These two observations suggest a wide spread of earnings both within and between events, an idea that’s supported by the chart below. Three events had their top earners pull in over $75,000, while 10 events had top earners under $50,000, three of which were under $40,000.
 
+&nbsp;
 ![Diamond League earnings spread across top 10 per event]({{ "/assets/img/diamond-league-earnings.png" | relative_url }})
 {: .blog-center-image}
+&nbsp;
 
 The within-group earnings spread goes away very quickly as you work your down the places. The difference between fifth place finishers in any two events is much less than the difference between first or second place finishers, and the difference between tenth place finishers even more so. The chart shows that visually, and running correlations to compare finishing places shows no real relationship between what the top earners make and what those down the event leaderboards make.
 
