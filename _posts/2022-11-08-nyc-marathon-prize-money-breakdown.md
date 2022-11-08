@@ -16,7 +16,6 @@ Second, any time we can find data about how much anyone in track & field or adja
 
 Third, if you don't think breakdowns like this, the [conversations that spurred it](https://www.letsrun.com/forum/flat_read.php?thread=11608353) and the conversations that will follow will soon come to track & field, perhaps we can interest you in our soon-to-be-staked shitcoin. Maybe we can call it ShotCoin, since we love throwing so much.
 
-&nbsp;
 ![New York City Marathon prize money breakdown by place and category]({{ "/assets/img/nyc-marathon-prize-money-breakdown.png" | relative_url }})
 {: .blog-center-image}
 &nbsp;
@@ -26,7 +25,6 @@ Let's take a closer look at what it takes just to win a mere $5,000 or less on t
 &nbsp;
 ![New York City Marathon $5,000 or less prize money]({{ "/assets/img/nyc-marathon-win-few-thousand.png" | relative_url }})
 {: .blog-center-image}
-&nbsp;
 
 We'll have more comparisons before long from our [Diamond League results and financial data](https://nalathletics.com/blog/2022/10/03/diamond-league-earnings-table) about what it takes to win $5,000 by jumping, throwing or running shorter (much shorter) distances. 
 
@@ -35,12 +33,13 @@ For now, we'll close out with this table comparing a few relevant standards or m
 {% include nyc_marathon_prize_money_table.html %}
 
 ##### MORE SPORTSBIZ AND DATAVIZ FROM THE WORLD OF ATHLETICS
+&nbsp;
 <ul>
  <li> <a href="https://nalathletics.com/blog/2022/08/16/track-field-niche-sport-attendance-salaries">Track & field athletes' salaries likely line up with other non-major sports'</a></li>
  <li> <a href="https://nalathletics.com/blog/2022/07/14/contract-speculation-track-field-revenue-transparency">Contract speculation drives two things track & field doesn't have: Revenue and transparency</a></li>
  <li> <a href="https://nalathletics.com/blog/2021/03/03/track-field-vs-disc-golf">Track & field vs. disc golf: What can $1 million get you?</a></li>
 </ul>
- 
+ &nbsp;
  <em>Photo credit: [Metropolitan Transportation Authority](https://flic.kr/p/2nWKdbP) via Flickr, under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
 
 
