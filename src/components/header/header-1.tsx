@@ -81,53 +81,6 @@ const Header1: React.FC<ChakraProps & ThemingProps> = (props) => {
             display={breakpoint}
             items={MAIN_NAV_ITEMS}
           />
-
-          <HStack spacing={2}>
-            <Button
-              onClick={() => dispatch({ type: CartActions.CART_DRAWER_TOGGLE })}
-              variant="ghost"
-              fontWeight={500}
-              // rightIcon={}
-            >
-              Cart{" "}
-              <Badge ml={2} variant="outline" colorScheme="brand">
-                {state.cart.length}
-              </Badge>
-            </Button>
-            <Button
-              onClick={(e) => buttonHandler(e, "/account/sign-up")}
-              display={breakpoint}
-              colorScheme="brand"
-            >
-              Sign Up
-            </Button>
-            <NextLink href="/account/sign-in" passHref>
-              <Link
-                _hover={{ color: useColorModeValue("brand.600", "brand.300") }}
-                display={breakpoint}
-                fontWeight={500}
-                px={2}
-              >
-                Sign In
-              </Link>
-            </NextLink>
-
-            {/* Mobile Menu Button */}
-            <Box display={breakpointReverse}>
-              <IconButton
-                onClick={onToggle}
-                icon={
-                  isOpen ? (
-                    <CloseIcon w={3} h={3} />
-                  ) : (
-                    <HamburgerIcon w={5} h={5} />
-                  )
-                }
-                variant="ghost"
-                aria-label="Toggle Navigation"
-              />
-            </Box>
-          </HStack>
         </Flex>
 
         {/* Mega Menu container */}
