@@ -4,20 +4,18 @@ layout: default
 
 <main>
 <!-- breadcrumb-area-start -->
-<section class="breadcrumb-area overlay" data-background="{{site.post_cover_image | relative_url}}">
-    <div class="container">
+<section class="container">
         <div class="row">
             <div class="col-xl-12">
                 <div class="breadcrumb-text text-center">
                     {% if page.post_title %}
-                    <h1 class="mb-0 text-white">{{page.post_title}}</h1>
+                    <h1>{{page.post_title}}</h1>
                     {% else %}
-                     <h1 class="mb-0 text-white">{{page.title}}</h1>
+                     <h1>{{page.title}}</h1>
                     {% endif %}
                 </div>
             </div>
         </div>
-    </div>
 </section>
 <!-- breadcrumb-area-end -->
 
