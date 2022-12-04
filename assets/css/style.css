@@ -123,6 +123,7 @@ h3 a {
 h5 a,
 h6 a {
   color: #265ec3;
+  line-height: 1.0;
 }
 
 h4 a {
@@ -130,7 +131,7 @@ h4 a {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 34px;
   font-weight: 500;
 }
 h2 {
