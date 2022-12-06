@@ -92,6 +92,7 @@ The top two NYRR non-binary money winners took home $11,900 and $6,500 in 2022, 
   <li>$1,590: average salary per game for a 22-game season in the National Women’s Soccer League, top women’s soccer league</li>
   <li>$3,500: average salary per game for a 10-game season the Premier Lacrosse League, top men’s outdoor lacrosse league</li>
 </ul>
+&nbsp;
 
 By no sporting measure are 2:45 or 3:09 marathons, 55:00 or 65:00 10 milers, 33:00 or 39:00 10Ks equivalent to any of the above levels in track & field, hockey or soccer.  
 
