@@ -1,0 +1,2 @@
+I will need to move all the markdown files into this file
+# It looks like each post would be a page -> need to figure out a way to use markdown files for this.

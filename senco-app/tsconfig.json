@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "strictNullChecks": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "noImplicitThis": false,
+    "baseUrl": ".",
+    "paths": {
+      "@assets/*": ["src/assets/*"],
+      "@blocks": ["src/blocks"],
+      "@blocks/*": ["src/blocks/*"],
+      "@components": ["src/components"],
+      "@components/*": ["src/components/*"],
+      "@definitions": ["src/definitions"],
+      "@definitions/*": ["src/definitions/*"],
+      "@layouts": ["src/layouts"],
+      "@layouts/*": ["src/layouts/*"],
+      "@public": ["public"],
+      "@public/*": ["public/*"],
+      "@styles": ["src/styles"],
+      "@styles/*": ["src/styles/*"],
+      "@test": ["test"],
+      "@test/*": ["test/*"]
+    },
+    "incremental": true
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "types/*.ts", "src/components/carousel/index.tsx.bak"],
+  "exclude": ["node_modules", "test/*"]
+}
