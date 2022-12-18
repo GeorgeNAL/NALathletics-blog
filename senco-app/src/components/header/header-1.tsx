@@ -26,7 +26,6 @@ import MAIN_NAV_ITEMS from "@definitions/navigation/main";
 
 import Logo from "@components/logo";
 import Navbar, { MobileNav } from "@components/navbar";
-import SiteName from "@components/sitename";
 
 const Header1: React.FC<ChakraProps & ThemingProps> = (props) => {
   const { isOpen, onToggle, onClose } = useDisclosure();
@@ -67,11 +66,6 @@ const Header1: React.FC<ChakraProps & ThemingProps> = (props) => {
             <Link _hover={{ color: col }}>
               <HStack align="center">
                 <Logo />
-                <SiteName
-                  fontSize="xl"
-                  fontWeight="800"
-                  textTransform="uppercase"
-                />
               </HStack>
             </Link>
           </NextLink>

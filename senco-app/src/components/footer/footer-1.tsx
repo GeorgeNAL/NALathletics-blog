@@ -43,7 +43,6 @@ import {
   VisaCardIcon,
 } from "@components/payment-icons";
 import PrefersColorSchemeSelect from "@components/prefers-color-scheme";
-import SiteName from "@components/sitename";
 
 const Footer1: React.FC<ChakraProps & ThemingProps> = ({
   // colorScheme,
@@ -106,11 +105,6 @@ const Footer1: React.FC<ChakraProps & ThemingProps> = ({
                   >
                     <HStack align="center">
                       <Logo />
-                      <SiteName
-                        fontSize="xl"
-                        fontWeight="800"
-                        textTransform="uppercase"
-                      />
                     </HStack>
                   </Link>
                 </NextLink>
