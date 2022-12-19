@@ -1,11 +1,11 @@
 const Site = {
-  name: "Senco",
-  company: "Senco LLC.",
+  name: "NALathletics",
+  company: "NALathletics",
   slogan:
-    "A high-quality e-commerce template that can assist you in converting visitors into consumers.",
+    "NALathletics makes it easier to be an athlete or fan of athletics. You know, track & field. Find a place to train, find people to train with there, turn those people into a team, do something useful with the team. That’s it.",
   description:
-    "Senco is an excellent tool for creating sophisticated web apps that is both easy and powerful. It gives you the tools you need to get started quickly, without the complexity.",
-  address: "132 Boroughbridge Road B12 18SP, Birmingham United Kingdom",
+  "NALathletics makes it easier to be an athlete or fan of athletics. You know, track & field. Find a place to train, find people to train with there, turn those people into a team, do something useful with the team. That’s it.",
+  address: "N/A",
   defaultCurrency: "USD",
   defaultCurrencySymbol: "$",
   // TEMPLATE MARKET DEFINITIONS
