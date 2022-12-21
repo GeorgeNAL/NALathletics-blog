@@ -1,30 +1,31 @@
 ---
 layout: post
 title: "Track & field needs to think value for value, not 'thank you'"
-date: 2021-05-20 05:00:00
+date: "2021-05-20 05:00:00"
 tags: athletics podcast
 categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/pro-track-800-meter-finish-line.jpg"
 slug: /track-and-field-value-not-thank-you/
 ---
+
 <h6>Professional track & field athletes are the only pro athletes you'll hear saying "thank you" to their sponsors. Until they start trading value instead of gratitude, we cannot expect any more investment into the sport or the athletes.</h6>
 
 When was the last time you thanked your employer?
 
 If you're like most people, never. You've probably never completed a difficult project at work and then made a public show of gratitude to your employer for keeping you employed long enough to &lt;checks notes&gt; do the job you were hired to do, or maybe even go beyond that level in order to create more value for them. But then again, you're probably not a professional track & field athlete.
 
-With the Olympics possibly imminent, we're about to see an uptick in the number of social media posts and interviews where pro track & field athletes thank their sponsors. 
+With the Olympics possibly imminent, we're about to see an uptick in the number of social media posts and interviews where pro track & field athletes thank their sponsors.
 
-How does this create value for the sponsor? 
+How does this create value for the sponsor?
 
-"Did our sponsorship of these athletes last quarter expand our market share with key psychographics, position our new product line for a Q1 go-to-market, increase favorability ratings among athletes or build new B2B or P2P relationships that we can leverage across business units?" "No, but several of them thanked us in their Insta Stories." 
+"Did our sponsorship of these athletes last quarter expand our market share with key psychographics, position our new product line for a Q1 go-to-market, increase favorability ratings among athletes or build new B2B or P2P relationships that we can leverage across business units?" "No, but several of them thanked us in their Insta Stories."
 
 ##### LISTEN TO THE FULL THING AT THE [LANE9 PODCAST: VALUE FOR VALUE, NOT THANK YOU](https://podcasts.apple.com/us/podcast/track-field-needs-to-think-value-for-value-not-thank-you/id1198173010?i=1000522378708)
 
-Many of the same athletes who thank their sponsors will dedicate a few other posts or interviews lamenting the lack of financial opportunities within the sport, not making the connection between the two. 
+Many of the same athletes who thank their sponsors will dedicate a few other posts or interviews lamenting the lack of financial opportunities within the sport, not making the connection between the two.
 
-Sponsors want [value in exchange for their investment in an athlete](https://powersponsorship.com/most-least-powerful-sponsorship-benefits/) or the sport - not gratitude. No business - shoe company or otherwise - has a KPI for "public displays of gratitude." No business - at least not one that expects to see next year - is in it for the thanks. Sure, gratitude is a value in many other contexts. It even has a place in professional settings, and even in professional sports. But not as part of a sponsor-property exchange. 
+Sponsors want [value in exchange for their investment in an athlete](https://powersponsorship.com/most-least-powerful-sponsorship-benefits/) or the sport - not gratitude. No business - shoe company or otherwise - has a KPI for "public displays of gratitude." No business - at least not one that expects to see next year - is in it for the thanks. Sure, gratitude is a value in many other contexts. It even has a place in professional settings, and even in professional sports. But not as part of a sponsor-property exchange.
 
 Any current sponsor considering raising their investment in the sport or potential thinking about getting involved will hear the words "thank you" and say "That's it? That's what I can expect to get? Alright, let's head over to tennis / soccer / baseball / rugby / hockey ..."
 

@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "What's the AirBnB of athletics, and who needs it?"
-date: 2020-03-18 12:15:00 +0600
+date: "2020-03-18 12:15:00 +0600"
 tags: athletics sportsbiz map what3words
 categories: [athletics]
 author: "George"
 post_image: "/assets/img/university-of-toronto-track-curve.jpg"
 slug: /airbnb athletics who needs it/
 ---
+
 <h2>Just about every industry has it's "Uber but for..." We're starting small, as the AirBnB of athletics, and it's only going to grow from here.</h2>
 
-When I described this project to a friend and one-time collaborator, looking for his feedback, the first question he asked was “Once people find their track stadium, how do you get them to come back to the map again?” 100% the sort of absolutely obvious, silencing, deflating feedback I knew I could count on a Silicon Valley marketing guy for. 
+When I described this project to a friend and one-time collaborator, looking for his feedback, the first question he asked was “Once people find their track stadium, how do you get them to come back to the map again?” 100% the sort of absolutely obvious, silencing, deflating feedback I knew I could count on a Silicon Valley marketing guy for.
 
 The quick answer was that people would come back to leave their reviews, upload pictures and share their Stories on the other side of the site. A long conversation ensued along the lines of “No, really. How do you make the map more than one-and-done?”
 
@@ -20,7 +21,7 @@ How do we get people to come back to the map for a second, third or fourth time?
 
 <h3>1. Coaches, athletic directors and facility managers</h3>
 
-Like most of my other ideas, I straight ripped off the AirBnB comparison from someone I talked to who said the system he built and ultimately sold was “the AirBnB of [his sport].” I think NALAthletics’ map makes the point even better because we’re talking about places, whereas theirs is more about people. 
+Like most of my other ideas, I straight ripped off the AirBnB comparison from someone I talked to who said the system he built and ultimately sold was “the AirBnB of [his sport].” I think NALAthletics’ map makes the point even better because we’re talking about places, whereas theirs is more about people.
 
 The next step, then, falls to the “landlords” of the athletics facilities to create a market for what they are sitting on.
 
@@ -42,20 +43,20 @@ More on <a href="http://nalathletics.com/blog/2020/03/18/whats-in-it-for-me-meet
 
 <h3>What’s the long-term play?</h3>
 
-As we’ve gathered the data for the map, I’ve been struck by just how few options there are for athletics facilities compared to every other sport. I’ve obviously known it, but the extent and scale still took me aback. 
+As we’ve gathered the data for the map, I’ve been struck by just how few options there are for athletics facilities compared to every other sport. I’ve obviously known it, but the extent and scale still took me aback.
 
-You need less than one hand to count the number of stadia that aren’t part of a school. Every other sport has a variety of ownership and usage models: public walk-on, public fee-based, public-private venture, fully private, etc. 
+You need less than one hand to count the number of stadia that aren’t part of a school. Every other sport has a variety of ownership and usage models: public walk-on, public fee-based, public-private venture, fully private, etc.
 
-In any other sport, there’s a range from not-so-great quality but free and always open to pristine and members only. 
+In any other sport, there’s a range from not-so-great quality but free and always open to pristine and members only.
 
 We shouldn’t expect anything different or better from track & field because, as things are, there is absolutely no money to be made in building and operating an athletics facility.
 
-Track & field facilities are just as much a welfare case as anything else in the sport. Most people and groups expect to use facilities for free, and then wonder why the conditions are so poor. Or schools prohibit any outside use of their facility, letting an asset sit idle instead of generating value. 
+Track & field facilities are just as much a welfare case as anything else in the sport. Most people and groups expect to use facilities for free, and then wonder why the conditions are so poor. Or schools prohibit any outside use of their facility, letting an asset sit idle instead of generating value.
 
-It’s a culture of freeloading, so who’d want to be an owner? 
+It’s a culture of freeloading, so who’d want to be an owner?
 
 Every dollar spent because a coach or athletics director used NALAthletics to create a market for his facility is a signal that there’s money to be made in this sport. When enough people and clubs pay enough money to enough schools, someone will notice the opportunity and start building an athletics stadium so we have non-school options, just like every other sport does.
 
-So think of it this way: If you’re a coach or athletics director and you want to get the general public away from your track, don’t build a fence around it. Play the long game. Set up a fee system, market the facility, make it attract and use it to make as much money as you can until someone comes along to build a better one and undercut you on the price. 
+So think of it this way: If you’re a coach or athletics director and you want to get the general public away from your track, don’t build a fence around it. Play the long game. Set up a fee system, market the facility, make it attract and use it to make as much money as you can until someone comes along to build a better one and undercut you on the price.
 
 There. Problem solved. Everyone will now go to that other place, and you can go back to having your school track all to yourself.

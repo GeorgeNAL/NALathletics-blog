@@ -1,18 +1,19 @@
 ---
 layout: post
 title: "Sha’Carri owned Oly Trials on the track and YouTube; demand for more throwers?"
-date: 2021-06-29 12:30:00
+date: "2021-06-29 12:30:00"
 tags: olympictrials usatf dataviz
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/shacarri-richardson-racing.jpg"
 slug: /track-field-olympic-trials-youtube-views-shacarri-richardson/
 ---
+
 <h6>For the number-crunchers at NBC Sports digging into the YouTube analytics, the US Track & Field Olympic Trials must look like the Sha’Carri Richardson show. Maybe they'll go even deeper, as we did.</h6>
 
-NBC Sports’ coverage of the US Track & Field Olympic Trials took the usual approach: heavy coverage of the sprints, decent coverage of mid-distance, <em>broadcastus interruptus</em> of distance and, when there was a break in whatever other action, there was no need to go to commercial and they didn’t have a human-interest clip cued up, a few seconds of a single jump or throw. 
+NBC Sports’ coverage of the US Track & Field Olympic Trials took the usual approach: heavy coverage of the sprints, decent coverage of mid-distance, <em>broadcastus interruptus</em> of distance and, when there was a break in whatever other action, there was no need to go to commercial and they didn’t have a human-interest clip cued up, a few seconds of a single jump or throw.
 
-Their YouTube channel with highlight clips from across the nine days followed much the same pattern. 
+Their YouTube channel with highlight clips from across the nine days followed much the same pattern.
 
 We first noticed something was up when we were able to pull clips of Ryan Crouser’s shot put world record and DeAnna Price’s and Rudy Winkler’s American records in the hammer. That led us to believe we’d be able to find clips of, at the very least, any meet or American record set at the Trials. But then we [couldn’t find a clip of Keturjah Orji’s AR](https://nalathletics.com/blog/2021/06/28/track-field-olympic-trials-meet-records-3-word-addresses) in the triple jump. OK, sure, triple jump is always overlooked. But nothing of pole vaulter Katie Nageotte’s Olympic Trials record? Pole vault seems like it would be popular enough to warrant… something.
 
@@ -20,7 +21,7 @@ We pulled all the clips of [track & field’s Olympic Trials from NBC Sports’ 
 
 There were 53 highlight clips, that we then tallied by event groups: 21 of the sprints, 12 from the hurdles, 8 distance, 6 mid-distance, 4 throws and 2 jumps. If you’re curious, the lucky jumpers were high jumper Vashti Cunningham and NFL player / long jumper Marquise Goodwin.
 
-The average length of the highlight clips tracked with the event group: distance events averaged about 8 minutes, mid-distance just over 6 minutes, down to jumps and throws in the 3-4 minute range. 
+The average length of the highlight clips tracked with the event group: distance events averaged about 8 minutes, mid-distance just over 6 minutes, down to jumps and throws in the 3-4 minute range.
 
 The first surprise was that the hurdles had the second-most highlight clips but 600,000 fewer views than the throws, which had one-third as many videos. Hurdles barely edged out distance and mid-distance for total views, and were last for average views per clip. For total views and combined length of videos, hurdles and distance were almost identical. That’s why you only see one on the graph - their dots overlap.
 
@@ -34,7 +35,7 @@ In terms of average number of viewers per clip, throws were closer to sprints th
 
 Since there’s been an absurd amount of discontent about the level of media coverage of Allyson Felix, we wanted to see how many more times she was the star of a clip compared to anyone else. Six clips had her name in the title, the most of any athlete, but not by much. Noah Lyles was in the title of five clips, and Sha’Carri Richardson had four. Sydney McLaughlin, Rai Benjamin, Grant Holloway and Athing Mu each featured in the title of three clips.
 
-But “four” wasn’t the number that caught our eye from Richardson’s clips - “7,500,000” was. Richardson had 7.5 million views on a single clip. She had the next two most popular highlights, with 1.4 million views each. 
+But “four” wasn’t the number that caught our eye from Richardson’s clips - “7,500,000” was. Richardson had 7.5 million views on a single clip. She had the next two most popular highlights, with 1.4 million views each.
 
 ![USA Track & Field Olympic Trials: Average views per event group on NBCSports YouTube]({{ "/assets/img/track-field-olympic-trials-most-viewed-clips.jpg" | relative_url }})
 {: .blog-center-image}
@@ -53,7 +54,7 @@ YouTube clips and other digital highlights give a much better indication of wher
 
 From this breakdown, though, we see signs that there's a bigger interest in the throwing events than NBCSports' programmers may have thought. Per video, the throwers performed at near-Richardson levels, and not just the world record-setter. Two hammer clips and two shot put clips did a lot of work. Did NBCSport miss out on some views and engagement by not having a single javelin or discus video?
 
-And it's all but impossible to believe that the pole vault numbers would have done much less than the throwers, given the popularity of pole vault, the strong digital presence of that event group and its stars, and the fact that the women's pole vault had a meet record and a bit of an upset. 
+And it's all but impossible to believe that the pole vault numbers would have done much less than the throwers, given the popularity of pole vault, the strong digital presence of that event group and its stars, and the fact that the women's pole vault had a meet record and a bit of an upset.
 
 ##### RELATED: [TRACK & FIELD CAN LEARN FROM TENNIS: NO MEDIA, NO MONEY](https://nalathletics.com/blog/2021/06/04/track-and-field-tennis-no-media-no-money)
 
@@ -61,4 +62,4 @@ Hopefully NBCSports is looking at this data even more closely than we are and pr
 
 <h6>Jumpers and throwers, we're talking about you. We think fans want you, and we want you, too. Get in touch and <a href="mailto:george@nalathletics.com">let's talk</a>, especially if you were watching the Olympic Trials from home.</h6>
 
-<em>Photo: [@carririchardson_](https://www.instagram.com/carririchardson_/)</em>
+<em>Photo: [@carririchardson\_](https://www.instagram.com/carririchardson_/)</em>

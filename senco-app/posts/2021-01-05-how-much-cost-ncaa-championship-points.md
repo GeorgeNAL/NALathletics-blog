@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "NCAA track & field spending and success: Can we buy a point? (Data viz)"
-date: 2021-01-05 12:00:00 +0600
+date: "2021-01-05 12:00:00 +0600"
 tags: ncaa dataviz finances
 categories: [sportsbiz]
 author: "George"
 post_image: "assets/img/ncaa-outdoor-national-championships.jpg"
 slug: /ncaa-track-and-field-spending-results/
 ---
+
 <h6>The NCAA is the biggest spender on track & field in the United States. Since they are not getting a financial return, are the top schools at least getting their money's worth in results?</h6>
 
 Working in sports can be a road to wealth. Owning a sports team, on the other hand, starts with wealth and is often a road that leads away from it. Whatever [reasons people have for buying or starting a sports team](https://www.businessinsider.com/billionaires-turning-attention-to-sports-ubs-says-2017-10), getting rich is not among them.
@@ -32,7 +33,7 @@ Of the schools who competed at the 2019 Division II outdoor track & field champi
 ![NCAA Division II track & field combined points vs. total spending]({{ "/assets/img/ncaa-track-and-field-division-II-points-expenses.jpg" | relative_url }})
 {: .blog-center-image}
 
-Perhaps reflecting the tighter budgets and culture of smarter spending at the Division II level, cost-effectiveness was rewarded more greatly than in Division I. Grand Valley State was the only one of the top five spenders to be among the top five combined points-earners. 
+Perhaps reflecting the tighter budgets and culture of smarter spending at the Division II level, cost-effectiveness was rewarded more greatly than in Division I. Grand Valley State was the only one of the top five spenders to be among the top five combined points-earners.
 
 Lincoln University spent half as much as GVSU and brought home six more points and a women's title. Grand Valley's edge over Ashland, Angelo State and Adams State came at about $200,000 per marginal point. And whereas the most efficient school in Division I was in the middle of the pack in the final tables, the most efficient schools in Division II were Lincoln and Ashland: $10,000 per point, less than 3% of the Division I top 20 average.
 
@@ -45,9 +46,9 @@ NAIA's top two point-getters, Southern University at New Orleans and William Car
 
 ##### MORE MONEY (well, actually less): [HOW MUCH DO COLLEGE TRACK & FIELD COACHES MAKE?](https://nalathletics.com/blog/2020/11/18/how-much-do-college-track-and-field-coaches-make)
 
-Last year's budget shortfalls led many college athletics departments to start asking "What are we getting from these non-revenue sports?" and the subsequent spree of program cuts prompted alumni and others to scramble for any possibly mollifying answer. 
+Last year's budget shortfalls led many college athletics departments to start asking "What are we getting from these non-revenue sports?" and the subsequent spree of program cuts prompted alumni and others to scramble for any possibly mollifying answer.
 
-If track & field at any level has to become accountable for its accounting, well, last year's cuts were a prelude. For the highest-spending schools, those for whom cutting track & field would have the greatest financial impact, scrutiny into their spending will lead to scrutiny into results. 
+If track & field at any level has to become accountable for its accounting, well, last year's cuts were a prelude. For the highest-spending schools, those for whom cutting track & field would have the greatest financial impact, scrutiny into their spending will lead to scrutiny into results.
 
 ##### RELATED: [TRACK & FIELD NEEDS TO MAKE ITS PEACE WITH MAKING MONEY](https://nalathletics.com/blog/2020/11/05/track-and-field-make-peace-making-money)
 

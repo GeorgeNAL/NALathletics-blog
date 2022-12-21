@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "Podcast: What do track & field's sponsors expect to get from the sport?"
-date: 2021-03-10 14:00:00
+date: "2021-03-10 14:00:00"
 tags: running
 categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/indoor-track-and-field-running.jpg"
 slug: /what-do-track-field-sponsors-expect-return/
 ---
+
 <h6>Last month we asked what the sponsors of the American Track League and New Balance Indoor Grand Prix did to activate on these events. More recent meets and Puma's return to professional distance running has us asking the three fundamental about any company's involvement in track & field.</h6>
 
-Since the American Track League concluded their indoor mini-season, three ["professional" track & field meets](https://nalathletics.com/blog/2021/02/22/four-questions-american-track-league-nbigp) took place in Texas and California. Like at the ATL, some of the events at those meets - the Texas Qualifier and two by Sound Running - bore the name of a sponsor. And like at the ATL, we couldn't find any mention of those companies' involvement on their own websites or social media feeds. 
+Since the American Track League concluded their indoor mini-season, three ["professional" track & field meets](https://nalathletics.com/blog/2021/02/22/four-questions-american-track-league-nbigp) took place in Texas and California. Like at the ATL, some of the events at those meets - the Texas Qualifier and two by Sound Running - bore the name of a sponsor. And like at the ATL, we couldn't find any mention of those companies' involvement on their own websites or social media feeds.
 
-The meets tagged their event sponsors on social media, linked from the meet website and included the sponsor names on graphics (and, we presume, mentioned them by name during the broadcasts), but there was nothing from the companies. And since the meets were closed to spectators, we know that there was no on-site activation (unless the target of the sponsorship was the athletes themselves). 
+The meets tagged their event sponsors on social media, linked from the meet website and included the sponsor names on graphics (and, we presume, mentioned them by name during the broadcasts), but there was nothing from the companies. And since the meets were closed to spectators, we know that there was no on-site activation (unless the target of the sponsorship was the athletes themselves).
 
-The industry standard is that a brand will spend 10% of whatever they paid to [sponsor a property to activate on the sponsorship](https://powersponsorship.com/introducing-last-generation-sponsorship-redux/). These companies did not appear to even do the free thing to pantomime an activation.  
+The industry standard is that a brand will spend 10% of whatever they paid to [sponsor a property to activate on the sponsorship](https://powersponsorship.com/introducing-last-generation-sponsorship-redux/). These companies did not appear to even do the free thing to pantomime an activation.
 
 What, then, did the sponsors hope to gain from their involvement with these meets?
 
@@ -32,9 +33,10 @@ Little wonder, then, that so many sponsors come and go, and so many brand-depend
 
 ##### MORE: [TRACK & FIELD VS. DISC GOLF: WHAT WILL $1 MILLION GET YOU?](https://nalathletics.com/blog/2021/03/03/track-field-vs-disc-golf)
 
-Puma, though, are extremely savvy in their sponsorships with other sports. Then again, almost all the other [shoe companies do much more with their non-track & field sponsorships](https://nalathletics.com/blog/2020/09/21/retiring-nike-exec-career-explains-track-and-field) than they do with those in T&F. LRC's Gault states the difficulty they face in cracking the market, and we'll have to see if their sponsorship game is up to the challenge. 
+Puma, though, are extremely savvy in their sponsorships with other sports. Then again, almost all the other [shoe companies do much more with their non-track & field sponsorships](https://nalathletics.com/blog/2020/09/21/retiring-nike-exec-career-explains-track-and-field) than they do with those in T&F. LRC's Gault states the difficulty they face in cracking the market, and we'll have to see if their sponsorship game is up to the challenge.
 
 Anyone watching with an informed eye should be able to answer, or at least take a reasonable swing at, three questions about any sponsorship:
+
 1. What does the sponsor hope to gain from the relationship?
 2. What is the sponsor doing to achieve that goal?
 3. How will the sponsor measure their progress towards that goal?
@@ -46,4 +48,3 @@ Not a good place for the sport, and one that will keep track & field from ever a
 <iframe src="https://widget.spreaker.com/player?episode_id=43827740&theme=light&autoplay=false&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2Feef8ff6dd2977b5a2dd845b9257ecf43.jpg" width="100%" height="400px" frameborder="0"></iframe>
 
 <em>Photo credit: Steven Pisano / [Flickr](https://flic.kr/p/qLbXiZ), under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).</em>
- 

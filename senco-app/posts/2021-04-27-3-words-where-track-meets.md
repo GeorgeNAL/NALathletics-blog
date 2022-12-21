@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "3 words to know where to go and where to look at track meets"
-date: 2021-04-27 14:00:00
+date: "2021-04-27 14:00:00"
 tags: trackandfield what3words
 categories: [athletics]
 author: "George"
 post_image: "/assets/img/muskogee-indian-bowl-track.jpg"
 slug: /3-words-know-where-track-meets/
 ---
+
 Travelling to track meets every weekend, as many of us do this time of year, gives us a chance to see a range of track & field facilities: from football stadiums built for 5,000 fans that have several times as many athletes as spectators on meet days, to standalone tracks with more (and more comfortable) seating in the grass than in the bleachers.
 
 One thing that continues to stand out is just how much these facilities were built for the runners, for the track, with the field athletes and events an afterthought.
@@ -20,15 +21,15 @@ These detract from the fan and athlete experience, in a sport that already suffe
 
 The spectators – fans and teammates, alike – may also simply not know where the events they want to watch are taking place. When they get a text to come out and watch some of the throws, they have to find the throws circles first. If they have not been to that track before, will they know where to go?
 
-That’s part of the reason we built our [map showing the 3-word addresses of track & field facilities](https://what3words.com/how-to) across the country. Fans and teammates should be able to know exactly where the throws and jumps action is happening, so they can get over there in time or simply know where to look. 
+That’s part of the reason we built our [map showing the 3-word addresses of track & field facilities](https://what3words.com/how-to) across the country. Fans and teammates should be able to know exactly where the throws and jumps action is happening, so they can get over there in time or simply know where to look.
 
-Ideally, athletics facilities will be built with the whole sport in mind, so people can watch athletics instead of a smattering of the individual events of track & field. Of course, that doesn’t solve the problem of attention: as long as [track & field is a three-ring circus](https://nalathletics.com/blog/2020/08/27/lessons-long-jumpers-stockholm-golf-tennis), someone always runs the risk of missing a jump because they got caught up watching the shot put. 
+Ideally, athletics facilities will be built with the whole sport in mind, so people can watch athletics instead of a smattering of the individual events of track & field. Of course, that doesn’t solve the problem of attention: as long as [track & field is a three-ring circus](https://nalathletics.com/blog/2020/08/27/lessons-long-jumpers-stockholm-golf-tennis), someone always runs the risk of missing a jump because they got caught up watching the shot put.
 
-Our goal from the start has been to make it easy to be an athletics fan, athlete or coach. Knowing how field event facilities are often not visible from the track, the first goal was to give athletes and coaches a  way to find places to train. 
+Our goal from the start has been to make it easy to be an athletics fan, athlete or coach. Knowing how field event facilities are often not visible from the track, the first goal was to give athletes and coaches a way to find places to train.
 
-Then, after talking to a co-founder of “the AirBnB of tennis,” we saw the potential to be “the AirBnB of athletics”: a place where coaches and AD’s could [put their tracks in the shop window to attract clubs](https://nalathletics.com/blog/2020/10/02/find-better-place-throw-jump-run), meets, events or any other revenue stream they could come up with. 
+Then, after talking to a co-founder of “the AirBnB of tennis,” we saw the potential to be “the AirBnB of athletics”: a place where coaches and AD’s could [put their tracks in the shop window to attract clubs](https://nalathletics.com/blog/2020/10/02/find-better-place-throw-jump-run), meets, events or any other revenue stream they could come up with.
 
-The lack of events nationwide and prohibitions around such things in parts of the country last year drove us to take on the second leg of our overall strategy: data. Sports fans want to know every number around their sport. Few things make it as easy and fun to be a sports writer as the amount of free data out there when you need a story idea, and that makes it easy to be a fan because they have plenty to read, talk about and debate. 
+The lack of events nationwide and prohibitions around such things in parts of the country last year drove us to take on the second leg of our overall strategy: data. Sports fans want to know every number around their sport. Few things make it as easy and fun to be a sports writer as the amount of free data out there when you need a story idea, and that makes it easy to be a fan because they have plenty to read, talk about and debate.
 
 The only numbers that matter as much as performance outcomes are salaries. Since track & field athlete salaries are notoriously opaque (obligatory reminder that <a href="mailto:george@nalathletics.com">our e-mails are always open</a> and anonymity assured), we went to where most of the money is in the sport: public universities. Want to know [how much a Division II assistant coach at a public university](https://nalathletics.com/coaches-salaries-explorer.html) focusing on jumps and hurdles makes in Missouri? Well, as long as someone meets that profile, we have the data.
 

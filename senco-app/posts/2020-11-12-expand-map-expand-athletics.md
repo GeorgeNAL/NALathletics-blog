@@ -1,24 +1,25 @@
 ---
 layout: post
 title: "Expand the map, expand athletics: 31,000+ places to throw, jump or run"
-date: 2020-11-12 12:30:00 +0600
+date: "2020-11-12 12:30:00 +0600"
 tags: running jumping throwing map what3words sportsbiz
 categories: [athletics]
 author: "George"
 post_image: "assets/img/pryor-high-school-long-jump.jpg"
 slug: /expand-map-expand-athletics/
 ---
+
 <h6>Some state-by-state counts are better than others. Much better, much more useful and much more important for the things that give us something to look forward to, like athletics.</h6>
 
 Our map only ever trends in one direction: a positive one. With our most recent upload, we have over <strong>31,000 athletics facilities across 36 states and southern Ontario</strong> (insert your "America, Jr." quips here).
 
-So what do we mean when we say "facilities?" A facility is any place an individual event in athletics can take place: high jump areas, throws circles, javelin runways, horizontal jump pits, pole vault landing pads and, obviously, the track itself are all facilities. 
+So what do we mean when we say "facilities?" A facility is any place an individual event in athletics can take place: high jump areas, throws circles, javelin runways, horizontal jump pits, pole vault landing pads and, obviously, the track itself are all facilities.
 
-These facilities are all found within "stadiums." Within the 6,000 stadiums currently on the map (and all the others we're still getting to), the individual facilities are not always easy to find, which is why we provide the [3-word address for 8,183 throws circles](https://nalathletics.com/map); 4,514 pole vault pits; 6,851 horizontal jump pits; 5,152 high jump areas; 6,492 tracks; and those 525 very lonely javelin runways. 
+These facilities are all found within "stadiums." Within the 6,000 stadiums currently on the map (and all the others we're still getting to), the individual facilities are not always easy to find, which is why we provide the [3-word address for 8,183 throws circles](https://nalathletics.com/map); 4,514 pole vault pits; 6,851 horizontal jump pits; 5,152 high jump areas; 6,492 tracks; and those 525 very lonely javelin runways.
 
 ##### WHAT'S A 3-WORD ADDRESS? [DOWNLOAD THE WHAT3WORDS APP!](https://what3words.com/products/what3words-app/)
 
-Unsuprisingly and unfortunately, of those just over 6,000 stadiums, 6,000-and-change of them belong to universities, high schools or middle schools. Whereas you can find baseball diamonds and soccer fields and hockey rinks and volleyball courts under a variety of public, private and hybrid owner-operator models, [track & field has minimal existence outside of the school pipeline](https://nalathletics.com/blog/2020/11/06/clemson-track-and-field-ultimatum). 
+Unsuprisingly and unfortunately, of those just over 6,000 stadiums, 6,000-and-change of them belong to universities, high schools or middle schools. Whereas you can find baseball diamonds and soccer fields and hockey rinks and volleyball courts under a variety of public, private and hybrid owner-operator models, [track & field has minimal existence outside of the school pipeline](https://nalathletics.com/blog/2020/11/06/clemson-track-and-field-ultimatum).
 
 ##### MORE: [TRACK & FIELD NEEDS TO MAKE ITS PEACE WITH MAKING MONEY](https://nalathletics.com/blog/2020/11/05/track-and-field-make-peace-making-money)
 

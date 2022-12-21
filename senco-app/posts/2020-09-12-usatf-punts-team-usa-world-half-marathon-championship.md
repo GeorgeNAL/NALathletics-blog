@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "USATF brushes off athletes, punts on Team USA for World Half-Marathon Championship"
-date: 2020-09-12 15:30:00
+date: "2020-09-12 15:30:00"
 tags: usatf worldathletics running
 categories: [running]
 author: "George"
 post_image: "/assets/img/world-half-marathon-championships.jpg"
 slug: /usatf-2020-world-half-marathon-championship/
 ---
+
 <h6>Next month's World Athletics Half Marathon Championships will take place without Team USA, because USA Track & Field chose to deny athletes who rightfully qualified their chance to compete in their event’s biggest stage, and did so in the quietest way possible. If only this was a first.</h6>
 
 National governing bodies don’t have many actual jobs, and given how dismally they sometimes perform them, it’s remarkable so many people want NGB's to expand beyond those few, apparently too-challenging tasks.
@@ -22,9 +23,9 @@ Tucked into the middle of [Minnesota Distance Elite’s newsletter](https://mail
 
 As of the afternoon of September 12, USATF has not posted anything on their website or social media channels announcing this decision. Other than Race Results Weekly’s [David Monti on Twitter](https://twitter.com/d9monti/status/1304430553421287425), no one in the broadly-defined track & field / road race media has shared the news. Nor have we seen anything from the athletes who qualified and were training to go, nor from their coaches (save the newsletter from MDE’s Chris Lundstrom) or agents.
 
-As for their rationale of athlete safety, a quick scroll back through [USATF’s Twitter feed](https://twitter.com/usatf/status/1303383319082565633) reveals that they know American athletes competed at last week’s Golden Spike meet in Ostrava, Czech Republic - a town barely 10 miles from the border with Poland, the host country of the WA Half Marathon Championship. 
+As for their rationale of athlete safety, a quick scroll back through [USATF’s Twitter feed](https://twitter.com/usatf/status/1303383319082565633) reveals that they know American athletes competed at last week’s Golden Spike meet in Ostrava, Czech Republic - a town barely 10 miles from the border with Poland, the host country of the WA Half Marathon Championship.
 
-Were those athletes safe in Ostrava? Was USATF concerned about their safety, even if they were not responsible for them since they weren’t there as part of Team USA? Did USATF advise them that it might not be safe, given that Gdynia, Poland, would soon be deemed unsafe for a Team USA appearance? 
+Were those athletes safe in Ostrava? Was USATF concerned about their safety, even if they were not responsible for them since they weren’t there as part of Team USA? Did USATF advise them that it might not be safe, given that Gdynia, Poland, would soon be deemed unsafe for a Team USA appearance?
 
 What about two days before that - September 6 - when some of the top American track & field athletes competed in Warsaw, Poland, on the Continental Tour? Does 230 miles and one month make that much of a difference in the safety of American athletes competing in Poland?
 
@@ -34,12 +35,10 @@ USA Track & Field - like any national governing body - exists to hold national c
 
 ##### <strong>MORE INSTITUTIONAL FAILURES: [BIG 10 XC/TF SHOULD CO-SIGN FOOTBALL PARENTS' LETTER TO SAVE THEIR SPORTS](https://nalathletics.com/blog/2020/08/17/big-10-cross-country-track-and-field-football-parents)</strong>
 
-USATF has defaulted on both responsibilities this summer. They cancelled the Outdoor National Championships - something many European countries held later in the summer - and now they are choosing not to field a national team squad in a global championship. They mouthed something about safety, but given the return of sports - and, in some cases, fans - in the US and around the world, “safety” comes off looking like a cover for indecisiveness, generic unconcern or institutional risk aversion. 
+USATF has defaulted on both responsibilities this summer. They cancelled the Outdoor National Championships - something many European countries held later in the summer - and now they are choosing not to field a national team squad in a global championship. They mouthed something about safety, but given the return of sports - and, in some cases, fans - in the US and around the world, “safety” comes off looking like a cover for indecisiveness, generic unconcern or institutional risk aversion.
 
-Yes, there are risks. There are always risks. Twice now in 2020 USATF has decided that fulfilling their basic charter-defined missions is not worth the risks most other sports have mitigated or overcame. 
+Yes, there are risks. There are always risks. Twice now in 2020 USATF has decided that fulfilling their basic charter-defined missions is not worth the risks most other sports have mitigated or overcame.
 
 Perhaps at some point athletes will start thinking that their athletic careers, their athletics ambitions, are not worth the risks of putting those careers and ambitions in the hands of the national governing body.
 
 <em>Photo credit: Guillaume Baviere / [Flickr](https://flic.kr/p/mETA2v), under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).</em>
-
-

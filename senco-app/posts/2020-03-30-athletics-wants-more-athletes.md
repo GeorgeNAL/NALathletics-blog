@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Track & field may not want you, but athletics does"
-date: 2020-03-30 12:00:00 +0600
+date: "2020-03-30 12:00:00 +0600"
 tags: athletics athletes
 categories: [athletics]
 author: "George"
 post_image: "assets/img/texas-state-throws-circle.jpg"
 slug: /athletics wants more athletes
 ---
+
 <h2>Track & field has at least 99 problems, but too many athletes is not one of them. NALathletics is here precisely to keep more athletes in the sport.</h2>
 
 Track & field has always had a revitalizing effect on me: just when I think I was excusably jaded by what I’ve seen and experienced, something comes along to prove that I still have the capacity to be surprised. The people of track & field keep finding new ways to make me feel fresh and naïve.
@@ -24,9 +25,9 @@ Well.
 
 The number one reason I got into coaching was to keep more runners in the sport after college so that more runners would be running competitively when they reached their physiological peak, thereby giving them their utmost athletic development and fulfillment, and giving the sport its highest level of competition. As I got deeper into the sport and recognized the marketing and financial potential of the non-running events, I realized that the graduation-induced attrition - and loss to the sport - among runners is nothing compared to the throwers and jumpers.
 
-Every athlete who leaves the sport is a loss to the sport. Every athlete who leaves the sport gives up something that should have been theirs: at the very least, a worthwhile choice. 
+Every athlete who leaves the sport is a loss to the sport. Every athlete who leaves the sport gives up something that should have been theirs: at the very least, a worthwhile choice.
 
-I’ve never heard anyone in any other sport complain that they have too many athletes, and that they need to cut down the numbers. Most sports spend lots of money doing the opposite: maintaining and recruiting more athletes. 
+I’ve never heard anyone in any other sport complain that they have too many athletes, and that they need to cut down the numbers. Most sports spend lots of money doing the opposite: maintaining and recruiting more athletes.
 
 <blockquote class="blockquote-single-quote"><p>We want every athlete to have a place in the sport if they want one, and we want them to want one.</p></blockquote>
 
@@ -45,6 +46,3 @@ We’re working towards that pyramid for the athletes, and that sprawling openne
 Carl Lewis had two-thirds of his diagnosis right: not enough competitive opportunities, not enough money. That’s where we have focused our efforts from day one, on both the coaching and business lines of the sport.
 
 The remaining one-third was the most wrong thing we read all month. If he’s successful in keeping you or someone you know out of track & field, that works for us. We have a place for you in athletics.
-
-
-

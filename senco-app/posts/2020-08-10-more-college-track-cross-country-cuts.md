@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "College track & field and cross country program cuts, Part II"
-date: 2020-08-10 08:00:00 -0500
+date: "2020-08-10 08:00:00 -0500"
 tags: ncaa finances
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/cardozo-hs-washington-dc-track.jpg"
 slug: /more-college-track-and-field-cuts/
 ---
+
 <h6>Our last post on coronavirus-induced track & field program cuts was starting to get a bit unwieldy, so the list continues here.</h6>
 
 NCAA Divisions II and III have cancelled their fall sports championships while the Pac-12 figures out what they should do about the [demands of a group of football players](https://nalathletics.com/blog/2020/08/04/pac-12-track-and-field-football-player-demands) as the conference simultaneously plans some kind of loan in the event they, too, decide to axe the football season. The loan would barely cover one season of program expenses in the absence of football revenue, so if Pac-12 football falls through, we shouldn’t be surprised to see a high profile name on this list.
@@ -46,7 +47,7 @@ What [indoor track could do as a club sport](https://www.washingtonian.com/2020/
 
 GWU is another school that balances its books, at least on paper, the paper submitted across town to the Department of Education. Trust in that accounting at your own peril.
 
-The men’s TF/XC operated on $384,814 in 2018/19. This is well less than men’s tennis ($531,013) and not far off women’s water polo ($321,610), the other varsity programs GWU discontinued. Er, transitioned. 
+The men’s TF/XC operated on $384,814 in 2018/19. This is well less than men’s tennis ($531,013) and not far off women’s water polo ($321,610), the other varsity programs GWU discontinued. Er, transitioned.
 
 GW's men's overall track & field / cross country program is the least-expensive men’s varsity sport, just as water polo is for the women. For both genders, the only sports that cost less are two that were demoted: sailing and squash. GWU probably saved less by cutting men’s indoor track than by transitioning those other sports to a different accounting code. Cutting men’s tennis, at least, provides more significant savings.
 

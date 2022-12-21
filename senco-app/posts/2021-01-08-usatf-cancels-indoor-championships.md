@@ -1,20 +1,21 @@
 ---
 layout: post
 title: "USATF cancels Indoor National Championships despite slate of indoor meets"
-date: 2021-01-08 15:00:00
-tags: usatf 
+date: "2021-01-08 15:00:00"
+tags: usatf
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/usatf-indoor-national-championships.jpg"
 slug: /usatf-cancels-indoor-national-championships/
 ---
+
 <h6>USA Track & Field prohibited Team USA athletes from competing in the World Athletics Half Marathon Championships in the fall. With World Athletics already bumping World Indoor Championships off the 2021 calendar, did anyone really think USATF would bother with an indoor meet?</h6>
 
-The long line of indoor track & field cancellations have met their logical and lamely predictable end. USA Track & Field announced their [cancellation of the national indoor championships](https://www.usatf.org/news/2021/2021-usatf-indoor-championships-combined-events-ca). 
+The long line of indoor track & field cancellations have met their logical and lamely predictable end. USA Track & Field announced their [cancellation of the national indoor championships](https://www.usatf.org/news/2021/2021-usatf-indoor-championships-combined-events-ca).
 
-USATF attributed the decision to "statewide restrictions in New Mexico and other logistical challenges for the event [that] are too severe to overcome." New Mexico's statewide restrictions are, in fact, among the most onerous and irrational in the country: high school cross country athletes were required to wear face masks while competing in the fall. At 5,000 feet of altitude. 
+USATF attributed the decision to "statewide restrictions in New Mexico and other logistical challenges for the event [that] are too severe to overcome." New Mexico's statewide restrictions are, in fact, among the most onerous and irrational in the country: high school cross country athletes were required to wear face masks while competing in the fall. At 5,000 feet of altitude.
 
-Other states, though, including a state adjacent to New Mexico, have a more reality-centered approach to sports, even indoor sports... even indoor track & field. At least two universities in Texas are hosting indoor meets; and, just on the other side of the Lone Star State, LSU and the University of Arkansas are, too. In fact, Arkansas is hosting non-collegiate meets, which will feature many of the athletes who were planning or hoping to compete at USA Indoors. 
+Other states, though, including a state adjacent to New Mexico, have a more reality-centered approach to sports, even indoor sports... even indoor track & field. At least two universities in Texas are hosting indoor meets; and, just on the other side of the Lone Star State, LSU and the University of Arkansas are, too. In fact, Arkansas is hosting non-collegiate meets, which will feature many of the athletes who were planning or hoping to compete at USA Indoors.
 
 ##### SECOND IN A SERIES? [USATF BRUSHES OFF ATHLETES, PUNTS ON TEAM USA FOR WORLD HALF-MARATHON CHAMPS](https://nalathletics.com/blog/2020/09/12/usatf-2020-world-half-marathon-championship)
 

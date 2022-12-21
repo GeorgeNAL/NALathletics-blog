@@ -1,22 +1,23 @@
 ---
 layout: post
 title: "Unusual athletics: Beer Middle School's straight line track"
-date: 2020-07-28 10:00:00 +0600
+date: "2020-07-28 10:00:00 +0600"
 tags: running map what3words
 categories: [athletics]
 author: "George"
 post_image: "assets/img/beer-middle-school-runway-track.jpg"
 slug: /unusual-athletics-beer-middle-school/
 ---
-When you’re finding the address for every throws circle, runway (javelin and jump), track start line, pole vault or high jump landing pad, you’re going to come across some unusual things. 
+
+When you’re finding the address for every throws circle, runway (javelin and jump), track start line, pole vault or high jump landing pad, you’re going to come across some unusual things.
 
 While rooftop tracks with square corners pop up occasionally on Twitter and runners think of almost circular off-distance indoor tracks, those are at least closed loops. You can run laps there and find some kind of rhythm. Beer Middle School in Warren, MI, on the other hand, is the first track we’ve come across that is exclusively for short sprinters.
 
-From ///handy.part.tribal at the north end to [///preoccupied.crust.shack](https://map.what3words.com/preoccupied.crust.shack) at the south, Beer Middle School’s runway is just under 220 meters. Next to the track are a [throws circle and long jump pit](https://nalathletics.com/map/stadium/beer-middle-school), so if you don’t mind the unorthodox track - and let’s face it, we don’t have much to offer if you’re put off by [unorthodox approaches to athletics](https://nalathletics.com/blog/2020/04/20/what-will-nalathletics-teams-look-like) - you could even hold an athletics “pod” match here. They even have a few bleachers (although they face away from the athletics facilities - they must assume soccer is more watchable). 
+From ///handy.part.tribal at the north end to [///preoccupied.crust.shack](https://map.what3words.com/preoccupied.crust.shack) at the south, Beer Middle School’s runway is just under 220 meters. Next to the track are a [throws circle and long jump pit](https://nalathletics.com/map/stadium/beer-middle-school), so if you don’t mind the unorthodox track - and let’s face it, we don’t have much to offer if you’re put off by [unorthodox approaches to athletics](https://nalathletics.com/blog/2020/04/20/what-will-nalathletics-teams-look-like) - you could even hold an athletics “pod” match here. They even have a few bleachers (although they face away from the athletics facilities - they must assume soccer is more watchable).
 
-If you need a full-service athletics facility - the kind with a track that goes around in a 400 meter loop - the nearest one is Warren Mott High School. They have everything an athletics team needs in their home ground, including [six (!) throws circles](https://nalathletics.com/map/stadium/11568) (excepting, of course, javelin, because high school). 
+If you need a full-service athletics facility - the kind with a track that goes around in a 400 meter loop - the nearest one is Warren Mott High School. They have everything an athletics team needs in their home ground, including [six (!) throws circles](https://nalathletics.com/map/stadium/11568) (excepting, of course, javelin, because high school).
 
-Unfortunately, like a lot of track & field facilities, Warren Mott HS assumes no one will be much interested in watching all of the proceedings. 
+Unfortunately, like a lot of track & field facilities, Warren Mott HS assumes no one will be much interested in watching all of the proceedings.
 
 The throws circles, pole vault and long jump pits are not only outside of the track, they’re at three separate corners outside the boundaries of the stadium! The throwers end up closer to the roundabout in the parking lot than to their teammates jumping or running. And unless you want to watch pole vault and long jump from a distance, be ready to walk from one to the other because they’re well opposite the home stands and outside the sight lines of the away stands.
 

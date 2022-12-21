@@ -1,18 +1,19 @@
 ---
 layout: post
 title: "R tutorial with pole vault and high jump results: Clearing a new bar"
-date: 2021-11-16 17:30:00
+date: "2021-11-16 17:30:00"
 tags: athletics trackandfield datascience R jumping
 categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/high-jump.jpg"
 slug: /pole-vault-high-jump-data-table-tutorial/
 ---
+
 <em>This post was written and submitted as part of an entry into RStudio's Table Contest: 2021 Edition. If you're not interested in an R tutorial, check out any of our other posts or just read the beginning and the end to get an idea of what we're doing with track & field results data.</em>
 
 <h6>No one has ever accused track & field of being fan friendly. Even fewer people have accused track & field results of being fan (or data scientist) friendly. Although, tbf, not many sports fans nor data scientists go looking for them.</h6>
 
-But for the last 10 years, George has been [con-VINCED that he can do something with](https://nalathletics.com/blog/), or at least in, this sport. And things took an interesting turn when he found Greg – data scientist, swimmer and [creator of SwimmeR and JumpeR](https://pilgrim.netlify.app/about/) – last summer. 
+But for the last 10 years, George has been [con-VINCED that he can do something with](https://nalathletics.com/blog/), or at least in, this sport. And things took an interesting turn when he found Greg – data scientist, swimmer and [creator of SwimmeR and JumpeR](https://pilgrim.netlify.app/about/) – last summer.
 
 In this tutorial, we’ll take a break from swimming, running and jumping to walk through how we combined JumpeR, Shiny, reactable and gt to produce informative, interactive and pleasant results tables for athletes in the vertical jumps of track & field: pole vault and high jump.
 
@@ -23,17 +24,14 @@ Track & field result sheets manage to provide a lot of information without actua
 ![Typical vertical event results display from track & field]({{ "/assets/img/vertical-results-screenshot1.jpg" | relative_url }})
 {: .blog-center-image}
 
-
 Or even this:
-
 
 ![Another sadly typical T&F vertical event results display]({{ "/assets/img/vertical-results-screenshot2.jpg" | relative_url }})
 {: .blog-center-image}
 
-
 Sadly, not only is that what goes in the official record of the meet, it’s usually what makes its way onto websites and social media. On meet days, photos of printouts and screen caps abound on T&F Twitter and Insta. Results are scattered all over the web, so simply compiling a bunch of these results sheets is quite challenging, let alone if you wanted to get a snapshot of an athlete’s season or career. “How many heights did she clear at last year’s national championships?” is a question few ask, and no one other than the athlete and her coach could probably answer.
 
-Enter [JumpeR](https://cran.r-project.org/web/packages/JumpeR/index.html). JumpeR is built using many tools from [rvest](https://www.rdocumentation.org/packages/rvest/versions/1.0.2) and some functions from [SwimmeR](https://cran.r-project.org/web/packages/SwimmeR/index.html). 
+Enter [JumpeR](https://cran.r-project.org/web/packages/JumpeR/index.html). JumpeR is built using many tools from [rvest](https://www.rdocumentation.org/packages/rvest/versions/1.0.2) and some functions from [SwimmeR](https://cran.r-project.org/web/packages/SwimmeR/index.html).
 
 JumpeR can handle nearly any format of track & field results, and all of the events within track & field. Shot put - where each athlete gets six throws - and the 100m dash will obviously have different outcomes and, therefore, different results formats. Among the vertical jumps, each meet will have a different number of heights: the bar starts at given level, each athlete has 3 chances to clear it. If they can't, they're out. The bar goes up a few centimeters in each round until no one can get over it. This aspect of the sport will be crucial later on.
 
@@ -65,7 +63,7 @@ vertical_championships %>%
 
 ### Structuring with Shiny (although that won't be all)
 
-We want fans to be able to engage with the athletes via data, so of course we started with Shiny. The only input we need to get started is an athlete’s name. Below that is an area for the athlete’s name and event, and then the two tables. Clean, vertical, mobile-friendly. 
+We want fans to be able to engage with the athletes via data, so of course we started with Shiny. The only input we need to get started is an athlete’s name. Below that is an area for the athlete’s name and event, and then the two tables. Clean, vertical, mobile-friendly.
 
 ```
 ui <- fluidPage(
@@ -73,7 +71,7 @@ ui <- fluidPage(
          useShinyjs(),
                 fluidRow(
                   column(12,
-                      selectizeInput("Name_rt", choices = NULL, label = "Find an athlete") %>% 
+                      selectizeInput("Name_rt", choices = NULL, label = "Find an athlete") %>%
                         tagAppendAttributes(class = "athlete_input"),
                       hr()),
                   column(12,
@@ -87,7 +85,7 @@ ui <- fluidPage(
                     hr(),
                     gt_output("gt_meet"))
                     )
- ```                   
+```
 
 Once an athlete is selected, we use her name to filter our partially-processed results data for all the meets she competed in. We then extract the event she competes in. Since our results contain decathletes and heptathletes – the only ones crazy enough to compete in both high jump and pole vault – if the athlete competes in more than one event, we note them as a Multi athlete. Now we have Name and Event, which goes into the top of the page.
 
@@ -109,16 +107,16 @@ output$name_rt <- renderReactable({
     #### columns for bar heights and number of jumps ####
   agg_height_cols <- c("Meet_Ht_Attempts", "Meet_Ht_Clear")
   agg_jump_cols <- c("Meet_Jump_Attempts", "Meet_Jump_Clear")
-  
+
   ...
-  
+
 
 columnGroups = list(
                   colGroup(name = "Heights", columns = agg_height_cols),
                   colGroup(name = "Jumps", columns = agg_jump_cols)
-                ) 
+                )
 
- ``` 
+```
 
 One thing to watch when creating grouped columns is that you create two different elements in the table’s header. You can style these using `headingStyle` or `groupHeadingStyle`. But since we already had a CSS stylesheet going, we customized the background color and font color by accessing the header groups.
 
@@ -131,27 +129,27 @@ One thing to watch when creating grouped columns is that you create two differen
 
 #### 2. Footer row
 
-The footer row in a reactable table is not unlike using `summarize` in `dplyr`: you can take the sum, mean or any other aggregate function on the column. But how you do it is different. 
+The footer row in a reactable table is not unlike using `summarize` in `dplyr`: you can take the sum, mean or any other aggregate function on the column. But how you do it is different.
 
 Footers can be text, a calculated value or some combination of the two. If the footer for a cell is an aggregate function, it’s given as a function of the values in a column and the name of a column. Any of this can be done within the `colDef` for a given column.
 
 ```
 columns = list(
                   Meet = colDef(minWidth = 85, align = "left", footer = "Average per meet:"),
-```                  
+```
 
-But we’re doing the same thing – taking the sum - to 4 of our columns, and we didn’t want to add the same line of code to the `colDef` for those 4 columns. Instead, we used the `defaultColDef`, but made it less-than-truly-default by having it apply only to those columns that show attempts or clearances. 
+But we’re doing the same thing – taking the sum - to 4 of our columns, and we didn’t want to add the same line of code to the `colDef` for those 4 columns. Instead, we used the `defaultColDef`, but made it less-than-truly-default by having it apply only to those columns that show attempts or clearances.
 
 ```
- defaultColDef = colDef(align = "center", 
+ defaultColDef = colDef(align = "center",
                                        headerClass = "rt_header_class",
-                                       footer = function(values, name) 
+                                       footer = function(values, name)
                                          if (str_detect(name, "Attempts|Clear")) {
                                            col_summary <- round(sum(values) / length(values), 1)
                                            return(col_summary)
                                          }
                                        ),
-```                                      
+```
 
 #### 3. Sorting and selection
 
@@ -171,13 +169,13 @@ By setting `selection = “single”`, we give visitors the option of selecting 
 theme = reactableTheme(
                   rowSelectedStyle = list(backgroundColor = "#cbdeff", boxShadow = "inset 5px 0 0 0 #ff180e")
                 )
-```               
+```
 
 But the real action lies beneath.
 
 ### gt is ready for the uncertainty of track & field meets
 
-It would be a pretty common fan behavior to want to know the full details of one or two of the meets. Maybe that’s the meet they visited the page to see, or maybe something about the box score caught their eye and now they want the full picture. 
+It would be a pretty common fan behavior to want to know the full details of one or two of the meets. Maybe that’s the meet they visited the page to see, or maybe something about the box score caught their eye and now they want the full picture.
 
 By selecting the row, they can get the full meet results. Easy, right? Not so fast.
 
@@ -189,7 +187,7 @@ gt has [tab_spanner_delim()](https://gt.rstudio.com/reference/tab_spanner_delim.
 
 Game-changer. Er, meet-changer.
 
-But first, we would need to get our data into a format where `tab_spanner_delim` can do its thing. We know we want the spanner columns to be the height, and the columns to be the outcome of each attempt. 
+But first, we would need to get our data into a format where `tab_spanner_delim` can do its thing. We know we want the spanner columns to be the height, and the columns to be the outcome of each attempt.
 
 Oh, and we want the rows to be ordered in the order in which the athletes finished:
 
@@ -222,19 +220,19 @@ Oh, and we want the rows to be ordered in the order in which the athletes finish
 
     #### vector to arrange table - order of finish ####
     table_order <- as.vector(standings_order$Name)
-    
+
       full_meet %>%
       arrange(factor(Name, levels = table_order)) %>%
       mutate(Bar_Attempt = paste0(sprintf("%.2f", Height), "_", Attempt),  # Creates column names that tab_spanner_delim can split
-             Outcome = case_when(is.na(Outcome) ~ " ", 
+             Outcome = case_when(is.na(Outcome) ~ " ",
                                  Outcome == "" ~ "  ",
                                  TRUE ~ Outcome))  %>%
       select(Name, Outcome, Bar_Attempt) %>%
       pivot_wider(names_from = "Bar_Attempt", values_from = "Outcome") %>%
-      mutate(across(matches("^\\d"), ~replace(., is.na(.), "   "))) %>% 
-      mutate(across(cols = -Name, .fns = ~ as.factor(.))) %>% 
-      select(!matches("^\\d"), str_sort(names(.), numeric = TRUE)) 
- ```   
+      mutate(across(matches("^\\d"), ~replace(., is.na(.), "   "))) %>%
+      mutate(across(cols = -Name, .fns = ~ as.factor(.))) %>%
+      select(!matches("^\\d"), str_sort(names(.), numeric = TRUE))
+```
 
 Since we want the table to be informative and visually pleasant, we know it can’t just be a garble of X’s, O’s and -’s and P’s (those last two are when an athlete passes on a jump or height). There should be some easy to understand color scheme: red for a miss, green for a clearance and an unobtrusive but distinctive blue for a pass seems logical, right? We define this before we start building the table. Then, once we’re in the table, we then rely on gt’s close relationship with [htmltools](https://rstudio.github.io/htmltools/index.html) to set the data_color.
 
@@ -253,15 +251,15 @@ data_color(
     apply_to = c("fill", "text")
  )
 
- ```
+```
 
 ### Shiny really ties the room together
 
-But wait a second. You’ve probably already caught on that we’ve skipped something. How did we go from selecting a row in a reactable table to building a gt table based on that row selection? 
+But wait a second. You’ve probably already caught on that we’ve skipped something. How did we go from selecting a row in a reactable table to building a gt table based on that row selection?
 
 It was a Shiny day when we made the connection.
 
-Go back up in the code, between the two tables. reactable has a function [getReactableState](https://glin.github.io/reactable/reference/getReactableState.html), which does exactly what the name says: it lets you access the state of a reactable instance when using Shiny and reactable together.  We pass the name of our table and use the parameter “name” to let the function know we want the name (as opposed to the index) of the selected row.
+Go back up in the code, between the two tables. reactable has a function [getReactableState](https://glin.github.io/reactable/reference/getReactableState.html), which does exactly what the name says: it lets you access the state of a reactable instance when using Shiny and reactable together. We pass the name of our table and use the parameter “name” to let the function know we want the name (as opposed to the index) of the selected row.
 
 ```
 #### get meet (row) selected in reactable to display detailed results for ####
@@ -276,9 +274,9 @@ Go back up in the code, between the two tables. reactable has a function [getRea
       select(Event_ID) %>%
       pull()
   })
- ``` 
+```
 
-The output is just (“just”) a reactive that contains the name of the meet the user selected. We can then use that to get the `Event_ID` -  a value that we kept but did not show in the table - of the meet that we want. The Event_ID uniquely identifies pole vault or high jump, men’s or women’s, and event date of every event in the data. With this in hand, we can easily go back to start manipulating doing the steps we outline above (and a bunch of others) to work towards the gt table.
+The output is just (“just”) a reactive that contains the name of the meet the user selected. We can then use that to get the `Event_ID` - a value that we kept but did not show in the table - of the meet that we want. The Event_ID uniquely identifies pole vault or high jump, men’s or women’s, and event date of every event in the data. With this in hand, we can easily go back to start manipulating doing the steps we outline above (and a bunch of others) to work towards the gt table.
 
 So let’s pause in appreciation. Shiny and reactable work well together. gt and Shiny work well together. reactable and gt don’t. But we can use Shiny as an intermediary to pass the information we need from reactable to gt, allowing a selection in the former to be an input for the latter.
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Podcast: What do track & field's athletes and agents offer the sponsors?"
-date: 2021-03-25 14:00:00
+date: "2021-03-25 14:00:00"
 tags: running trackandfield
 categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/unsponsored-track-field-athlete.jpg"
 slug: /what-do-track-field-athletes-offer-sponsors/
 ---
+
 <h6>Track & field athletes regularly lament their one-sided contracts. Their sponsors probably feel the same way.</h6>
 
 Earlier this month we asked [what track & field's sponsors hope to get](https://nalathletics.com/blog/2021/03/10/what-do-track-field-sponsors-expect-return) out of their involvement in the sport. This week, we flip the question to the other side of those sponsorship contracts: What do track & field athletes, agents and events offer to their prospective sponsors during what passes as contract negotiations?
@@ -20,13 +21,13 @@ No one ever asks why the contract is structured so one-dimensionally. The "one-s
 
 This week's (newly rebranded) [Lane9 podcast starts with a conversation](https://podcasts.apple.com/us/podcast/lane9-athletics-beyond-the-sport/id1198173010) we recently had about [NALathletics' revenue and sponsorship](https://nalathletics.com/blog/2020/04/23/time-to-build-athletics) strategy. We said we would succeed, unlike traditional track & field, by giving sponsors what they actually want. When asked what that is, we said "I don't know! We'll ask them!"
 
-Sports properties can only create value for their sponsors when they know what the sponsor values and what the sponsor hopes to gain from the relationship. If track & field athletes and their agents never ask the sponsor what they can do other than hit certain marks, then those marks remain the sole factor in the value of their contract and their contractual obligations. 
+Sports properties can only create value for their sponsors when they know what the sponsor values and what the sponsor hopes to gain from the relationship. If track & field athletes and their agents never ask the sponsor what they can do other than hit certain marks, then those marks remain the sole factor in the value of their contract and their contractual obligations.
 
 ##### RELATED: [TRACK & FIELD VS. DISC GOLF: WHAT WILL $1 MILLION GET YOU?](https://nalathletics.com/blog/2021/03/03/track-field-vs-disc-golf)
 
-Track & fieldsters can get away with this uninquisitive process to the limited extent they do only with endemic sponsors. Marks and meet minimums mean approximately nothing to non-endemic sponsors, who are only interested in the "what else" that sports properties can do. 
+Track & fieldsters can get away with this uninquisitive process to the limited extent they do only with endemic sponsors. Marks and meet minimums mean approximately nothing to non-endemic sponsors, who are only interested in the "what else" that sports properties can do.
 
-Sponsorships should never be one-sided relationships. They should be at least two-sided, if not three. Ideally, the fans are the third leg of the relationship: the [sponsorship should benefit the fans](https://powersponsorship.com/sponsorship-benefits-every-sponsor-want/). Yeah, multiple bridges too far for track & field. 
+Sponsorships should never be one-sided relationships. They should be at least two-sided, if not three. Ideally, the fans are the third leg of the relationship: the [sponsorship should benefit the fans](https://powersponsorship.com/sponsorship-benefits-every-sponsor-want/). Yeah, multiple bridges too far for track & field.
 
 ##### MORE: [TRACK & FIELD NEEDS SPORTS BUSINESS PROFESSIONALS, PART II](https://nalathletics.com/blog/2021/02/02/track-field-needs-sports-business-professionals)
 
