@@ -101,7 +101,7 @@ const Footer1: React.FC<ChakraProps & ThemingProps> = ({
                 >
                   <Stack direction="column" spacing={8} flex="1" align="stretch">
                     <DarkMode>
-                      <NextLink href="https://nalathletics.com/blog" passHref>
+                      <NextLink href="/blog" passHref>
                         <Link
                           width="fit-content"
                           _hover={{ color: "whiteAlpha.700" }}

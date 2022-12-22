@@ -62,7 +62,7 @@ const Header1: React.FC<ChakraProps & ThemingProps> = (props) => {
     <Box py={4} {...props}>
       <Container maxW="container.xl">
         <Flex align="center" justify="space-between">
-          <NextLink href="/" passHref>
+          <NextLink href="/blog" passHref>
             <Link _hover={{ color: col }}>
               <HStack align="center">
                 <Logo />

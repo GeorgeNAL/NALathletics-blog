@@ -72,7 +72,7 @@ export const main = [
   },
   {
     title: "Blog",
-    href: "https://nalathletics.com/blog"
+    href: "/blog"
   },
   {
     title: "Salaries Explorer",
