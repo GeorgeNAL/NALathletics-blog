@@ -51,7 +51,6 @@
     "@emotion/server": "^11.10.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
-    "@testing-library/react-hooks": "^8.0.1",
     "@trivago/prettier-plugin-sort-imports": "^3.3.0",
     "@types/aos": "^3.0.4",
     "@types/lodash.chunk": "^4.2.7",
