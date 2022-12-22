@@ -11,10 +11,7 @@ import {
     Box,
     Button,
     chakra,
-    type ChakraProps,
     Container,
-    type TextProps,
-    type ThemingProps,
     useColorModeValue,
     HStack,
     
@@ -24,10 +21,8 @@ import { MdArrowBackIosNew, MdArrowForwardIos} from '@react-icons'
 
 import { ThemeColorContext } from "@definitions/context/theme";
 
-import Image from "@components/image";
 import SubscribeInput from "@components/subscribe-input";
 import Hero1 from "@components/hero/hero-1";
-import BlogCardContainer from "@components/blog-card-container"
 import BlogPostCard from "@components/blog-post-card";
 
 const HomePage: FC = ({ posts }) => {
