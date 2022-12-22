@@ -32,11 +32,8 @@ const PagesSubChildren: React.FC = memo(() => {
   });
 
   const links = [
-    { title: "Invoice", href: "/invoice" },
     { title: "404 Error", href: "/404" },
-    // { title: "500 Error", href: "/500" },
-    { title: "Help & Support", href: "/help" },
-    { title: "Terms of Services", href: "/terms" },
+    { title: "500 Error", href: "/500" }
   ];
 
   return (
