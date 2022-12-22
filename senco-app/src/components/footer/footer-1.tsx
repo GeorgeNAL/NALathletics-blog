@@ -85,21 +85,22 @@ const Footer1: React.FC<ChakraProps & ThemingProps> = ({
     <Box
       bg={useColorModeValue("gray.900", "gray.900")}
       color={useColorModeValue("gray.100", "gray.100")}
-      pt={32}
+      pt={28}
       pb={10}
       {...rest}
     >
       {/* Need to get the  */}
       <Flex justifyContent='center'>
           <Container maxW={"container.xl"}>
-            <VStack spacing={10}>
+            <VStack spacing={10} mx={20}>
                 <Stack
                   align={["center", "center", "start", "start"]}
                   direction={["column", "column", "row", "row"]}
                   width="full"
                   spacing={[8, 16, 20]}
+                  mb={16}
                 >
-                  <Stack direction="column" spacing={8} flex="1" align="stretch">
+                  <Stack direction="column" spacing={8} flex="2" align="stretch">
                     <DarkMode>
                       <NextLink href="/blog" passHref>
                         <Link
@@ -164,7 +165,6 @@ const Footer1: React.FC<ChakraProps & ThemingProps> = ({
                       fontSize="sm"
                       textAlign={["center", "center", "start", "start"]}
                     >
-                      {/* Copyright © 2021 <link href="/blog">NALAthletics.</link> All Rights Reserved */}
                       Copyright © 2021 <Link href="https://nalathletics.com/blog" >NALAthletics.</Link> All Rights Reserved
                     </Text>
                   </Stack>
