@@ -1,36 +1,49 @@
 // Want to setup a type for the props
-import { Button, Heading, HStack, Image, VStack } from '@chakra-ui/react';
 import { FC } from 'react'
+import { Button, Heading, HStack, Image, Link, VStack } from '@chakra-ui/react';
+import { BsFillPersonFill, BsFillCalendarFill } from '@react-icons'
 
-// interface CardData {
-//     excerpt: string,
-//     frontmatter: Object
-// }
-
-// Look at using CardBody Chakra 
 // https://chakra-ui.com/docs/components/card/usage
-// const BlogPostCard: FC<CardData> = (blogData: CardData) => {
-const BlogPostCard = ({ post }) => {
+const BlogPostCard: FC<CardData> = ({ post }) => {
     return(
-        <VStack my={8}>
-            <Heading as='h4' textAlign={'left'}>{post.frontmatter.title}</Heading>
+        // Maybe add box shadow to this
+        <VStack 
+            my={8} 
+            marginY={[2, 4, 6]}
+            maxWidth="650px"
+            justifyContent='center'
+            backgroundColor="black" 
+            p={4} 
+            borderRadius={25}
+        >
+            <a href={`/blog/${post.frontmatter.slug}`} >
+                <Heading as='h4' textAlign={'left'}>{post.frontmatter.title}</Heading>
+            </a>
             <Image 
-                src={`${post.fontmatter?.post_image}`}
-                alt={post.title}
-                // Maybe set to 100% once cards are rendering
-                width={650}
-                height={340}
+                src={post.frontmatter.post_image}
+                alt={post.frontmatter.title}
+                // Need to set a width and height to decreatse load time 
             />
-            {/* This is the card conatiner */}
-            <VStack>
+            <VStack 
+                backgroundColor='lightgray' 
+                color="black" 
+                width='100%' 
+                p='4' 
+                borderBottomRadius={25} 
+                alignItems="left"
+            >
                 <HStack>
-                     {/* This can be left aligned */}
-                     {/* May pull in react icons to make this better */}
-                    <div>Date: {post.frontmatter.date}</div>
-                    <div>Author: {post.frontmatter.author}</div>
+                    <BsFillCalendarFill /> 
+                    <p>{post.frontmatter.date}</p>
+                </HStack>
+                <HStack>
+                    <BsFillPersonFill /> 
+                    <p>{post.frontmatter.author}</p>
                 </HStack>
                 <p>This is where the excerpt text will live...</p>
-                <Button>Read More</Button>
+                <Link href={`/blog/${post.frontmatter.slug}`} alignSelf="center">
+                    <Button>Read More</Button>            
+                </Link>
             </VStack>
         </VStack>
     )
