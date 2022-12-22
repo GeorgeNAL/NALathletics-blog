@@ -52,9 +52,8 @@ const HomePage: FC = ({ posts }) => {
     }
 
     useEffect(() => {
-        // setCurrentPosts(posts.slice(setLowerPage, setUpperPage));
-        console.log(currentPosts, lowerPage, upperPage)
-    }, [])
+        setCurrentPosts(posts.slice(lowerPage, upperPage));
+    }, [currentPage])
 
     return(
         <>
