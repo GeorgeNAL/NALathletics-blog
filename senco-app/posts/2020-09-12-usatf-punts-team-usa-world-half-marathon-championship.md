@@ -7,6 +7,7 @@ categories: [running]
 author: "George"
 post_image: "/assets/img/world-half-marathon-championships.jpg"
 slug: /usatf-2020-world-half-marathon-championship/
+excerpt_size: "large"
 ---
 
 <h6>Next month's World Athletics Half Marathon Championships will take place without Team USA, because USA Track & Field chose to deny athletes who rightfully qualified their chance to compete in their event’s biggest stage, and did so in the quietest way possible. If only this was a first.</h6>

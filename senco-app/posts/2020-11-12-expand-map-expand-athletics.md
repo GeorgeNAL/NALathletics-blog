@@ -7,6 +7,7 @@ categories: [athletics]
 author: "George"
 post_image: "assets/img/pryor-high-school-long-jump.jpg"
 slug: /expand-map-expand-athletics/
+excerpt_size: "large"
 ---
 
 <h6>Some state-by-state counts are better than others. Much better, much more useful and much more important for the things that give us something to look forward to, like athletics.</h6>

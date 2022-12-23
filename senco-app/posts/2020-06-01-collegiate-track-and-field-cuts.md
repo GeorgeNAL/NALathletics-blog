@@ -7,6 +7,7 @@ categories: [track & field]
 author: "George"
 post_image: "/assets/img/brown-stadium-track.jpg"
 slug: /collegiate track and field cuts/
+excerpt_size: "large"
 ---
 
 The COVID-19-induced shutdown is driving the need or providing the excuse for colleges to cut their track & field programs (among other sports). This post will keep a running tally of those programs; their 2018/19 expenses and net cost, and how those compare to other sports at each school (per the Department of Education’s <a href="https://ope.ed.gov/athletics/#/">Equity in Athletics data</a>); and some thoughts and takeaways about each decision and the picture as a whole.

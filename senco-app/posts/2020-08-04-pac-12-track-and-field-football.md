@@ -7,6 +7,7 @@ categories: [track & field]
 author: "George"
 post_image: "assets/img/pac-12-track-and-field-championships.jpg"
 slug: /pac-12-track-and-field-football-player-demands/
+excerpt_size: "large"
 ---
 
 <h6>Pac-12 schools need more than 50% of football’s revenue just to keep football afloat, let alone financially draining sports like track & field.</h6>

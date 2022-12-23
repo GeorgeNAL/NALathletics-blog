@@ -7,6 +7,7 @@ categories: [track & field]
 author: "George"
 post_image: "/assets/img/high-jump-track-field-championships.jpeg"
 slug: /athletes-off-bubble-usa-track-field-olympic-trials/
+excerpt_size: "large"
 ---
 
 <h6>Track & field Olympic Trials are underway for about 1,000 athletes. About one-third of them found out earlier this week that they were off the bubble and on their way to Eugene.</h6>

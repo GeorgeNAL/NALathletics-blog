@@ -7,6 +7,7 @@ categories: [trackandfield]
 author: "George"
 post_image: "/assets/img/indy-xi-united-soccer-league-fan-attendance.jpg"
 slug: world-championships-attendance-second-tier-soccer/
+excerpt_size: "large"
 ---
 
 <h6>World Championships showed that track & field can do it once, under near perfect conditions, where "it" is attracting the same number of fans each night as a regular season second tier soccer game.</h6>

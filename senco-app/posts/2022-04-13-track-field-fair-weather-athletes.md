@@ -7,6 +7,7 @@ categories: [track & field]
 author: "George"
 post_image: "assets/img/bermuda_national_stadium.jpg"
 slug: /track-field-fair-weather-athletes/
+excerpt_size: "large"
 ---
 
 <h6>Successful sports and teams sometimes worry that their fans are fair weather. Track & field won't have to worry about that problem as long as the athletes are literally fair weather.</h6>

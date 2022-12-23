@@ -7,6 +7,7 @@ categories: [track & field]
 author: "George"
 post_image: "/assets/img/william-and-mary-track-and-field-cut.jpg"
 slug: /college-track-and-field-cuts-football-not-help/
+excerpt_size: "large"
 ---
 
 <h6>Football’s surplus is most TF/XC programs’ budget, so surviving the summer was only ever going to be the first trial. Those schools where football doesn't make enough to prop up other sports, well, they end up on this list.</h6>

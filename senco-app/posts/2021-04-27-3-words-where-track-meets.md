@@ -7,6 +7,7 @@ categories: [athletics]
 author: "George"
 post_image: "/assets/img/muskogee-indian-bowl-track.jpg"
 slug: /3-words-know-where-track-meets/
+excerpt_size: "large"
 ---
 
 Travelling to track meets every weekend, as many of us do this time of year, gives us a chance to see a range of track & field facilities: from football stadiums built for 5,000 fans that have several times as many athletes as spectators on meet days, to standalone tracks with more (and more comfortable) seating in the grass than in the bleachers.

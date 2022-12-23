@@ -7,6 +7,7 @@ categories: [athletics]
 author: "George"
 post_image: "assets/img/charles-page-high-school-throws-circles.jpg"
 slug: /find-athletics-facilities-what3words/
+excerpt_size: "large"
 ---
 
 <h6>We want to make it easier for athletes, fans and coaches in athletics. The first way we’re going to do that is making it easier to find a place to jump, throw or run.</h6>

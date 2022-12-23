@@ -7,6 +7,7 @@ categories: [athletics]
 author: "George"
 post_image: "/assets/img/sand-springs-throws-circles.jpg"
 slug: /where-pop-up-meets-jumpers-throwers/
+excerpt_size: "large"
 ---
 
 <h6>Track & field navigated the coronavirus-induced shutdown by hewing to what it knows best: scarcely attended meets with little concern - and even less coverage - for the field events.</h6>

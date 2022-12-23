@@ -7,6 +7,7 @@ categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/disc-golf.jpg"
 slug: /track-field-vs-disc-golf/
+excerpt_size: "large"
 ---
 
 <h6>On the balance of yesterday’s news, track & field’s offerings to pro and prospective pro athletes have fallen behind another sport.</h6>

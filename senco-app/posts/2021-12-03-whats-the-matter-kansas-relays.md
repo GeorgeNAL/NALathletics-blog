@@ -7,6 +7,7 @@ categories: [track & field]
 author: "George"
 post_image: "assets/img/kansas-university-rock-chalk.jpg"
 slug: /kansas-relays-2022-cancellation/
+excerpt_size: "large"
 ---
 
 It’s almost hard to believe that it’s been one year and one day since our first article about colleges taking a break from cutting track & field programs to start [cutting track & field meets and seasons](https://nalathletics.com/blog/2020/12/02/maac-cancels-indoor-track-and-field-new-normal). Then, as now, the level of independent risk assessments for athletic events featuring athletes age 18-22 was equivalent to the concern the broader track & field community showed for the impact of these meet and season cancellations. Perhaps the fact that there was no outrage to be stirred and money to be raised – [not made, raised](https://nalathletics.com/blog/2020/11/05/track-and-field-make-peace-making-money) – led to no one taking up argument that competitive athletes should be spending their time… wait for it… competing in their sport.

@@ -7,6 +7,7 @@ categories: [track & field]
 author: "George"
 post_image: "/assets/img/usatf-indoor-national-championships.jpg"
 slug: /usatf-cancels-indoor-national-championships/
+excerpt_size: "large"
 ---
 
 <h6>USA Track & Field prohibited Team USA athletes from competing in the World Athletics Half Marathon Championships in the fall. With World Athletics already bumping World Indoor Championships off the 2021 calendar, did anyone really think USATF would bother with an indoor meet?</h6>

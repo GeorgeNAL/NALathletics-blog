@@ -7,6 +7,7 @@ categories: [trackandfield]
 author: "George"
 post_image: "/assets/img/pole-vault-solo.jpg"
 slug: athletics-needs-more-seasons/
+excerpt_size: "large"
 ---
 
 For most American track & field athletes, the season ends in mid-June. Once entries close for USA Track & Field national championships, the meet market evaporates. “Last chance” meets aren’t just the last chance to hit a qualifying mark for the national championships - they’re often the last chance to jump, throw or run until next year, unless you get in on some youth or masters’ meets, but those are no places for a mid-20s post-collegiate athlete. A small number of athletes will extend their season by another week or so by [qualifying for USA’s](https://nalathletics.com/blog/2021/06/18/athletes-off-bubble-usa-track-field-olympic-trials); and an even smaller number will continue on to the European circuit, of which the non-Diamond League opportunities are nowhere near what they were pre-COVID.

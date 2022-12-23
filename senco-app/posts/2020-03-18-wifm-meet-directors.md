@@ -7,6 +7,7 @@ categories: [athletics]
 author: "George"
 post_image: "/assets/img/loughborough-track-throws-cage.jpg"
 slug: /nalathletics whats in it for me meet directors/
+excerpt_size: "large"
 ---
 
 <h2>Most meet directors aren't used to having options when looking for tracks to hold a meet. Welcome to the marketplace.</h2>

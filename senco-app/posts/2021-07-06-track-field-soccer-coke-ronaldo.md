@@ -7,6 +7,7 @@ categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/cristiano-ronaldo-aqua.jpg"
 slug: /track-field-soccer-coke-ronaldo-doritos/
+excerpt_size: "large"
 ---
 
 <h6>Track & field doesn't need any original ideas of their own to improve their sponsorship, branding and commercial standing. They just need to read the room and follow the leaders.</h6>

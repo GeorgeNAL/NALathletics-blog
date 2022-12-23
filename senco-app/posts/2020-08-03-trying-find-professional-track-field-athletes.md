@@ -7,6 +7,7 @@ categories: [track & field]
 author: "George"
 post_image: "assets/img/usatf-2018-outdoor-national-championships.jpg"
 slug: /finding-professional-track-and-field-athletes/
+excerpt_size: "large"
 ---
 
 <h6>Track & field does not make it easy to know who - or what - a professional track & field athlete is. National championship meets are more likely to surface students, side hustlers and ambiguities than an unequivocal pro.</h6>

@@ -7,6 +7,7 @@ categories: [athletics]
 author: "George"
 post_image: "assets/img/harvey-hadden-athletics-stadium.jpg"
 slug: /what will nalathletics teams look like
+excerpt_size: "large"
 ---
 
 During last week’s Athletics Avail, the questions and conversations started to dive into what NALathletics’ teams will look like. Here’s what we talked about, and a bit more, as well.

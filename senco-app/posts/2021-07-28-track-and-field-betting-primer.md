@@ -7,6 +7,7 @@ categories: [track & field]
 author: "George"
 post_image: "/assets/img/joe-kovacs-shot-put.jpeg"
 slug: /olympic-track-field-sports-betting-primer/
+excerpt_size: "large"
 ---
 
 <h6>The Tokyo Olympics are the first Summer Games since sports betting became widely legal across the United States. With US sportsbooks offering lines on Olympic track & field, here’s a primer for track & field fans who may not be familiar with how the whole thing works.</h6>

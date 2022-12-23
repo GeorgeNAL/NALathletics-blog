@@ -7,6 +7,7 @@ categories: [trackandfield]
 author: "George"
 post_image: "/assets/img/diamond-league-high-jump.jpg"
 slug: diamond-league-earnings-table/
+excerpt_size: "large"
 ---
 
 We don’t particularly care about the Diamond League. But two we things we do care about are (a) making accessible and interesting what little financial information is available from the world of track & field, and (b) doing in track & field all the things that other (read: successful) sports do as a matter of course. We could throw on top a third thing: if we’re willing to do this for a part of the sport that we’re not interested in and gain nothing from, imagine what we’ll do for our athletes, teams and partners as they come on board.

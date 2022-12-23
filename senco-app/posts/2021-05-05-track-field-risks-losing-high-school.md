@@ -7,6 +7,7 @@ categories: [athletics]
 author: "George"
 post_image: "/assets/img/sapulpa-oklahoma-track-and-field.jpg"
 slug: /track-and-field-risks-losing-generation-high-school-athletes/
+excerpt_size: "large"
 ---
 
 <h6>Track & field has an attrition problem. If high school track & field athletes feel the sport isn't there for them, they have too many other options to stick around for what little lies ahead.</h6>

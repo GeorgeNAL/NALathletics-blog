@@ -7,6 +7,7 @@ categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/new-york-city-marathon.jpg"
 slug: nyc-marathon-prize-money-breakdown/
+excerpt_size: "large"
 ---
 
 <h6>Like the Diamond League, the NYC Marathon is outside our daily realm of caring. But every once in awhile, particularly when there's money afoot and... controversy... around its allocation, road running will grab our attention.</h6>

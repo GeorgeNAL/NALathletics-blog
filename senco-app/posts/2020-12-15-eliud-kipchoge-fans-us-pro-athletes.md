@@ -7,6 +7,7 @@ categories: [track & field]
 author: "George"
 post_image: "assets/img/eliud-kipchoge-kenya-athletes.jpg"
 slug: /eliud-kipchoge-fans-teach-american-pro-track-and-field-athletes/
+excerpt_size: "large"
 ---
 
 <h6>Track & field and running are actual sports in Kenya, in part because Kenyan fans treat them as such. If only American track & field athletes held themselves to the same standards of respect and professional identity.</h6>

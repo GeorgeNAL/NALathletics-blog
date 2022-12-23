@@ -7,6 +7,7 @@ categories: [track & field]
 author: "George"
 post_image: "/assets/img/shacarri-richardson-racing.jpg"
 slug: /track-field-olympic-trials-youtube-views-shacarri-richardson/
+excerpt_size: "large"
 ---
 
 <h6>For the number-crunchers at NBC Sports digging into the YouTube analytics, the US Track & Field Olympic Trials must look like the Sha’Carri Richardson show. Maybe they'll go even deeper, as we did.</h6>

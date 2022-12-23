@@ -7,6 +7,7 @@ categories: [athletics]
 author: "George"
 post_image: "/assets/img/goodison-park-fans.jpg"
 slug: /contract-speculation-track-field-revenue-transparency/
+excerpt_size: "large"
 ---
 
 <h6>Basketball has Adrian Wojnarowski. Soccer has Fabrizio Romano. Football has Adam Schefter. Track & field has no such person and, if some pro athletes and a large part of the fan base has their way, never will.</h6>

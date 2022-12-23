@@ -7,6 +7,7 @@ categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/high-jump.jpg"
 slug: /pole-vault-high-jump-data-table-tutorial/
+excerpt_size: "large"
 ---
 
 <em>This post was written and submitted as part of an entry into RStudio's Table Contest: 2021 Edition. If you're not interested in an R tutorial, check out any of our other posts or just read the beginning and the end to get an idea of what we're doing with track & field results data.</em>

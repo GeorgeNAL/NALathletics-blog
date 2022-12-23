@@ -7,6 +7,7 @@ categories: [trackandfield]
 author: "George"
 post_image: "/assets/img/devon-allen-hurdles.jpg"
 slug: /devon-allen-reaction-times-world-championships/
+excerpt_size: "large"
 ---
 
 <h6>Athletes should react quickly. Institutions should not. Somewhere between Devon Allen’s reaction time and the pace of change in track & field is the appropriate speed for the sport to rethink its false start protocols to account for a honest outlier.</h6>
