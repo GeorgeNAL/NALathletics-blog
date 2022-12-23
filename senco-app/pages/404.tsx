@@ -21,8 +21,8 @@ const PageNotFoundPage: React.FC = () => {
   const themeColorScheme = theme.colorScheme; // global default primary theme color
 
   const backButtonHandler = (event: React.MouseEvent<HTMLButtonElement>) => {
-    if (event.button === 0) window.location.href = "/";
-    if (event.button === 1) window.location.href = "/";
+    if (event.button === 0) window.location.href = "/blog";
+    if (event.button === 1) window.location.href = "/blog";
   };
 
   return (
