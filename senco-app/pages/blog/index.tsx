@@ -106,13 +106,12 @@ export async function getStaticProps() {
     const files = fs.readdirSync(path.join('posts')).reverse();
     const posts = files.map((fileName) => {
         const markdownWithMeta = fs.readFileSync(path.join('posts', fileName), 'utf-8');
-        const { data: frontmatter } = matter(markdownWithMeta);
-        // Will add this back in once I have the excerpt function working
-        const { excerpt: excerpt} = matter(markdownWithMeta, { excerpt: firstNinetyCharacters })
+        const { data: frontmatter, content } = matter(markdownWithMeta);
 
         return {
             frontmatter,
-            fileName
+            content,
+            excerpt: formExcerpt(content, frontmatter.excerpt_size),
         }
     });
     
@@ -124,8 +123,34 @@ export async function getStaticProps() {
     };
 };
 
-const firstNinetyCharacters = (file: string) => {
-    file.excerpt = file.content.slice(0, 90);
+// Move this out to a helper folder -> blogPostHelper.tsx -> do named export
+// Excerpt function needs to grab the content from matter(), remove any sections with a <hX></hx> and grab the first 90 characters
+
+const formExcerpt = (content: string, excerptSize: string = "small"): string => {
+    let characterCount;
+
+    switch(excerptSize) {
+        case "small":
+            characterCount = 90;
+            break;
+        case "medium": 
+            characterCount = 120;
+            break;
+        case "large":
+            characterCount = 180;
+            break;
+        default: 
+            characterCount = 180;
+    }
+
+    const contentNoTitle: string = content.replace(/ <h1>.*<\/h1>/g, "");
+    const contentNoHeaderTags: string = contentNoTitle.replace(/<h.>/, "").replace(/<\/h.>/, "");
+    const firstNinetyCharactersArray: string[] = contentNoHeaderTags.slice(0, characterCount).split(" ");
+    // Remove last item to avoid including a cutoff word in excerpt
+    firstNinetyCharactersArray.pop();
+
+    const excerptString: string = firstNinetyCharactersArray.join(" ") + "...";
+    return excerptString;
 }
 
 export default HomePage;
