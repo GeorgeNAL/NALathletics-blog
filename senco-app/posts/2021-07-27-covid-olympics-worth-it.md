@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/tokyo-olympics-empty.jpeg"
 slug: /covid-olympics-track-field-worth/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>One question that’s long intrigued and motivated us is: What will it take for track & field athletes to realize that none of this is worth it? “This” being the whole Olympic-centric or, one step below, Team USA-centric career goals and hoop dreams.</h6>

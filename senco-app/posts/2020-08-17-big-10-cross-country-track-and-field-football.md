@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/university-iowa-big-ten-track-and-field.jpg"
 slug: /big-10-cross-country-track-and-field-football-parents/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>Big 10 football players' parents are petitioning the conference to reinstate the fall season. Cross-country and track & field athletes, whose sports are dependent on football, should throw their support behind these very public efforts.</h6>

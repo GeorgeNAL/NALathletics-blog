@@ -8,6 +8,8 @@ author: "George"
 post_image: "/assets/img/nyrr-starting-line.jpg"
 slug: new-york-road-runners-prize-money-performance-pay-gap
 excerpt_size: "large"
+seo_description_size: "medium"
+# Probably want to add a google description excerpt_size -> look at SEO module attributes
 ---
 
 <h6>New York Road Runners once solved the gender pay gap, but in 2022 created a performance pay gap. They can talk all they want about inclusion and community, but this is sports. If they’re going to pay for performance, we have to talk about merit. </h6>

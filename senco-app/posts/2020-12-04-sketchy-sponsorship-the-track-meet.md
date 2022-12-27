@@ -8,6 +8,7 @@ author: "George"
 post_image: "assets/img/skechers-performance-track-meet.jpg"
 slug: /sketchy-basic-sponsorship-the-track-meet/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 You'd think a sport that thinks [logo placement and brand "exposure"](https://nalathletics.com/blog/2020/09/21/retiring-nike-exec-career-explains-track-and-field) are the alpha, omega and pinnacle of sponsorship activation would at least have the correct brand name and spelling of an athlete's sponsor on the meet's start list and results site. Instead, we have The Track Meet doing a double disservice to 17-time NCAA national champion Edward Cheserek's long-time sponsor:

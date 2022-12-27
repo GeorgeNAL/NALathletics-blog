@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/villareal-estadio-de-la-ceramica.jpg"
 slug: /track-and-field-lessons-learned-villareal-europa-league/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>Track & field can learn a lot from other sports, particularly European soccer. Villareal’s Europa League win is just the latest episode with valuable insight.</h6>

@@ -8,6 +8,7 @@ author: "George"
 post_image: "assets/img/sunkist-invitational-al-franken.jpg"
 slug: /track-field-learn-al-franken/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 A fair number of people in track & field were saddened by the death of Al Franken. I wasn’t. I was angry.

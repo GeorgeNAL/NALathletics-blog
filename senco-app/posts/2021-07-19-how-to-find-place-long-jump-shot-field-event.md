@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/nazareth-college-throws-circle-3-word-address.jpg"
 slug: /how-to-find-long-jump-shot-put-any-field-event/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 Finding a running track is pretty easy: go to the nearest high school. If you’re not picky, maybe even a middle school. You can try a nearby college, but most reserve their tracks exclusively for their track & field teams (especially at Division I schools).

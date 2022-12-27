@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/pro-track-800-meter-finish-line.jpg"
 slug: /track-and-field-value-not-thank-you/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>Professional track & field athletes are the only pro athletes you'll hear saying "thank you" to their sponsors. Until they start trading value instead of gratitude, we cannot expect any more investment into the sport or the athletes.</h6>

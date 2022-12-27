@@ -8,6 +8,7 @@ author: "George"
 post_image: "assets/img/ncaa-outdoor-national-championships.jpg"
 slug: /ncaa-track-and-field-spending-results/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>The NCAA is the biggest spender on track & field in the United States. Since they are not getting a financial return, are the top schools at least getting their money's worth in results?</h6>

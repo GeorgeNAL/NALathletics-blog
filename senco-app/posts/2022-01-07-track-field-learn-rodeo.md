@@ -8,6 +8,7 @@ author: "George"
 post_image: "assets/img/professional-bull-riders-rodeo.jpg"
 slug: /track-field-learn-rodeo-professional-bull-riders/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 ###### Niche sport recognizes value of city-based teams and team-based competition.

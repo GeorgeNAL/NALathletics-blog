@@ -8,6 +8,7 @@ author: "George"
 post_image: "assets/img/marathon-project.jpg"
 slug: /track-field-road-racing-need-sports-business-professionals/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>Give the New York Times credit for not burying the lede in their reporting on The Marathon Project. They actually led with the lede - they just didn't know it.</h6>

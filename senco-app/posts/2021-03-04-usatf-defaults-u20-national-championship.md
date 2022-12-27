@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/track-field-youth-championships-javelin.jpg"
 slug: /usatf-defaults-another-national-championship/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>If the story of the first half of the coronavirus-induced shutdown was colleges cutting their track & field programs, the story of the second half (assuming we're approaching the end) may be USA Track & Field defaulting on the one job they exist to do.</h6>

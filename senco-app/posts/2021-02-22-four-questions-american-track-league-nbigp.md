@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/american-track-league-sprinters.jpeg"
 slug: /four-questions-american-track-league-nbigp/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 Almost the entirety of the US [non-college indoor track & field season](https://nalathletics.com/blog/2021/01/18/indoor-national-track-and-field-championships-cancellation-reaction) unfolded over the last five weekends at the American Track League and New Balance Indoor Grand Prix. Through those events, track & field popped its head out of its burrow and appeared on mainstream sports platforms.

@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/demo-map.jpg"
 slug: /time to build athletics
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>"Smug complacency. You see it in housing and the physical footprint of our cities. You see it in education. You see it in manufacturing. You see it in transportation."</h6>

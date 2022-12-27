@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/olympics-track-field.jpg"
 slug: /rule-40-track-and-field/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>The Rule 40 blackout period for the 2020 Summer Olympic Games started on July 13. This should be a non-issue for a properly activated sponsorship, so of course it’s a source of angst for track & field.</h6>

@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/indoor-track-and-field-running.jpg"
 slug: /what-do-track-field-sponsors-expect-return/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>Last month we asked what the sponsors of the American Track League and New Balance Indoor Grand Prix did to activate on these events. More recent meets and Puma's return to professional distance running has us asking the three fundamental about any company's involvement in track & field.</h6>

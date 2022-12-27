@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/stanford-university-track.jpg"
 slug: /stanford-athletics-program-cuts-endowments/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>Collegiate sports programs who secured endowments while times were good have a survival advantage as budget cuts ravage athletics departments.</h6>

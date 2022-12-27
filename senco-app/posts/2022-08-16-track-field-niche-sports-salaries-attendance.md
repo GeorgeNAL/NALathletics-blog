@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/nwhl_faceoff.jpg"
 slug: track-field-niche-sport-attendance-salaries/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>No one knows how much money track & field athletes make, but everyone seems to agree that they should make more. However, based upon the significant metric of average attendance per game (match, meet, what have you), track & field athletes may be out-earning their peers in other niche or minor league sports.</h6>

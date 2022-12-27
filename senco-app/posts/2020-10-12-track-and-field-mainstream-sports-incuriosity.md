@@ -8,6 +8,7 @@ author: "George"
 post_image: "assets/img/hayward-field.jpg"
 slug: /track-and-field-mainstream-sports-incuriosity/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>Track & field showed up in two unexpected places last week: the Hashtag Sports daily newsletter by way of an article in SportTechie. Most people in track & field - an overwhelming share of people in track & field, most likely - missed them both and may never know it happened.</h6>

@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/track-and-field-coach-iowa.jpg"
 slug: /college-track-field-coaches-salaries-explorer/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 How much do pro track & field athletes make? Not much. That's about all we know until / unless someone wants to send us a tranche of documents, anonymity guaranteed.

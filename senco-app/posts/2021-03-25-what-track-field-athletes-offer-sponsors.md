@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/unsponsored-track-field-athlete.jpg"
 slug: /what-do-track-field-athletes-offer-sponsors/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>Track & field athletes regularly lament their one-sided contracts. Their sponsors probably feel the same way.</h6>

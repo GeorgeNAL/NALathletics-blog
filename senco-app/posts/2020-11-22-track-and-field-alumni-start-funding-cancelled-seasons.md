@@ -8,6 +8,7 @@ author: "George"
 post_image: "assets/img/ncaa-indoor-track-and-field.jpg"
 slug: /track-and-field-alumni-start-funding-cancelled-seasons/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>After all the money and effort expended by alumni and their consultants to save college track & field programs, what if they are undone by conferences and maybe the NCAA itself cancelling championships and seasons?</h6>

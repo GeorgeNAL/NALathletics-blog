@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/french-open-tennis.jpg"
 slug: /track-and-field-tennis-no-media-no-money/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>Naomi Osaka’s withdrawal from the French Open has drawn into the open (if it was ever hidden) the relationship between athletes, media and money. Track & field athletes can’t afford to pass up a single microphone this summer, or any other.</h6>

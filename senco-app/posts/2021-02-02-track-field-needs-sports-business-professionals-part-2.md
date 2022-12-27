@@ -8,6 +8,7 @@ author: "George"
 post_image: "/assets/img/indoor-track-lanes.jpg"
 slug: /track-field-needs-sports-business-professionals/
 excerpt_size: "large"
+seo_description_size: "medium"
 ---
 
 <h6>"Professional" track & field should retreat into some serious soul searching after Ben Blankenship fronted the money to pay the top finishers at a race in an American Track League meet.</h6>
