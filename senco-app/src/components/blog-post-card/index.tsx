@@ -1,6 +1,6 @@
 // Want to setup a type for the props
 import { FC } from 'react'
-import { Button, Heading, HStack, Link, Image, VStack } from '@chakra-ui/react';
+import { Button, Heading, HStack, Link, Image, Text, VStack } from '@chakra-ui/react';
 import { BsFillPersonFill, BsFillCalendarFill } from '@react-icons'
 
 // https://chakra-ui.com/docs/components/card/usage
@@ -34,11 +34,11 @@ const BlogPostCard: FC<CardData> = ({ post }) => {
             >
                 <HStack>
                     <BsFillCalendarFill /> 
-                    <p>{new Date(post.frontmatter.date).toDateString()}</p>
+                    <Text fontWeight='bold'>{new Date(post.frontmatter.date).toDateString()}</Text>
                 </HStack>
                 <HStack>
                     <BsFillPersonFill /> 
-                    <p>{post.frontmatter.author}</p>
+                    <Text fontWeight='bold'>{post.frontmatter.author}</Text>
                 </HStack>
                 <p>{post.excerpt}</p>
                 <Link href={`/blog/${post.fileName}`} alignSelf="center">
