@@ -110,6 +110,7 @@ export async function getStaticProps() {
         const { data: frontmatter, content } = matter(markdownWithMeta);
 
         return {
+            fileName: fileName.replace('.md', ''),
             frontmatter,
             content,
             excerpt: formExcerpt(content, frontmatter.excerpt_size),
