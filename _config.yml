@@ -19,6 +19,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-archives
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 exclude:
   - Dockerfile

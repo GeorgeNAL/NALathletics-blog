@@ -23,6 +23,10 @@
         {% for css in page.head_stylesheet %}
         <link href="{{ css | relative_url }}" rel="stylesheet" type="text/css"/>
         {% endfor %}
+
+        {% seo %}
+        <meta property="og:image" content="{{page.post_image}}">
+        <meta property="twitter:image" content="{{page.post_image}}">
     </head>
     <body>
 
