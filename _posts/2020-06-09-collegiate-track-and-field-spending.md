@@ -6,6 +6,7 @@ tags: ncaa usatf worldathletics sportsbiz dataviz
 categories: [track & field]
 author: "George"
 post_image: "assets/img/shiroyama-athletics-stadium.jpg"
+image: "assets/img/shiroyama-athletics-stadium.jpg"
 slug: /collegiate-spending-track-and-field-governing-bodies/
 ---
 The NCAA likes to come back to their line that all but 2% of their 400,000 student-athletes will go pro in something other than sports. It’s a good line, especially when they are trying to put the spotlight on their support for all student-athletes instead of their exploiting a few for billions of dollars. But it should have been a warning to those sports who outsourced player development to the collegiate system.

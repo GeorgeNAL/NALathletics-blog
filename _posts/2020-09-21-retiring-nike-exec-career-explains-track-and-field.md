@@ -6,6 +6,7 @@ tags: athletics sportsbiz
 categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/hayward-field-university-oregon.jpg"
+image: "/assets/img/hayward-field-university-oregon.jpg"
 slug: /retiring-nike-exec-career-explains-track-and-field/
 ---
 ###### Nike parted ways with their most powerful track & field executive last week. The amount of buzz this generated within the sport and lack of notice outside of it is a fitting coda. 

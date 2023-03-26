@@ -6,6 +6,7 @@ tags: athletics rodeo
 categories: [sportsbiz]
 author: "George"
 post_image: "assets/img/professional-bull-riders-rodeo.jpg"
+image: "assets/img/professional-bull-riders-rodeo.jpg"
 slug: /track-field-learn-rodeo-professional-bull-riders/
 ---
 ###### Niche sport recognizes value of city-based teams and team-based competition.

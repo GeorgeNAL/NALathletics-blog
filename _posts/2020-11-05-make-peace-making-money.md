@@ -6,6 +6,7 @@ tags: sportsbiz finances ncaa
 categories: [track & field]
 author: "George"
 post_image: "assets/img/javelin-throwers-unattached.jpg"
+image: "assets/img/javelin-throwers-unattached.jpg"
 slug: /track-and-field-make-peace-making-money/
 ---
 <h6>Track & field has no problem getting money. All they have to do is ask for it. Making money? Now that's a different story altogether.</h6>

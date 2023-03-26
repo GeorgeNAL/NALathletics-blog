@@ -6,6 +6,7 @@ tags: usatf
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/usa-national-championships-unattached-pole-vault.jpg"
+image: "/assets/img/usa-national-championships-unattached-pole-vault.jpg"
 slug: /track-field-olympic-trials-format-changes-unattached-athletes/
 ---
 <h6>Format changes to the USA Track & Field Olympic Trials could upend the composition of the athlete fields. Unattached athletes, normally the largest group, may find their few roads closed off in an already dismal year.</h6>

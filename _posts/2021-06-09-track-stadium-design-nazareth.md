@@ -6,6 +6,7 @@ tags: trackandfield what3words
 categories: [athletics]
 author: "George"
 post_image: "/assets/img/nazareth-college-javelin-runway.jpeg"
+image: "/assets/img/nazareth-college-javelin-runway.jpeg"
 slug: /track-field-stadiums-detach-throwers/
 ---
 <h6>Track & field does not do a very good job holding itself together. The layout of some track & field stadiums makes you wonder if the builders realized they were supposed to build one facility for a single sport.</h6>

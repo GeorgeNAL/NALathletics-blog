@@ -6,6 +6,7 @@ tags: athletics discgolf trackandfield
 categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/disc-golf.jpg"
+image: "/assets/img/disc-golf.jpg"
 slug: /track-field-vs-disc-golf/
 ---
 <h6>On the balance of yesterday’s news, track & field’s offerings to pro and prospective pro athletes have fallen behind another sport.</h6>

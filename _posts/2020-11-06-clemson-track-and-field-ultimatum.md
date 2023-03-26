@@ -6,6 +6,7 @@ tags: ncaa finances
 categories: [track & field]
 author: "George"
 post_image: "assets/img/clemson-track-and-field-sprinter.jpg"
+image: "assets/img/clemson-track-and-field-sprinter.jpg"
 slug: /clemson-track-and-field-ultimatum/
 ---
 <h6>Clemson's Director of Athletics, Dan Radakovich, may have paid more attention to track & field over the last few months than in all his previous years on the job.</h6>

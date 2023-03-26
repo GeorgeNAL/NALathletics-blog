@@ -6,6 +6,7 @@ tags: usatf
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/indoor-track-and-field.jpg"
+image: "/assets/img/indoor-track-and-field.jpg"
 slug: /indoor-national-track-and-field-championships-cancellation-reaction/
 ---
 <h6>If a track & field national championship gets cancelled, does anybody make a noise?</h6>

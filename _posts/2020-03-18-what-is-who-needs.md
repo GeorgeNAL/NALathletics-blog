@@ -6,6 +6,7 @@ tags: athletics sportsbiz map what3words
 categories: [athletics]
 author: "George"
 post_image: "/assets/img/university-of-toronto-track-curve.jpg"
+image: "/assets/img/university-of-toronto-track-curve.jpg"
 slug: /airbnb athletics who needs it/
 ---
 <h2>Just about every industry has it's "Uber but for..." We're starting small, as the AirBnB of athletics, and it's only going to grow from here.</h2>

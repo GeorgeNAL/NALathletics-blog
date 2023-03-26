@@ -6,6 +6,7 @@ tags: olympictrials what3words
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/hayward-field-torch-tower.jpeg"
+image: "/assets/img/hayward-field-torch-tower.jpeg"
 slug: /track-field-olympic-trials-meet-records-3-word-addresses/
 ---
 <h6>Twelve athletes set meet records at the US Track & Field Olympic Trials. We know these happened at the new Hayward Field, but where exactly did they happen within track & field’s most expensive stadium?</h6>

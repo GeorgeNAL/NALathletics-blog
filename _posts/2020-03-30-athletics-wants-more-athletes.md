@@ -6,6 +6,7 @@ tags: athletics athletes
 categories: [athletics]
 author: "George"
 post_image: "assets/img/texas-state-throws-circle.jpg"
+image: "assets/img/texas-state-throws-circle.jpg"
 slug: /athletics wants more athletes
 ---
 <h2>Track & field has at least 99 problems, but too many athletes is not one of them. NALathletics is here precisely to keep more athletes in the sport.</h2>

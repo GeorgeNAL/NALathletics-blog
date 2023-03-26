@@ -6,6 +6,7 @@ tags: trackandfield ncaa dataviz
 categories: [athletics]
 author: "George"
 post_image: "/assets/img/new-hayward-field.jpeg"
+image: "/assets/img/new-hayward-field.jpeg"
 slug: /international-athletes-ncaa-championships/
 ---
 <h6>International students made up 30% of the top 10 finishers at the 2021 NCAA Outdoor Track & Field Championships. These athletes are a unique subset of the athletes we need to keep in the sport past graduation.</h6>

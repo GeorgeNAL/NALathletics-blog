@@ -6,6 +6,7 @@ tags: athletics sportsbiz athletes
 categories: [athletics]
 author: "George"
 post_image: "/assets/img/stratford-high-school-houston-hurdles-high-jump.jpg"
+image: "/assets/img/stratford-high-school-houston-hurdles-high-jump.jpg"
 slug: /nalathletics whats in it for me athletes/
 ---
 <h2>Why should athletes at every level of the sport be interested in something truly new in athletics? Really? Do we really need to lay it out?</h2>

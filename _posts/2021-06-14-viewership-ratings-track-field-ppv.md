@@ -6,6 +6,7 @@ tags: trackandfield media
 categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/sound-running-track-meet.jpg"
+image: "/assets/img/sound-running-track-meet.jpg"
 slug: /viewership-ratings-track-and-field-ppv/
 ---
 <h6>Three track & field meets used a pay-per-view revenue share to build their prize purses. Several weeks later, the ratings - and, therefore, the revenue and prize purse - have still not been publicized.</h6>

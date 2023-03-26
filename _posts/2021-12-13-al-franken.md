@@ -6,6 +6,7 @@ tags: track athletics
 categories: sportsbiz
 author: "George"
 post_image: "assets/img/sunkist-invitational-al-franken.jpg"
+image: "assets/img/sunkist-invitational-al-franken.jpg"
 slug: /track-field-learn-al-franken/
 ---
 A fair number of people in track & field were saddened by the death of Al Franken. I wasn’t. I was angry. 

@@ -6,6 +6,7 @@ tags: running map what3words
 categories: [athletics]
 author: "George"
 post_image: "assets/img/beer-middle-school-runway-track.jpg"
+image: "assets/img/beer-middle-school-runway-track.jpg"
 slug: /unusual-athletics-beer-middle-school/
 ---
 When you’re finding the address for every throws circle, runway (javelin and jump), track start line, pole vault or high jump landing pad, you’re going to come across some unusual things. 

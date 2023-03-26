@@ -6,6 +6,7 @@ tags: running jumping throwing map what3words sportsbiz
 categories: [athletics]
 author: "George"
 post_image: "assets/img/terry-fox-brampton-ontario-long-jump.jpg"
+image: "assets/img/terry-fox-brampton-ontario-long-jump.jpg"
 slug: /find-better-place-throw-jump-run/
 ---
 <h6>Finding a place to jump, throw or run is a great start. Knowing what to expect before you get there will save you even more time and frustration.</h6>

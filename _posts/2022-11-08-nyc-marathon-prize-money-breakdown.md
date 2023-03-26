@@ -5,6 +5,7 @@ date: 2022-11-08 14:30:00
 tags: athletics running dataviz
 categories: [sportsbiz]
 author: "George"
+post_image: "/assets/img/new-york-city-marathon.jpg"
 image: "/assets/img/new-york-city-marathon.jpg"
 slug: nyc-marathon-prize-money-breakdown/
 ---

@@ -6,6 +6,7 @@ tags: athletics dataviz
 categories: [trackandfield]
 author: "George"
 post_image: "/assets/img/emma-coburn-steeplechase-national-championship.jpg"
+image: "/assets/img/emma-coburn-steeplechase-national-championship.jpg"
 slug: track-field-national-titles-dominance/
 ---
 <h6>Track & field's young stars have a chance to build dominance over time by accumulating record numbers of national titles. This would be a valuable shift away from the narrow focus on extreme performances in isolated, individual meets.</h6> 

@@ -6,6 +6,7 @@ tags: running athletes
 categories: [sportsbiz]
 author: "George"
 post_image: "assets/img/marathon-project.jpg"
+image: "assets/img/marathon-project.jpg"
 slug: /track-field-road-racing-need-sports-business-professionals/
 ---
 <h6>Give the New York Times credit for not burying the lede in their reporting on The Marathon Project. They actually led with the lede - they just didn't know it.</h6>

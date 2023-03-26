@@ -6,6 +6,7 @@ tags: ncaa
 categories: [track & field]
 author: "George"
 post_image: "assets/img/maac-indoor-track-and-field.jpg"
+image: "assets/img/maac-indoor-track-and-field.jpg"
 slug: /maac-cancels-indoor-track-and-field-new-normal/
 ---
 <h6>Three Division I conferences have cancelled their indoor track & field championships. They - and others - will be watching closely to see who notices and who cares.</h6>

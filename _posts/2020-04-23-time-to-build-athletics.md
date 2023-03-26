@@ -6,6 +6,7 @@ tags: athletics sportsbiz
 categories: athletics
 author: "George"
 post_image: "/assets/img/demo-map.jpg"
+image: "/assets/img/demo-map.jpg"
 slug: /time to build athletics
 ---
 <h6>"Smug complacency. You see it in housing and the physical footprint of our cities. You see it in education. You see it in manufacturing. You see it in transportation."</h6>

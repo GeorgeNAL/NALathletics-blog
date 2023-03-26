@@ -6,6 +6,7 @@ tags: athletes coaches sportsbiz
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/long-jump.jpg"
+image: "/assets/img/long-jump.jpg"
 slug: /lessons-long-jumpers-stockholm-golf-tennis/
 ---
 <h6>Track & field athletes, agents, coaches, brand managers, fans... everyone in track & field, particularly long jumpers, would do well to spend some time watching other sports and seeing how things are done.</h6>

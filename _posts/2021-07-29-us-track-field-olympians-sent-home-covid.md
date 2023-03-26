@@ -6,6 +6,7 @@ tags: olympics
 categories: [track and field]
 author: "George"
 post_image: "/assets/img/tokyo-team-usa-olympics-track-masks.jpeg"
+image: "/assets/img/tokyo-team-usa-olympics-track-masks.jpeg"
 slug: /us-track-field-olympians-sent-home-positive-covid/
 ---
 <h6>Old and busted, 2020: Tracking the college track & field programs cut due to COVID-induced budget restrictions. New hotness, 2021: tracking the US track & field Olympians cut due to COVID testing protocols.</h6>

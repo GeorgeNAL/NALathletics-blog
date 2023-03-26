@@ -6,7 +6,7 @@ tags: athletics trackandfield pickleball
 categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/pro-pickleball-tour-player.webp"
-image: "/assets/img/pro-pickleball-tour-player.webp"
+image: "/assets/img/pro-pickleball-tour-player.jpeg"
 slug: pickleball-overtake-track-field-commercially/
 ---
 <h6>Track & field had a 2,000 year head start on pickleball, and is already well behind and falling back commercially. Money goes where it's wanted.</h6>

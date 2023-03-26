@@ -6,6 +6,7 @@ tags: athletes throwing
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/drake-university-blue-oval.jpg"
+image: "/assets/img/drake-university-blue-oval.jpg"
 slug: /blue-oval-showcase-formats-fans/
 ---
 <h6>Track & field is used to not having fans, so the Blue Oval Showcase was not too jarring to the athletes. But the sport is not used to athletes like Ryan Crouser, who shows that a track & field athlete can do more and better than one thing once.</h6>

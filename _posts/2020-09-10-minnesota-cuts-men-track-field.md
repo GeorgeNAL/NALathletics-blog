@@ -6,6 +6,7 @@ tags: ncaa finances
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/sean-donnelly-university-minnesota-hammer.jpg"
+image: "/assets/img/sean-donnelly-university-minnesota-hammer.jpg"
 slug: /minnesota-track-field-cuts-impact-results-balance-sheets/
 ---
 <h6>The University of Minnesota became the first Power 5 school to cut track & field. The move will not save much money for a school that voted against football, but will cost the sport in athletes.</h6>

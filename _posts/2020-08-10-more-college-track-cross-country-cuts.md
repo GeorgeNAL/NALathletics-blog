@@ -6,6 +6,7 @@ tags: ncaa finances
 categories: [track & field]
 author: "George"
 post_image: "/assets/img/cardozo-hs-washington-dc-track.jpg"
+image: "/assets/img/cardozo-hs-washington-dc-track.jpg"
 slug: /more-college-track-and-field-cuts/
 ---
 <h6>Our last post on coronavirus-induced track & field program cuts was starting to get a bit unwieldy, so the list continues here.</h6>

@@ -6,6 +6,7 @@ tags: athletics coaches podcast
 categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/aerial-track-curve-throws-circle.jpg"
+image: "/assets/img/aerial-track-curve-throws-circle.jpg"
 slug: /open-plea-track-field-coaches/
 ---
 <h6>Track & field rarely does the things that more successful sports do. One simple way T&F can move closer to those other sports is for people in T&F to simply respond to every e-mail.</h6>
