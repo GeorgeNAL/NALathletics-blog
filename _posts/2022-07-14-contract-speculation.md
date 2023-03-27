@@ -11,8 +11,6 @@ slug: /contract-speculation-track-field-revenue-transparency/
 ---
 <h6>Basketball has Adrian Wojnarowski. Soccer has Fabrizio Romano. Football has Adam Schefter. Track & field has no such person and, if some pro athletes and a large part of the fan base has their way, never will.</h6>
 
-<em>This article was [originally posted at About Sports](https://aboutsports.substack.com/p/contract-speculation-lucrative-business-sports).</em>
-
 The summer transfer window is the holiday season for soccer writers: if you can’t grow your audience and hit all-time highs for page views between July 1 and opening day in mid-August, it doesn’t matter what you or your team during the season. You’ve underperformed, and you’re going to have a down year. I learned this during my first summer covering Chelsea FC, and it never stopped surprising me in the subsequent four years. 
 
 The rumors and leaks about which teams will buy and sell which players for how much are the raw materials for the soccer content industry. And it is an industry. It’s big business, even if very meta: the business of the business of soccer.
@@ -52,7 +50,7 @@ The replies and quote tweets on Steiner’s tweet were overwhelmingly supportive
 
 Every athlete, celebrity or other public figure has their way of dealing with the media machine: ignore, engage, outsource, delete. If they choose to engage, the whole spread from amiability to attack – if done well - can be beneficial to their brand. I believe that an athlete can be completely absent from social media without harming their earning potential. Even in individual sports, I think social media is an independent, parallel revenue stream, not an inseparable component of their main revenue stream.
 
-But what an athlete and fans cannot do – logistically, practically and financially – is try to stop the conversations around and about them (see also, Richardson, ShaCarri). Because they are the sport. If people are not talking about the athletes, they’re not talking about the sport. If they’re not talking about the sport, the sport has no business. If the sport has no business, then we’re back to the beginning of the cycle: nobody’s talking.
+But what an athlete and fans cannot do – logistically, practically and financially – is try to stop the conversations around and about them (see also: Richardson, ShaCarri). Because they are the sport. If people are not talking about the athletes, they’re not talking about the sport. If they’re not talking about the sport, the sport has no business. If the sport has no business, then we’re back to the beginning of the cycle: nobody’s talking.
 
 ##### RELATED: [TRACK & FIELD CAN LEARN FROM TENNIS: NO MEDIA, NO MONEY](https://nalathletics.com/blog/2021/06/04/track-and-field-tennis-no-media-no-money)
 
