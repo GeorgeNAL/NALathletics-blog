@@ -2229,6 +2229,10 @@ input.main-search-input:-ms-input-placeholder {
   line-height: 1.3;
 }
 
+.post-text blockquote a {
+  color:#faff03;
+ }
+
 /*--- .post-text blockquote::before {
   content: "\f10d";
   left: 50px;
