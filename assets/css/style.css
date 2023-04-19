@@ -2209,7 +2209,7 @@ input.main-search-input:-ms-input-placeholder {
 .post-text blockquote {
   background: rgba(45, 68, 104, .8);
   padding: 20px;
-  position: center;
+  margin:auto;
   padding-left: 50px;
   color: #fefefe;
   font-family: "Brix Slab", sans-serif;
