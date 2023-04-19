@@ -2238,13 +2238,14 @@ input.main-search-input:-ms-input-placeholder {
   font-weight: 700;
   font-size: 41px;
 }
-*/
+
 
 @media (max-width: 767px) {
   .post-text blockquote::before {
     position: static;
   }
 }
+*/
 
 .post-text blockquote footer {
   font-size: 14px;
