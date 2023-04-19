@@ -2207,8 +2207,8 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .post-text blockquote {
-  background: rgba(45, 68, 104, 1);
-  padding: 50px;
+  background: rgba(45, 68, 104, .8);
+  padding: 20px;
   position: relative;
   padding-left: 120px;
   color: #fefefe;
@@ -2221,14 +2221,14 @@ input.main-search-input:-ms-input-placeholder {
   }
 }
 .post-text blockquote p {
-  font-size: 26px;
+  font-size: 16px;
   margin-bottom: 20px;
   color: #fefefe;
   font-weight: 500;
   line-height: 1.3;
 }
 
-.post-text blockquote::before {
+/*--- .post-text blockquote::before {
   content: "\f10d";
   left: 50px;
   top: 50px;
@@ -2238,6 +2238,7 @@ input.main-search-input:-ms-input-placeholder {
   font-weight: 700;
   font-size: 41px;
 }
+*/
 
 @media (max-width: 767px) {
   .post-text blockquote::before {

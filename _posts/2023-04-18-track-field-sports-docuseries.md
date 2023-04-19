@@ -15,7 +15,7 @@ Gambling, beer, head-to-head matchups, live music, food trucks… track & field 
 
 Track & field fans have noticed that nearly every sport – or at least those worth talking about - has a behind-the-scenes docuseries. So has the [Wall Street Journal’s Jason Gay](https://www.wsj.com/articles/netflix-full-swing-liv-golf-pga-tour-mcilroy-koepka-4a87745a), who asked “If Netflix isn’t filming a show about your sport, is it really a sport anymore?”
 
-Maintaining their decades-long tradition of confusing cause and effect, track & field fans are now voice-voting “DTS” – short for “Drive to Survive,” Netflix’s OG docuseries on Formula 1 – to the rank of That One Thing not only in their conviction that it would propel track & field into popularity and lucre, but that it’s no less than the sport deserves. Because, like the WSJ’s Gay, they see DTS, Sunderland Til I Die, All or Nothing, Welcome to Wrexham, Break Point and Full Swing, and ask “Well, why not us? Are we not really a sport anymore?” 
+Maintaining their decades-long tradition of confusing cause and effect, track & field fans are now voice-voting “DTS” – short for <em>Drive to Survive</em>, Netflix’s OG docuseries on Formula 1 – to the rank of That One Thing not only in their conviction that it would propel track & field into popularity and lucre, but that it’s no less than the sport deserves. Because, like the WSJ’s Gay, they see DTS, <em>Sunderland Til I Die</em>, <em>All or Nothing</em>, <em>Welcome to Wrexham</em>, <em>Break Point</em> and <em>Full Swing</em>, and ask “Well, why not us? Are we not really a sport anymore?” 
 
 Well, here’s why not.
 
@@ -37,7 +37,7 @@ The deal roughly doubled Nike’s annual backing, which had been about $10 milli
 
 With this leveling up, Nike would spend about the same amount each year on USATF that McLaren spent that same year to win each of their 27 points in the F1 standings.
 
-###### ON THE SUBJECT OF DOLLARS PER POINT: [NCAA TRACK & FIELD SPENDING AND SUCCESS: CAN WE BUY A POINT?}(https://nalathletics.com/blog/2021/01/05/ncaa-track-and-field-spending-results)
+###### ON THE SUBJECT OF DOLLARS PER POINT: [NCAA TRACK & FIELD SPENDING AND SUCCESS: CAN WE BUY A POINT?](https://nalathletics.com/blog/2021/01/05/ncaa-track-and-field-spending-results)
 
 Ten million per year looks about the going rate for major T&F federation sponsorships over the last decade. In 2019, Wanda Group bought the naming rights to IAAF’s Diamond League on a 10-year, $100MM contract.
 
@@ -47,11 +47,11 @@ Formula 1 spent the latter years of the 2010s shopping for any viewership metric
 
 By 2021, though, [Formula 1 was growing worldwide under any measure](https://www.formula1.com/en/latest/article.formula-1-announces-tv-race-attendance-and-digital-audience-figures-for-2021.1YDpVJIOHGNuok907sWcKW.html), as demonstrated not just by their numbers but the fact that they were comparing apples to apples on a year over year basis. Total [unique TV viewers were over 440 million](https://www.thedrive.com/accelerator/39933/f1-finally-embraces-streaming-looks-at-1-billion-fans-in-2022-thanks-to-netflix-and-twitch), with an average audience of 70 million per race. And not only were more people worldwide watching Formula 1 races, but more young people – the key 18-34 male demo – were watching the races and engaging with the brand on social media.
 
-Netflix premiered Drive to Survive in 2019, and there’s every reason to believe that there’s some causation to go with the correlation. But it’s also not single factor causation, especially regarding the younger audience. 
+Netflix premiered <em>Drive to Survive</em> in 2019, and there’s every reason to believe that there’s some causation to go with the correlation. But it’s also not single factor causation, especially regarding the younger audience. 
 
 In 2014, in the midst of their viewership decline, Formula 1’s long-time owner [Bernie Ecclestone did the full Krugman](http://en.espn.co.uk/f1/motorsport/story/184001.html) by dismissing the effects and future of social media in sports and content more broadly. “[T]he change that is currently taking place is very shortlived, as these social media people are starting to think it is not as good as they thought." When asked if he believed F1 needed to change its approach, and officially embrace social media like other sports have done, he said: "No. We're commercial... If they find people to pay us [to do that] then I will be happy."
 
-One of the first things [Liberty Media did after acquiring F1 and consigning Ecclestone to figurehead status](https://www.espn.com/f1/story/_/id/18787004/f1-new-owners-relax-social-media-rules) was launching an aggressive digital media strategy.  This helped stabilize F1’s attendance, viewership and engagement in 2019. Drive to Survive premiered in March 2019, so it’s possible that the DTS S1 surge in interest helped balance out any lingering decline, setting the stage for F1’s multiyear resurgence from 2020 to the present. 
+One of the first things [Liberty Media did after acquiring F1 and consigning Ecclestone to figurehead status](https://www.espn.com/f1/story/_/id/18787004/f1-new-owners-relax-social-media-rules) was launching an aggressive digital media strategy.  This helped stabilize F1’s attendance, viewership and engagement in 2019. <em>Drive to Survive</em> premiered in March 2019, so it’s possible that the DTS S1 surge in interest helped balance out any lingering decline, setting the stage for F1’s multiyear resurgence from 2020 to the present. 
 
 ### We ain’t got that history (or money)
 
@@ -65,7 +65,7 @@ To give Wrexham’s attendance some perhaps familiar context, they have done for
 
 Sunderland has a few years less history than Wrexham, but their history has more prestige, more fans and more money, giving the club – like their city and region – further to fall. 
 
-A somewhat spectral character personified the state of the club in the first seasn of Sunderland Til I Die. Sunderland bought Jack Rodwell for about $14 million in August 2014, and he was worse than a bust. By season 1 in 2017/18, he was an impossible-to-script heel in a show that wasn’t scripted at all. 
+A somewhat spectral character personified the state of the club in the first season of <em>Sunderland Til I Die</em>. Sunderland bought Jack Rodwell for about $14 million in August 2014, and he was worse than a bust. By season 1 in 2017/18, he was an impossible-to-script heel in a show that wasn’t scripted at all. 
 
 If you’re not familiar with European football (soccer) transfers, that doesn’t mean the Black Cats paid Rodwell $14 million per year or for his contract. They paid $14 million to Manchester City to bring Rodwell to play at Sunderland, then started paying him to do ever less as each season went on.
 
@@ -75,15 +75,15 @@ So, for our purposes, to once against put things in familiar context, a Premier 
 
 The origins of each show - the relationship between the backers, producers and subjects of each – reveal themselves in the stories they choose to tell and the emotions they set out to convey and evoke.
 
-Whereas Welcome to Wrexham was developed to chronicle, entertain and market to audiences Wrexham’s ambitions, Sunderland Til I Die inadvertently captured several seasons worth of tragedy and ignominy on Wearside. Definitely not what the show’s creators, lifelong Sunderland fans, had in mind when they pitched their docu-love letter to the club.
+Whereas <em>Welcome to Wrexham</em> was developed to chronicle, entertain and market to audiences Wrexham’s ambitions, <em>Sunderland Til I Die</em> inadvertently captured several seasons worth of tragedy and ignominy on Wearside. Definitely not what the show’s creators, lifelong Sunderland fans, had in mind when they pitched their docu-love letter to the club.
 
-And that’s what Sunderland Til I Die was. Lifelong fans of club who came together at the production company [Fulwell 73 – itself a Sunderland AFC reference - ](https://www.fulwell73.com/) filmed an open love letter to the club. As with all open letters, the most important audience is not the “Dear ________” addressee, but everyone else out in the open. 
+And that’s what <em>Sunderland Til I Die</em> was. Lifelong fans of club who came together at the production company [Fulwell 73 – itself a Sunderland AFC reference - ](https://www.fulwell73.com/) filmed an open love letter to the club. As with all open letters, the most important audience is not the “Dear ________” addressee, but everyone else out in the open. 
 
 Viewers gain a passable understanding of the transfer market, academies, domestic cup tournaments and managerial turnover, and a brutal education in promotion / relegation. But they get a deep appreciation of what a club like Sunderland means to a place like Sunderland, how the identity of a club and city can intertwine in innumerable and intangible ways over 150 years until they merge, and how deeply fans – a word that’s almost insulting in its shallowness when applied to Mackems – feel every shift in the club’s fate and fortune. 
 
 Over two seasons, viewers gain an understanding of a corner of the human experience far beyond the information they pick up about a team or a sport.  
 
-Drive to Survive, by contrast, set the standard for the glossy “documercial,” a term coined by the Wall Street Journal’s Jason Gay to [describe Netflix’s “Full Swing”](https://www.wsj.com/articles/netflix-full-swing-liv-golf-pga-tour-mcilroy-koepka-4a87745a): “handsome fare that offers a look inside and a dash of introspection without cutting too deeply.” “Full Swing” and “Break Point” (tennis) are joint ventures between Netflix and those sports’ respective governing bodies: the Association of Tennis Professionals and Women’s Tennis Association, and the Professional Golfers’ Association. 
+<em>Drive to Survive</em>, by contrast, set the standard for the glossy “documercial,” a term coined by the Wall Street Journal’s Jason Gay to [describe Netflix’s <em>Full Swing</em>](https://www.wsj.com/articles/netflix-full-swing-liv-golf-pga-tour-mcilroy-koepka-4a87745a): “handsome fare that offers a look inside and a dash of introspection without cutting too deeply.” <em>Full Swing</em> and <em>Break Point</em> (tennis) are joint ventures between Netflix and those sports’ respective governing bodies: the Association of Tennis Professionals and Women’s Tennis Association, and the Professional Golfers’ Association. 
 
 ### Mutatis mutandis to survive
 
@@ -95,9 +95,9 @@ He goes on to frame the pitch behind each successive show:
 
 And that brings us to the key points for proponents of “DTS, but for T&F.”
 
-Each additional show further fragments the potential market for this genre of shows. Drive to Survive and Sunderland Til I Die were able to reach large portions of the market for BTS sports docu-series because they were the only ones. Now that market has a plethora of choices, and each new show’s potential share may even be smaller as viewers have gotten their fill of the genre.
+Each additional show further fragments the potential market for this genre of shows. <em>Drive to Survive</em> and <em>Sunderland Til I Die</em> were able to reach large portions of the market for BTS sports docu-series because they were the only ones. Now that market has a plethora of choices, and each new show’s potential share may even be smaller as viewers have gotten their fill of the genre.
 
-To guarantee a minimum audience for each new show, then, each series needs to lock down fans of that sport. Instead of broadly relatable human stories and on-ramps to the sport’s traditions and practices, the new shows will start from sturdy assumptions about what the viewers already know about the sport and reinforce affinity with inside jokes, self-referential storylines and themes. Think of the second half of Season 3 of Arrested Development, after they learned they’d be cancelled: there was no point in trying to attract new fans of the show, so they doubled and tripled down on indulging their existing fans for the remainder of their run.  
+To guarantee a minimum audience for each new show, then, each series needs to lock down fans of that sport. Instead of broadly relatable human stories and on-ramps to the sport’s traditions and practices, the new shows will start from sturdy assumptions about what the viewers already know about the sport and reinforce affinity with inside jokes, self-referential storylines and themes. Think of the second half of Season 3 of <em>Arrested Development</em>, after they learned they’d be cancelled: there was no point in trying to attract new fans of the show, so they doubled and tripled down on indulging their existing fans for the remainder of their run.  
 
 They will forego bringing in new fans to the sport because survival depends on servicing the current fans of the sport. 
 
