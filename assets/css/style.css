@@ -2210,9 +2210,10 @@ input.main-search-input:-ms-input-placeholder {
   background: rgba(45, 68, 104, .8);
   padding: 20px;
   position: relative;
-  padding-left: 120px;
+  padding-left: 50px;
   color: #fefefe;
   font-family: "Brix Slab", sans-serif;
+  max-width: 600px;
 }
 
 @media (max-width: 767px) {
@@ -2221,7 +2222,7 @@ input.main-search-input:-ms-input-placeholder {
   }
 }
 .post-text blockquote p {
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 20px;
   color: #fefefe;
   font-weight: 500;
