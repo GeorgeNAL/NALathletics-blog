@@ -6,7 +6,7 @@ tags: athletics trackandfield
 categories: [sportsbiz]
 author: "George"
 post_image: "/assets/img/formula-one-red-bull.jpg"
-image: "/assets/img/formula-one-red-bull.webp"
+image: "/assets/img/formula-one-red-bull.jpg"
 slug: track-field-sports-docuseries/
 ---
 <h6>Sports docu-series are earned, not given. But even if Netflix “gave” one to track & field, the sport would not experience a Drive to Survive-like surge in popularity or revenue.</h6>
