@@ -5,7 +5,7 @@ date: 2022-09-08 09:00:00
 tags: athletics trackandfield pickleball
 categories: [sportsbiz]
 author: "George"
-post_image: "/assets/img/pro-pickleball-tour-player.webp"
+post_image: "/assets/img/pro-pickleball-tour-player.jpeg"
 image: "/assets/img/pro-pickleball-tour-player.jpeg"
 slug: pickleball-overtake-track-field-commercially/
 ---
