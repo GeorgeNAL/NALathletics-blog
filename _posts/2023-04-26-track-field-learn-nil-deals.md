@@ -65,6 +65,7 @@ The two sides are fighting for the same premise: the primacy of logo placement.
 <li><h5>Power Sponsorship: <a href = "https://powersponsorship.com/should-sports-uniforms-carry-sponsor-logos/">Should Sports Uniforms Carry Sponsor Logos?</a></h5></li>
 <li><h5>The Sponsorship Collective: <a href="https://sponsorshipcollective.com/why-nobody-cares-about-logo-placement-in-sponsorship/">Why Nobody Cares about Logo Placement in Sponsorship</a></h5></li>
 <li><h5>Book: <a href="https://www.amazon.com/dp/0071825797?tag=powersponsors-20&linkCode=ogi&th=1&psc=1">The Sponsorship Seeker's Toolkit, Fourth Edition</a></h5></li>
+</ul>
 <hr/>
 
 So how would they explain NIL deals?
