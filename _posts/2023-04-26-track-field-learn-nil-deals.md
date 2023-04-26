@@ -9,7 +9,7 @@ post_image: "/assets/img/ncaa-womens-basketball.jpg"
 image: "/assets/img/ncaa-womens-basketball.jpg"
 slug: track-field-learn-nil-deals-logos/
 ---
-<h6>Name, Image and Likeness deals are approaching $1 billion nationwide, without a single athlete doing the one thing track & field thinks is most important sponsorship benefit: logo placement.</h6>
+<h6>Name, Image and Likeness deals are approaching $1 billion nationwide, without a single athlete doing the one thing track & field thinks is the most important sponsorship benefit: logo placement.</h6>
 
 Name, Image and Likeness deals opened the doors for NCAA athletes to the world of sponsorships, ad campaigns, influencering (distinct from “influencing”), the merch market and patronage pseudo-salaries.
 
@@ -64,8 +64,8 @@ The two sides are fighting for the same premise: the primacy of logo placement.
 <span style="text-align:center">
 <ul>
 <li><h5><a href = "https://powersponsorship.com/should-sports-uniforms-carry-sponsor-logos/">Power Sponsorship: Should Sports Uniforms Carry Sponsor Logos?</a></h5></li>
-<span style="text-align:center"><li><h5><a href="https://sponsorshipcollective.com/why-nobody-cares-about-logo-placement-in-sponsorship/">The Sponsorship Collective: [Why Nobody Cares about Logo Placement in Sponsorship</h5></li>
-<span style="text-align:center"><li><h5><a href="https://www.amazon.com/dp/0071825797?tag=powersponsors-20&linkCode=ogi&th=1&psc=1">Book: The Sponsorship Seeker's Toolkit, Fourth Edition</h5></li>
+<span style="text-align:center"><li><h5><a href="https://sponsorshipcollective.com/why-nobody-cares-about-logo-placement-in-sponsorship/">The Sponsorship Collective: Why Nobody Cares about Logo Placement in Sponsorship</a></h5></li>
+<span style="text-align:center"><li><h5><a href="https://www.amazon.com/dp/0071825797?tag=powersponsors-20&linkCode=ogi&th=1&psc=1">Book: The Sponsorship Seeker's Toolkit, Fourth Edition</a></h5></li>
 </ul>
 </span>
 <hr/>
