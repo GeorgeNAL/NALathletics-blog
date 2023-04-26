@@ -60,7 +60,7 @@ Look at any meet or event director’s sponsor pitch deck, and not only will you
 The two sides are fighting for the same premise: the primacy of logo placement.
 
 <hr/>
-<h4>EXPERT PERSPECTIVES ON SPONSORSHIP AND LOGOS</span></h4>
+<h4>EXPERT PERSPECTIVES ON SPONSORSHIP AND LOGOS</h4>
 <span style="margin:auto;">
 <ul>
 <li><h5>Power Sponsorship: <a href = "https://powersponsorship.com/should-sports-uniforms-carry-sponsor-logos/">Should Sports Uniforms Carry Sponsor Logos?</a></h5></li>
