@@ -60,7 +60,7 @@ The two sides are fighting for the same premise: the primacy of logo placement.
 <hr/>
 ##### READ UP ON SPONSORSHIP AND LOGOS
 <ul>
-<span style="text-align:center"><li><h5>Power Sponsorship: [Should Sports Uniforms Carry Sponsor Logos?](https://powersponsorship.com/should-sports-uniforms-carry-sponsor-logos/)</h5></li></span>
+<span style="text-align:center"><li><h5><a href = "https://powersponsorship.com/should-sports-uniforms-carry-sponsor-logos/">Power Sponsorship: Should Sports Uniforms Carry Sponsor Logos?</a></h5></li></span>
 <span style="text-align:center"><li><h5>The Sponsorship Collective: [Why Nobody Cares about Logo Placement in Sponsorship](https://sponsorshipcollective.com/why-nobody-cares-about-logo-placement-in-sponsorship/)</h5></li></span>
 <span style="text-align:center"><li><h5>Book: [The Sponsorship Seeker's Toolkit, Fourth Edition](https://www.amazon.com/dp/0071825797?tag=powersponsors-20&linkCode=ogi&th=1&psc=1)</h5></li></span>
 </ul>
