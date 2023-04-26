@@ -19,8 +19,6 @@ The IOC sometimes goes towards the extreme in enforcing Rule 40, barring use of 
 
 None of this should matter. First, companies enter relationships with Olympic hopefuls or qualified athletes knowing these rules. If they base their marketing or advertising campaign on the period of the Games themselves, well, that’s on them for poor planning. 
 
-##### [DOWNLOAD THIS EPISODE AND SUBSCRIBE TO THE LANE9 PODCAST](https://podcasts.apple.com/us/podcast/lane9-track-field-money/id1198173010)
-
 For companies and athletes that have a relationship that spans more than the Olympic period - such as a shoe company that sponsors an athlete for several years - the Games themselves are a small fraction of the potential [opportunities the company has to activate around the sponsorship](https://nalathletics.com/blog/2021/03/10/what-do-track-field-sponsors-expect-return). It’s hard to feel sorry for the company if they do not all that much with their athletes for 204 weeks of the quadrennium and then wind up a sob story about those four other weeks. 
 
 Yes, those are four very big weeks. But they are not the only weeks, not athletically, not commercially.
@@ -42,7 +40,5 @@ Whether an athlete thanks a brand before, during or after an event, they are not
 Rule 40 should be an annoyance. If there’s anything worth getting upset at the IOC about, it’s their [tap-dancing justification](https://www.teamusa.org/rule40) for the rule. They should just forthrightly say that they are protecting their sponsors’ investment, like every other sports property. 
 
 Such rules are no more than annoyances for most brands and sponsored sports properties. The difference between those in other sports and those in track & field is that the former activate year-round and across multiple channels to create value for both parties (and, in the best cases, the fans). The latter are trying to squeeze in a bit of gratitude, another reminder of the real nature of these relationships and the cultural challenges this sport still faces.
-
-<iframe src="https://widget.spreaker.com/player?episode_id=45696015&theme=light&playlist=false&playlist-continuous=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F5bcd7e7eec089693e493266f7bb9e27b.jpg" width="100%" height="200px" frameborder="0"></iframe>
 
 <em>Photo credit: sportsflair2000 / [Flickr](https://flic.kr/p/cPH219), under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).</em>
