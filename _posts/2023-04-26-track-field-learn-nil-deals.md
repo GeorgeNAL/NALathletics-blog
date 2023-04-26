@@ -37,6 +37,8 @@ That might be the least surprising thing you’ll read all day. What team or lea
 
 But it does mean that there’s one thing in the standard sponsorship inventory that is off the table for all NIL deals: logo placement. Not even digitally through Photoshop or filters.
 
+##### MIGHT NIL GET A DOCU-SERIES BEFORE T&F? [T&F CHASES THEIR LATEST SHORTCUT: THE NETFLIX SHOW](https://nalathletics.com/blog/2023/04/19/track-field-sports-docuseries)
+
 This is where people in track & field / road running are going to need to pause, read those last few sentences again and maybe go for a long walk with a bag of mushrooms to clear their heads. Because what we hear from every player in the TF/RR space is that logos are the linchpin and greatest source of value to a sponsor and, consequently, to the athlete. 
 
 ### London’s logo Luco-lunacy
@@ -86,7 +88,7 @@ Most athletes sign their NIL deals individually, especially the ones that aim fo
 
 That makes the NIL world a fully representative, nicely delimited experimental population to see what is possible for athletes’ commercial income without the interfering effects and mindless banter of logo placements. The NIL marketplace lets us weigh and control for all sorts of factors like the advantages the school, sport and even family name give the athlete. We can parse what separates the Cavinders, Lees and Coles from the rest, and get some insights into what an athlete can do to make 3-4 figures and what they must do if they hope to make six. 
 
-We know what they are not doing: putting logos on their jerseys, and huffing about the rules against putting logos on their jerseys. And they’re not doing those things to the tune of 5-7 figures individually, leading the way to the nearly 3 commas worth of athlete income nationwide.
+We know what they are not doing: putting logos on their jerseys, nor huffing about the rules against putting logos on their jerseys. And they’re not doing those things to the tune of 5-7 figures individually, leading the way to the nearly [3 commas worth of athlete income](https://www.youtube.com/watch?v=xzMUrB-Um1Y) nationwide.
  
 Figuring out what to do might be graduate level for track & field. It’ll be a victory and a major step forward for the sport simply to see that taking logos off the table is no impediment to the kind of money track & field wants but does little to earn. 
 
