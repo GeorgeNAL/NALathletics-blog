@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What track & field can learn from NIL deals"
-date: 2023-04-19 11:00:00
+date: 2023-04-26 12:00:00
 tags: athletics trackandfield
 categories: [sportsbiz]
 author: "George"
@@ -9,6 +9,8 @@ post_image: "/assets/img/ncaa-womens-basketball.jpg"
 image: "/assets/img/ncaa-womens-basketball.jpg"
 slug: track-field-learn-nil-deals-logos/
 ---
+<h6>Name, Image and Likeness deals are approaching $1 billion nationwide, without a single athlete doing the one thing track & field thinks is most important sponsorship benefit: logo placement.</h6>
+
 Name, Image and Likeness deals opened the doors for NCAA athletes to the world of sponsorships, ad campaigns, influencering (distinct from “influencing”), the merch market and patronage pseudo-salaries.
 
 Looking at it from the other side, NIL deals exponentiate the potential sponsees, endorsers, ambassadors and content creators available to brands and companies. Whether a brand is undertaking a hyper-focussed micro-campaign or looking for the broadest possible exposure across a key demographic, this new pool of sponsorable inventory – college athletes – increases the brand’s opportunities to amplify their message through the right person and the optimal channels to achieve the brand’s objectives.
@@ -58,12 +60,14 @@ Look at any meet or event director’s sponsor pitch deck, and not only will you
 The two sides are fighting for the same premise: the primacy of logo placement.
 
 <hr/>
-##### READ UP ON SPONSORSHIP AND LOGOS
+<h5><span style="color:#265ec3">EXPERT PERSPECTIVES ON SPONSORSHIP AND LOGOS</span></h5>
+<span style="text-align:center">
 <ul>
-<span style="text-align:center"><li><h5><a href = "https://powersponsorship.com/should-sports-uniforms-carry-sponsor-logos/">Power Sponsorship: Should Sports Uniforms Carry Sponsor Logos?</a></h5></li></span>
-<span style="text-align:center"><li><h5>The Sponsorship Collective: [Why Nobody Cares about Logo Placement in Sponsorship](https://sponsorshipcollective.com/why-nobody-cares-about-logo-placement-in-sponsorship/)</h5></li></span>
-<span style="text-align:center"><li><h5>Book: [The Sponsorship Seeker's Toolkit, Fourth Edition](https://www.amazon.com/dp/0071825797?tag=powersponsors-20&linkCode=ogi&th=1&psc=1)</h5></li></span>
+<li><h5><a href = "https://powersponsorship.com/should-sports-uniforms-carry-sponsor-logos/">Power Sponsorship: Should Sports Uniforms Carry Sponsor Logos?</a></h5></li>
+<span style="text-align:center"><li><h5><a href="https://sponsorshipcollective.com/why-nobody-cares-about-logo-placement-in-sponsorship/">The Sponsorship Collective: [Why Nobody Cares about Logo Placement in Sponsorship</h5></li>
+<span style="text-align:center"><li><h5><a href="https://www.amazon.com/dp/0071825797?tag=powersponsors-20&linkCode=ogi&th=1&psc=1">Book: The Sponsorship Seeker's Toolkit, Fourth Edition</h5></li>
 </ul>
+</span>
 <hr/>
 
 So how would they explain NIL deals?
