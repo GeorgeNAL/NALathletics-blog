@@ -87,7 +87,7 @@ The top two NYRR non-binary money winners took home $11,900 and $6,500 in 2022, 
 
 <ul>
   <li>$11,000: 2022 Diamond League pre-tax income for Olympic shot putter Jacko Gill (NZ)</li>
-  <li>$8,000: [2022 Diamond League winnings](https://nalathletics.com/blog/2022/10/03/diamond-league-earnings-table) for two-time World Championships competitor, NACAC gold medalist and 2019 NCAA discus champion, Laulauga Tausaga (USA)</li>
+  <li>$8,000: 2022 Diamond League winnings for two-time World Championships competitor, NACAC gold medalist and 2019 NCAA discus champion, Laulauga Tausaga (USA)</li>
   <li>$13,500: 2022 Diamond League haul for Matthew Hudson-Smith, three-time World Championships competitor, 2016 Olympian and the most decorated British athlete in European Championships history</li>
   <li>$750: average salary per game for a 20-game season ($15,000 total), Premier Hockey Federation, top women’s ice hockey league</li>
   <li>$1,590: average salary per game for a 22-game season in the National Women’s Soccer League, top women’s soccer league</li>
